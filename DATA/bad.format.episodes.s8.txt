@@ -7,66 +7,199 @@
 For the first challenge, the bakers were instructed to make a cake using fresh fruit, with no dried fruit permitted, in two hours. For the technical challenge, the bakers were instructed to make 12 chocolate [[Swiss roll|mini rolls]] using Prue's recipe which contains [[peppermint]] cream, in two hours. The showstopper challenge required the bakers to make an illusion cake: a cake that appears to be some other object. They had four hours to complete the task.
 
 {| class="wikitable" style="text-align:center;"
+|-
 ! Baker
 ! Signature<br /><small>(Fruity Cake)</small>
 ! Technical<br /><small>(12 Chocolate [[Swiss roll|Mini Rolls]])</small>
 ! Showstopper<br /><small>(Illusion Cake)</small>
-|- ||- 
-|- 
-|   Chris || align="left"| Tropical Fresh Fruit Cake || 12th || align="left"| 'Raised Pork Pie and Egg Surprise' Cake ||- 
-|   Flo || align="left"| Citrus Layer Cake || 9th || align="left"| 'One in a Melon' Cake ||- 
-|   James || align="left"| Orange, Rhubarb & Ginger Crumble Cake || 2nd || align="left"| 'Mock-accino and Croissant' Cake ||- 
-|   Julia || align="left"| [[Courgette]] and Lemon Cake || 3rd || align="left"| '[[Matryoshka doll|Russian Doll]]' Cake ||- 
-|   Kate || align="left"| Moroccan Strawberry and Rose Cake || 1st || align="left"| 'Chocolate [[Terrarium]]' Cake ||- 
-|   Liam || align="left"| Apple and Almond Crumble Maple Loaf || 8th || align="left"| 'Stackin' Sunday' Cake ||- style="background:pink;" 
-|   Peter || align="left"| Coconut Cake || 10th || align="left"| 'Bread on a Breadboard' Cake ||- 
-|   Sophie || align="left"| Pineapple and Coconut Sandwich Cake || 5th || align="left"| 'Champagne Bottle and Bucket' Cake ||- 
-|   Stacey || align="left"| Granny Smith Apple and Walnut Cake || 11th || align="left"| 'Black Evening Clutch Bag' Cake ||- style="background:#d0f0c0;" 
-|   Steven || align="left"| [[Bonfire Night]] Cake || 6th || align="left"| 'A Baker's Lunch' Cake ||- 
-|   Tom || align="left"| Gilded Pear and Cardamom Cake || 7th || align="left"| 'Stack of Books' Cake ||- 
-|   Yan || align="left"| Windfall [[Crumble|Apple Crumble]] Cake || 4th || align="left"| 'Banana-[[ramen]]' Cake ||} 
+|-
+|-
+| align="left"| Chris
+| align="left"| Tropical Fresh Fruit Cake
+| 12th
+| align="left"| 'Raised Pork Pie and Egg Surprise' Cake
+|-
+| align="left"| Flo
+| align="left"| Citrus Layer Cake
+| 9th
+| align="left"| 'One in a Melon' Cake
+|-
+| align="left"| James
+| align="left"| Orange, Rhubarb & Ginger Crumble Cake
+| 2nd
+| align="left"| 'Mock-accino and Croissant' Cake
+|-
+| align="left"| Julia
+| align="left"| [[Courgette]] and Lemon Cake
+| 3rd
+| align="left"| '[[Matryoshka doll|Russian Doll]]' Cake
+|-
+| align="left"| Kate
+| align="left"| Moroccan Strawberry and Rose Cake
+| 1st
+| align="left"| 'Chocolate [[Terrarium]]' Cake
+|-
+| align="left"| Liam
+| align="left"| Apple and Almond Crumble Maple Loaf
+| 8th
+| align="left"| 'Stackin' Sunday' Cake
+|- style="background:pink;"
+| align="left"| Peter
+| align="left"| Coconut Cake
+| 10th
+| align="left"| 'Bread on a Breadboard' Cake
+|-
+| align="left"| Sophie
+| align="left"| Pineapple and Coconut Sandwich Cake
+| 5th
+| align="left"| 'Champagne Bottle and Bucket' Cake
+|-
+| align="left"| Stacey
+| align="left"| Granny Smith Apple and Walnut Cake
+| 11th
+| align="left"| 'Black Evening Clutch Bag' Cake
+|- style="background:#d0f0c0;"
+| align="left"| Steven
+| align="left"| [[Bonfire Night]] Cake
+| 6th
+| align="left"| 'A Baker's Lunch' Cake
+|-
+| align="left"| Tom
+| align="left"| Gilded Pear and Cardamom Cake
+| 7th
+| align="left"| 'Stack of Books' Cake
+|-
+| align="left"| Yan
+| align="left"| Windfall [[Crumble|Apple Crumble]] Cake
+| 4th
+| align="left"| 'Banana-[[ramen]]' Cake
+|}
 
 === Episode 2: Biscuits ===
 For the Signature Challenge, the bakers were instructed to make 24 [[sandwich cookie|sandwich biscuits]] in 2 hours and 15 minutes. For the technical challenge, the bakers faced a very difficult challenge of making [[fortune cookie]]s of two types of flavours – one is almond and one is orange, in 2 hours. For the final showstopper challenge, the bakers were required to make a biscuit [[board game]] that should be at least 40&nbsp;cm long in diameter and has at least 8 elements in 3 ½ hours.<ref>{{citeweb|url= https://www.theguardian.com/tv-and-radio/live/2017/sep/05/the-great-british-bake-off-2017-episode-two-live|title= The Great British Bake Off 2017, episode two – as it happened|date=5 September 2017|work=Guardian|accessdate=6 September 2017}}</ref>	
 {| class="wikitable" style="text-align:center;"
-|- 
+|-
 ! Baker
 !Signature<br /><small>(24 [[sandwich cookie|Sandwich Biscuits]])</small>
 ! Technical<br /><small>(12 [[fortune cookie|Fortune Cookie]]s)</small>
 ! Showstopper<br /><small>(Biscuit Board Games)</small>
-|- 
-|-bgcolor=pink  
-|   Chris || align="left"| Chocolate [[Chia seed|Chia Seed]] Biscuits with Whisky Caramel Filling || 11th || align="left"| 'The Great British Sail Off' Game ||- 
-|   Flo || align="left"| Gin Jam Butties || 10th || align="left"| '[[Operation (game)|Pick My Bones]]' Game ||- 
-|   James || align="left"| Rhubarb and Custard Whirls || 3rd || align="left"| '[[Coppit]]' Game ||- 
-|   Julia || align="left"| Middle Eastern Delight Sandwich Biscuits || 4th || align="left"| 'A British Baking' Game ||- 
-|   Kate || align="left"| Coconut Seashells for a Titanic Afternoon Tea || 8th || align="left"| '[[Jumanji|Jungle]]' Game ||- 
-|   Liam || align="left"| Coffee [[Malt]]ed Pecan Shorties || 7th || align="left"| 'Classroom Classics' Game ||- 
-|   Sophie || align="left"| Lemon [[limoncello|Limoncino]] Sandwich Biscuits || 2nd || align="left"| '[[Snakes and Ladders]]' Game ||- 
-|   Stacey || align="left"| Sparkly Chocolate and Marshmallow Fluff Cookies || 9th || align="left"| 'Get to School' Game ||- style="background:#d0f0c0;" 
-|   Steven || align="left"| Amarpressi Biscuits || 6th || align="left"| '[[Chess|Check Bake]]' Game ||- 
-|   Tom || align="left"| Coffee and Amaretto Kisses || 5th || align="left"| '[[Snakes and ladders|Drain Pipes and Ladders]]' Game ||- 
-|   Yan || align="left"| 'Mrs. Marian's PB 'n' B' Biscuits || 1st || align="left"| 'Adventures in Bakeland' Game ||} 
+|-
+|-bgcolor=pink 
+| align="left"| Chris
+| align="left"| Chocolate [[Chia seed|Chia Seed]] Biscuits with Whisky Caramel Filling
+| 11th
+| align="left"| 'The Great British Sail Off' Game
+|-
+| align="left"| Flo
+| align="left"| Gin Jam Butties
+| 10th
+| align="left"| '[[Operation (game)|Pick My Bones]]' Game
+|-
+| align="left"| James
+| align="left"| Rhubarb and Custard Whirls
+| 3rd
+| align="left"| '[[Coppit]]' Game
+|-
+| align="left"| Julia
+| align="left"| Middle Eastern Delight Sandwich Biscuits
+| 4th
+| align="left"| 'A British Baking' Game
+|-
+| align="left"| Kate
+| align="left"| Coconut Seashells for a Titanic Afternoon Tea
+| 8th
+| align="left"| '[[Jumanji|Jungle]]' Game
+|-
+| align="left"| Liam
+| align="left"| Coffee [[Malt]]ed Pecan Shorties
+| 7th
+| align="left"| 'Classroom Classics' Game
+|-
+| align="left"| Sophie
+| align="left"| Lemon [[limoncello|Limoncino]] Sandwich Biscuits
+| 2nd
+| align="left"| '[[Snakes and Ladders]]' Game
+|-
+| align="left"| Stacey
+| align="left"| Sparkly Chocolate and Marshmallow Fluff Cookies
+| 9th
+| align="left"| 'Get to School' Game
+|- style="background:#d0f0c0;"
+| align="left"| Steven
+| align="left"| Amarpressi Biscuits
+| 6th
+| align="left"| '[[Chess|Check Bake]]' Game
+|-
+| align="left"| Tom
+| align="left"| Coffee and Amaretto Kisses
+| 5th
+| align="left"| '[[Snakes and ladders|Drain Pipes and Ladders]]' Game
+|-
+| align="left"| Yan
+| align="left"| 'Mrs. Marian's PB 'n' B' Biscuits
+| 1st
+| align="left"| 'Adventures in Bakeland' Game
+|}
 
 === Episode 3: Bread ===
 The bakers were instructed to make 12 [[teacake]]s in {{frac|2|3|4}} hours in the signature challenge. For the technical challenge, the bakers were tasked to make a [[cottage loaf]] in 2½ hours. For the showstopper challenge, the bakers were required to make a multicoloured bread sculpture with at least three colours using natural [[food colouring]] in {{frac|4|1|2}} hours.<ref>{{citeweb|url=https://www.theguardian.com/tv-and-radio/live/2017/sep/12/the-great-british-bake-off-2017-episode-three-live|title=The Great British Bake Off 2017, episode three – as it happened|date=12 September 2017|work=Guardian|accessdate=26 September 2017}}</ref>	
 {| class="wikitable" style="text-align:center;"
-|- 
+|-
 ! Baker
 !Signature<br /><small>(12 [[Teacake]]s)</small>
 ! Technical<br /><small>([[Cottage loaf|Cottage Loaf]])</small>
 ! Showstopper<br /><small>(Multicoloured Bread Sculpture)</small>
-|-bgcolor=pink  
-|   Flo || align="left"| Cinnamon and Orange Teacakes || 7th || align="left"| '[[Davy Jones' Locker]]' Bread Sculpture  ||- 
-|   James || align="left"| Nordic Teacakes || 9th || align="left"| 'Owl in the Woods' Bread Sculpture  ||- style="background:#d0f0c0;" 
-|   Julia || align="left"| [[Earl Grey]] Dried Fruit Teacakes || 2nd || align="left"|'The Snail Under a Mushroom' Bread Sculpture  ||- 
-|   Kate || align="left"| Blueberry Buns || 10th || align="left"| '[[Kraken]]' Bread Sculpture  ||- 
-|   Liam || align="left"| Jamaican Spiced Teacakes || 5th || align="left"| '[[Neapolitan ice cream|Kneadapolitan]]' Bread Sculpture  ||- 
-|   Sophie || align="left"| [[Tagine]] Teacakes || 6th || align="left"| 'Picnic Basket' Bread Sculpture  ||- 
-|   Stacey || align="left"| Cranberry and Cinnamon Teacakes || 1st || align="left"| '[[Royal Ascot|Ascot]] Hat' Bread Sculpture ||-  
-|   Steven || align="left"| Madras Cocktail Teacakes || 3rd || align="left"| 'The Bag I Knead' Bread Sculpture  ||- 
-|   Tom || align="left"| Orange and Cranberry Teacakes || 4th || align="left"| 'Pink & Yellow Rose Centrepiece' Bread Sculpture  ||- 
-|   Yan || align="left"| 'Mrs P's' [[Masala Chai]] Spiced Teacakes || 8th || align="left"| 'Basil the Vegetarian Dragon with his Pumpkin Hoard' Bread Sculpture  ||} 
+|-bgcolor=pink 
+| align="left"| Flo
+| align="left"| Cinnamon and Orange Teacakes
+| 7th
+| align="left"| '[[Davy Jones' Locker]]' Bread Sculpture 
+|-
+| align="left"| James
+| align="left"| Nordic Teacakes
+| 9th
+| align="left"| 'Owl in the Woods' Bread Sculpture 
+|- style="background:#d0f0c0;"
+| align="left"| Julia
+| align="left"| [[Earl Grey]] Dried Fruit Teacakes
+| 2nd
+| align="left"|'The Snail Under a Mushroom' Bread Sculpture 
+|-
+| align="left"| Kate
+| align="left"| Blueberry Buns
+| 10th
+| align="left"| '[[Kraken]]' Bread Sculpture 
+|-
+| align="left"| Liam
+| align="left"| Jamaican Spiced Teacakes
+| 5th
+| align="left"| '[[Neapolitan ice cream|Kneadapolitan]]' Bread Sculpture 
+|-
+| align="left"| Sophie
+| align="left"| [[Tagine]] Teacakes
+| 6th
+| align="left"| 'Picnic Basket' Bread Sculpture 
+|-
+| align="left"| Stacey
+| align="left"| Cranberry and Cinnamon Teacakes
+| 1st
+| align="left"| '[[Royal Ascot|Ascot]] Hat' Bread Sculpture
+|- 
+| align="left"| Steven
+| align="left"| Madras Cocktail Teacakes
+| 3rd
+| align="left"| 'The Bag I Knead' Bread Sculpture 
+|-
+| align="left"| Tom
+| align="left"| Orange and Cranberry Teacakes
+| 4th
+| align="left"| 'Pink & Yellow Rose Centrepiece' Bread Sculpture 
+|-
+| align="left"| Yan
+| align="left"| 'Mrs P's' [[Masala Chai]] Spiced Teacakes
+| 8th
+| align="left"| 'Basil the Vegetarian Dragon with his Pumpkin Hoard' Bread Sculpture 
+|}
 
 ===Episode 4: Caramel===
 For the first signature challenge, the bakers were required to produce 18 identical [[caramel shortbread|millionaire shortbread]] bars in 2 hours and 15 minutes. The technical challenge was set by Prue where the bakers were tasked to make [[stroopwafel]]s in 1 hour and 45 minutes. Only one test waffle was allowed, and the challenge proved to be a very difficult one for the bakers with none of them producing an adequate [[caramel]]. For the final showstopper challenge, the bakers were required to make a caramel cake consisting of at least three layers of [[sponge cake|sponge]] in 3 ½ hours. They were required to incorporate [[spun sugar]] into their decorations.<ref>{{citeweb|url=https://www.theguardian.com/tv-and-radio/live/2017/sep/19/the-great-british-bake-off-2017-episode-four-live|title=The Great British Bake Off 2017, episode four – as it happened|date=19 September 2017|work=Guardian|accessdate=26 September 2017}}</ref>	
@@ -75,16 +208,52 @@ For the first signature challenge, the bakers were required to produce 18 identi
 !Signature<br /><small>(18 [[Caramel shortbread|Millionaire Shortbreads]])</small>
 !Technical<br /><small>(12 [[Stroopwafel]]s)</small>
 !Showstopper<br /><small>([[Caramel]] Cake)</small>
-|- 
-|James ||'Windy City' Millionaire Shortbreads ||   2nd ||Nutty Caramel Cake ||- 
-|Julia ||Pecan Salted Caramel Millionaire Shortbreads ||   9th ||[[Poppy seed|Poppy Seed]] Caramel Cake ||-style="background:#d0f0c0;" 
-|Kate ||Salted [[Bay leaf|Bay]] Caramel Millionaire Shortbreads ||   6th ||[[Sticky toffee pudding|Sticky Toffee]] Apple Caramel Cake ||- 
-|Liam ||Salted Peanut Butter Millionaire Shortbreads ||   3rd ||White Layered Ginger Caramel Cake ||- 
-|Sophie ||[[Jaffa Cakes|Jaffa]] Millionaire Shortbreads ||   4th ||Bird's Nest Caramel Cake ||- 
-|Stacey ||Rum Salted Caramel Millionaire Shortbreads ||   1st ||Chocolate and Coffee Caramel Cake ||- 
-|Steven ||Orange [[Macadamia]] Nut Millionaire Shortbreads ||   7th ||Caramel Crown Cake ||-bgcolor=pink  
-|Tom ||Stem Ginger Caramel Shortbreads ||   5th ||[[Hummingbird]] Cake ||- 
-|Yan ||'Lil' Red's Ginger and Nuts' Millionaire Shortbreads ||   8th ||Animals of the Rainforest Caramel Cake ||} 
+|-
+|James
+|'Windy City' Millionaire Shortbreads
+| align="center"| 2nd
+|Nutty Caramel Cake
+|-
+|Julia
+|Pecan Salted Caramel Millionaire Shortbreads
+| align="center"| 9th
+|[[Poppy seed|Poppy Seed]] Caramel Cake
+|-style="background:#d0f0c0;"
+|Kate
+|Salted [[Bay leaf|Bay]] Caramel Millionaire Shortbreads
+| align="center"| 6th
+|[[Sticky toffee pudding|Sticky Toffee]] Apple Caramel Cake
+|-
+|Liam
+|Salted Peanut Butter Millionaire Shortbreads
+| align="center"| 3rd
+|White Layered Ginger Caramel Cake
+|-
+|Sophie
+|[[Jaffa Cakes|Jaffa]] Millionaire Shortbreads
+| align="center"| 4th
+|Bird's Nest Caramel Cake
+|-
+|Stacey
+|Rum Salted Caramel Millionaire Shortbreads
+| align="center"| 1st
+|Chocolate and Coffee Caramel Cake
+|-
+|Steven
+|Orange [[Macadamia]] Nut Millionaire Shortbreads
+| align="center"| 7th
+|Caramel Crown Cake
+|-bgcolor=pink 
+|Tom
+|Stem Ginger Caramel Shortbreads
+| align="center"| 5th
+|[[Hummingbird]] Cake
+|-
+|Yan
+|'Lil' Red's Ginger and Nuts' Millionaire Shortbreads
+| align="center"| 8th
+|Animals of the Rainforest Caramel Cake
+|}
 
 === Episode 5: Puddings ===
 For the signature challenge, the eight remaining bakers were required to bake a steamed [[school pudding]] with an accompaniment such as a [[compote]] or a [[custard]] in 3 hours. The technical challenge was set by Paul, which was 6 [[Molten chocolate cake|molten chocolate]] puddings with a [[peanut butter]] filling in 1 hour. Each baker was called one at a time so their puddings could be ready at different times for Paul and Prue to judge (starting with Julia, followed by Sophie, Liam, Steven, Yan, Kate, James and finally Stacey). For the showstopper challenge, the bakers were asked to bake an ornamental [[trifle]] [[terrine (food)|terrine]] with three elements – a baked element, a set [[custard]] or [[mousse]], and a [[Gelatin dessert|jelly]], in 4 ½ hours .<ref>{{citeweb|url=https://www.theguardian.com/tv-and-radio/live/2017/sep/26/the-great-british-bake-off-2017-episode-five-live|title=The Great British Bake Off 2017, episode five – as it happened|date=26 September 2017|work=Guardian|accessdate=29 September 2017}}</ref>	
@@ -94,15 +263,47 @@ For the signature challenge, the eight remaining bakers were required to bake a 
 !Signature<br/><small>(Steamed School Pudding)</small>
 !Technical<br/><small>(6 [[Molten chocolate cake|Molten Chocolate]] Puddings)</small>
 !Showstopper<br/><small>(Ornamental [[Trifle]] [[terrine (food)|Terrine]])</small>
-|-bgcolor=pink  
-|James ||Orange and Ginger Steamed School Pudding ||   7th ||'The Missed Silver Jubilee' Trifle Terrine ||- 
-|Julia ||Orange & [[Treacle]] Steamed School Pudding ||   3rd ||'Opulent Ornament' Trifle Terrine ||- 
-|Kate ||'Mr Darcy's Steamy Lake Scene' Steamed School Pudding ||   8th ||'My Great Great Nan's' Raspberry Trifle Terrine ||- 
-|Liam ||Cherries & Lemons that are '[[Bakewell tart|Baked Well]]' ||   2nd ||'Cheers Lads' Trifle Terrine ||-style="background:#d0f0c0;" 
-|Sophie ||Ginger, Fig and Honey Steamed School Pudding ||   1st ||Raspberry, [[Citrus junos|Yuzu]] & White Chocolate Bûche Trifle Terrine ||- 
-|Stacey ||[[Bakewell tart|Bakewell Tart]] Steamed School Pudding ||   4th ||Tropical Trifle Terrine ||- 
-|Steven ||Lemon & [[Blackcurrant]] Drizzle Steamed School Pudding ||   5th ||'From Across the Jelly Pond' Trifle Terrine ||- 
-|Yan || Mango Fruit Hat Steamed School Pudding ||   6th ||'Heart of a Hero' Trifle Terrine ||} 
+|-bgcolor=pink 
+|James
+|Orange and Ginger Steamed School Pudding
+| align="center"| 7th
+|'The Missed Silver Jubilee' Trifle Terrine
+|-
+|Julia
+|Orange & [[Treacle]] Steamed School Pudding
+| align="center"| 3rd
+|'Opulent Ornament' Trifle Terrine
+|-
+|Kate
+|'Mr Darcy's Steamy Lake Scene' Steamed School Pudding
+| align="center"| 8th
+|'My Great Great Nan's' Raspberry Trifle Terrine
+|-
+|Liam
+|Cherries & Lemons that are '[[Bakewell tart|Baked Well]]'
+| align="center"| 2nd
+|'Cheers Lads' Trifle Terrine
+|-style="background:#d0f0c0;"
+|Sophie
+|Ginger, Fig and Honey Steamed School Pudding
+| align="center"| 1st
+|Raspberry, [[Citrus junos|Yuzu]] & White Chocolate Bûche Trifle Terrine
+|-
+|Stacey
+|[[Bakewell tart|Bakewell Tart]] Steamed School Pudding
+| align="center"| 4th
+|Tropical Trifle Terrine
+|-
+|Steven
+|Lemon & [[Blackcurrant]] Drizzle Steamed School Pudding
+| align="center"| 5th
+|'From Across the Jelly Pond' Trifle Terrine
+|-
+|Yan
+| Mango Fruit Hat Steamed School Pudding
+| align="center"| 6th
+|'Heart of a Hero' Trifle Terrine
+|}
 
 === Episode 6: Pastry ===
 In the signature challenge, the bakers were required to produce four decorative savoury pies using [[shortcrust pastry]] with different designs on the pies that share a common theme in 2½ hours. For the technical challenge, set by Paul, the bakers were tasked to produce 12 [[Pastel de nata|pastéis de nata]] using [[flaky pastry|rough puff]] pastry in 2 hours. For the final showstopper challenge, the bakers were required to produce a family-sized hand-raised pie with a savoury filling using [[hot water crust pastry]], topped with glazed fruits in 4 hours.<ref>{{citeweb|url=https://www.theguardian.com/tv-and-radio/live/2017/oct/03/the-great-british-bake-off-2017-episode-six-live |title=The Great British Bake Off 2017, episode six – as it happened|date=3 October 2017|work=Guardian|accessdate=18 October 2017}}</ref>	
@@ -111,14 +312,42 @@ In the signature challenge, the bakers were required to produce four decorative 
 !Signature<br/><small>(4 Shortcrust Savoury Pies)</small>
 !Technical<br/><small>(12 [[Pastel de nata|Pastéis de Nata]])</small>
 !Showstopper<br/><small>(Family-Sized Hand-Raised Pie)</small>
-|-bgcolor=pink  
-|Julia || 'Pies from the Tree' Decorative Pies ||  7th || 'Special Occasion' Pie ||- 
-|Kate || 'Vegetarian Pie Faces' Decorative Pies ||  5th || Potato Curry Pie with Mango & Chilli Glaze ||-style="background:#d0f0c0;" 
-|Liam || 'Standard FC' Decorative Pies ||   4th ||'Nan's Sunday Dinner' Pie ||- 
-|Sophie || 'The Four Seasons' Decorative Pies ||  2nd || Game Pie with Glazed Forest Fruits ||- 
-|Stacey || 'Love Theme' Decorative Pies ||  6th || Indian Hand Raised Pie with Mango ||- 
-|Steven || '[[Fleetwood Mac]]' Decorative Pies ||  3rd || Christmas Pie ||- 
-|Yan || '[[Area of a circle|{{pi}}r<sup>2</sup>]]' Decorative Pies ||  1st || [[Chequer-board|Chequerboard]] Pie ||} 
+|-bgcolor=pink 
+|Julia
+| 'Pies from the Tree' Decorative Pies
+|align="center"| 7th
+| 'Special Occasion' Pie
+|-
+|Kate
+| 'Vegetarian Pie Faces' Decorative Pies
+|align="center"| 5th
+| Potato Curry Pie with Mango & Chilli Glaze
+|-style="background:#d0f0c0;"
+|Liam
+| 'Standard FC' Decorative Pies
+| align="center"| 4th
+|'Nan's Sunday Dinner' Pie
+|-
+|Sophie
+| 'The Four Seasons' Decorative Pies
+|align="center"| 2nd
+| Game Pie with Glazed Forest Fruits
+|-
+|Stacey
+| 'Love Theme' Decorative Pies
+|align="center"| 6th
+| Indian Hand Raised Pie with Mango
+|-
+|Steven
+| '[[Fleetwood Mac]]' Decorative Pies
+|align="center"| 3rd
+| Christmas Pie
+|-
+|Yan
+| '[[Area of a circle|{{pi}}r<sup>2</sup>]]' Decorative Pies
+|align="center"| 1st
+| [[Chequer-board|Chequerboard]] Pie
+|}
 
 === Episode 7: Italian ===
 For the first ever Italian week in Bake Off, the bakers were given {{frac|2|1|2}} hours to make the required 18 Sicilian [[cannoli]] with three different types of fillings. This week's Italian technical challenge was set by Prue, where the bakers were tasked to make the well-known, yet tricky, [[pizza margherita]] with a thin crispy base in {{frac|1|1|2}} hours. For the showstopper challenge, the bakers were required to make a very technically challenging and fiddly Italian bake: 24 [[Sfogliatella|sfogliatelle]] with two types of fillings in {{frac|4|1|2}} hours.<ref>{{citeweb|url=https://www.theguardian.com/tv-and-radio/live/2017/oct/10/the-great-british-bake-off-2017-episode-seven-live |title=The Great British Bake Off 2017, episode seven – as it happened|date=10 October 2017|work=Guardian|accessdate=18 October 2017}}</ref>	
@@ -127,13 +356,37 @@ For the first ever Italian week in Bake Off, the bakers were given {{frac|2|1|2}
 !Signature<br/><small>(18 [[cannoli]])</small>
 !Technical<br/><small>([[Pizza margherita]])</small>
 !Showstopper<br/><small>(24 [[Sfogliatella|sfogliatelle]])</small>
-|- 
-|Kate ||'Happy Hour' Cocktail Cannoli || 6th ||'Flavour Fusion' Sfogliatelle ||- 
-|Liam ||'Just Doing Me' Cannoli || 2nd ||'Morning Delivery' Sfogliatelle ||- 
-|Sophie ||'Classics with a Twist' Cannoli || 3rd ||'Classics' Sfogliatelle ||- 
-|Stacey ||My All Time Favourite Desserts || 4th ||Pastry Surprise ||-style="background:#d0f0c0;" 
-|Steven ||Italian Style Cannoli || 1st ||'Sicilian-style' Sfogliatelle ||-bgcolor=pink  
-|Yan ||Cannoli Cocktails || 5th ||Canadian-Style Sfogliatelle ||} 
+|-
+|Kate
+|'Happy Hour' Cocktail Cannoli
+|align="center"|6th
+|'Flavour Fusion' Sfogliatelle
+|-
+|Liam
+|'Just Doing Me' Cannoli
+|align="center"|2nd
+|'Morning Delivery' Sfogliatelle
+|-
+|Sophie
+|'Classics with a Twist' Cannoli
+|align="center"|3rd
+|'Classics' Sfogliatelle
+|-
+|Stacey
+|My All Time Favourite Desserts
+|align="center"|4th
+|Pastry Surprise
+|-style="background:#d0f0c0;"
+|Steven
+|Italian Style Cannoli
+|align="center"|1st
+|'Sicilian-style' Sfogliatelle
+|-bgcolor=pink 
+|Yan
+|Cannoli Cocktails
+|align="center"|5th
+|Canadian-Style Sfogliatelle
+|}
 
 === Episode 8: Forgotten bakes ===
 The bakers were required to make four [[Bedfordshire clanger]]s within 2 hours in the signature challenge. They must each contain a savoury filling at one end and a sweet filling at the other, and be made from [[suet]] crust pastry. In the technical challenge, set by Paul, the bakers were tasked to make a traditional [[Cumberland]] rum nicky: a large tart consisting of a sweet [[shortcrust]] pastry and a [[rum]]-soaked fruity filling covered with a [[lattice (pastry)|lattice]] top, and served with a smooth [[Hard sauce|rum butter]]. For the historic showstopper, the bakers were required to make a Victorian Savoy cake.<ref>{{citeweb|url=https://www.theguardian.com/tv-and-radio/live/2017/oct/17/the-great-british-bake-off-2017-episode-eight-live |title=The Great British Bake Off 2017, episode eight – as it happened|date=17 October 2017|work=Guardian|accessdate=18 October 2017}}</ref>	
@@ -142,12 +395,32 @@ The bakers were required to make four [[Bedfordshire clanger]]s within 2 hours i
 !Signature<br/><small>(4 [[Bedfordshire clanger|Bedfordshire Clanger]]s)</small>
 !Technical<br/><small>(Cumberland Rum Nicky)</small>
 !Showstopper<br/><small>(Victorian Savoy Cake)</small>
-|- 
-|Kate ||[[Burrito]] Bedfordshire Clangers || 2nd ||'[[Royal Liver Building|Liver Building Turret]]' Savoy Cake ||-bgcolor=pink  
-|Liam ||'Take Out' Bedfordshire Clangers || 5th ||'Fort Wizardore' Savoy Cake ||- 
-|Sophie ||[[Char siu|Char Siu]] & Banana [[Praline]] Bedfordshire Clangers || 4th ||Citrus with Green Apple [[Croquembouche]] Savoy Cake ||-style="background:#d0f0c0;" 
-|Stacey ||[[Camembert]] & Onion and Apple & Blueberry Bedfordshire Clangers || 3rd ||'Bright' Lemon & Orange Savoy Cake ||- 
-|Steven ||'Mediterranean Medley' Bedfordshire Clangers || 1st ||[[Chestnut]] Rum Savoy Cake ||} 
+|-
+|Kate
+|[[Burrito]] Bedfordshire Clangers
+|align="center"|2nd
+|'[[Royal Liver Building|Liver Building Turret]]' Savoy Cake
+|-bgcolor=pink 
+|Liam
+|'Take Out' Bedfordshire Clangers
+|align="center"|5th
+|'Fort Wizardore' Savoy Cake
+|-
+|Sophie
+|[[Char siu|Char Siu]] & Banana [[Praline]] Bedfordshire Clangers
+|align="center"|4th
+|Citrus with Green Apple [[Croquembouche]] Savoy Cake
+|-style="background:#d0f0c0;"
+|Stacey
+|[[Camembert]] & Onion and Apple & Blueberry Bedfordshire Clangers
+|align="center"|3rd
+|'Bright' Lemon & Orange Savoy Cake
+|-
+|Steven
+|'Mediterranean Medley' Bedfordshire Clangers
+|align="center"|1st
+|[[Chestnut]] Rum Savoy Cake
+|}
 
 === Episode 9: Pâtisserie (semi-final) ===
 For the semifinal signature bakes, the bakers were asked to make 24 [[Choux pastry|choux]] buns, in which 12 must have a crunchy [[craquelin]] on top and the other 12 must be covered with icing. The penultimate technical challenge was set by Prue, where the bakers were tasked with a very difficult job of making 9 [[Misérable cake|Les Misérables slices]]. For the showstopper challenge before the final, the bakers were asked to make a [[meringue]] centrepiece, containing at least two different types of meringue and a dessert element, in 4 hours and 45 minutes.<ref>{{citeweb|url=https://www.theguardian.com/tv-and-radio/live/2017/oct/24/great-british-bake-off-2017-semi-final-follow-it-live |title=The Great British Bake Off 2017 semi-final – as it happened|date=24 October 2017|work=Guardian|accessdate=31 October 2017}}</ref>	
@@ -157,11 +430,27 @@ For the semifinal signature bakes, the bakers were asked to make 24 [[Choux past
 !Signature<br/><small>(24 [[Choux pastry|Choux]] Buns)</small>
 !Technical<br/><small>(9 [[Misérable cake|Les Misérables Slices]])</small>
 !Showstopper<br/><small>([[Meringue]] Centrepiece)</small>
-|- 
-|Kate ||[[Bellini (cocktail)|Bellini]] and [[Valencia orange|Valencian Orange]] Choux Buns || 4th ||'[[Rainbow]]' Meringue Centrepiece  ||-style="background:#d0f0c0;" 
-|Sophie ||[[Strawberry]] & [[Rhubarb]] and [[Chestnut]] & [[Vanilla]] Choux Buns || 1st ||'[[Tutu (clothing)|Tutu]] with [[Opera cake|Opera]] Filling' Meringue Centrepiece  ||-bgcolor=pink  
-|Stacey ||'Choux-[[unicorn|nicorn]] and Choux-[[emoji|moji]]' Choux Buns || 2nd ||'[[Flamingos]] in Love' Meringue Centrepiece  ||- 
-|Steven ||[[Key Lime]] Cheesecake and [[Bakewell Tart]] Choux Buns || 3rd ||'Some Air Over the Rainbow' Meringue Centrepiece ||} 
+|-
+|Kate
+|[[Bellini (cocktail)|Bellini]] and [[Valencia orange|Valencian Orange]] Choux Buns
+|align="center"|4th
+|'[[Rainbow]]' Meringue Centrepiece 
+|-style="background:#d0f0c0;"
+|Sophie
+|[[Strawberry]] & [[Rhubarb]] and [[Chestnut]] & [[Vanilla]] Choux Buns
+|align="center"|1st
+|'[[Tutu (clothing)|Tutu]] with [[Opera cake|Opera]] Filling' Meringue Centrepiece 
+|-bgcolor=pink 
+|Stacey
+|'Choux-[[unicorn|nicorn]] and Choux-[[emoji|moji]]' Choux Buns
+|align="center"|2nd
+|'[[Flamingos]] in Love' Meringue Centrepiece 
+|-
+|Steven
+|[[Key Lime]] Cheesecake and [[Bakewell Tart]] Choux Buns
+|align="center"|3rd
+|'Some Air Over the Rainbow' Meringue Centrepiece
+|}
 
 === Episode 10: Final ===
 For the signature challenge in the final, the last three bakers were tasked to make a batch of 12 small loaves. There must be three different types of loaves: four need to be intricately shaped (e.g. plaited), four need to be flavoured, and four need to be made from an alternative grain such as [[spelt]] or [[buckwheat]]. Prue set the final technical challenge and asked the bakers to make 10 [[ginger biscuit]]s, half of them to be oval and half of them to be square.<ref>{{citeweb|url=https://www.bbc.com/news/entertainment-arts-41822794 |title= The Great British Bake Off 2017: How the final unfolded|date=31 October 2017|work=BBC News|accessdate=1 November 2017}}</ref>	
@@ -171,7 +460,19 @@ They all need to have a great snap and be intricately iced with two complicated 
 !Signature<br/><small>(12 Small [[Loaf|Loaves]])</small>
 !Technical<br/><small>(10 [[ginger biscuit|Ginger Biscuits]])</small>
 !Showstopper<br/><small>(Large [[Entremet]])</small>
-|- 
-|Kate ||Roman Spelt, [[Coconut]] Kala Chana and Flower Breads || 3rd ||[[White Chocolate]], [[Yuzu]] and [[Lychee]] Entremet ||-bgcolor=gold 
-|Sophie ||Spelt [[Boule (bread)|Boules]], [[Mushroom]] [[Ciabatta]] and Orange Plaited [[Brioche]] || 2nd ||'Ode to the [[Honey Bee]]' Entremet ||- 
-|Steven ||Spelt & [[Rye]], Toasted [[Garlic]] & [[Fontina]] and Sweet [[Chocolate]] Breads || 1st ||'[[Yin Yang]]' Entremet ||} 
+|-
+|Kate
+|Roman Spelt, [[Coconut]] Kala Chana and Flower Breads
+|align="center"|3rd
+|[[White Chocolate]], [[Yuzu]] and [[Lychee]] Entremet
+|-bgcolor=gold
+|Sophie
+|Spelt [[Boule (bread)|Boules]], [[Mushroom]] [[Ciabatta]] and Orange Plaited [[Brioche]]
+|align="center"|2nd
+|'Ode to the [[Honey Bee]]' Entremet
+|-
+|Steven
+|Spelt & [[Rye]], Toasted [[Garlic]] & [[Fontina]] and Sweet [[Chocolate]] Breads
+|align="center"|1st
+|'[[Yin Yang]]' Entremet
+|}

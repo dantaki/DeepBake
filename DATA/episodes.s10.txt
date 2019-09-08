@@ -7,144 +7,42 @@
 === Episode 1: Cake ===
 For the signature challenge, the bakers had to bake a [[Fruitcake|fruit cake]] in the shape of their choice, with a significant amount of dry fruits, and decorated in 2½ hours. For the technical challenge set by Prue, the bakers had to bake six identical [[angel cake]] slices, with layers made of genoise sponge sandwiched with Italian meringue buttercream, topped with icing and feathered in 1¾ hours. For the showstopper challenge, the bakers had to bake a [[birthday cake]] from a childhood dream in 4 hours.	
 {| class="wikitable" style="text-align:center;"
-|-
 !Baker
 !Signature<br /><small>([[Fruitcake|Fruit Cake]])</small>
 !Technical<br /><small>(6 [[Angel cake|Angel Cake]] Slices)</small>
 !Showstopper<br /><small>([[Birthday cake|Birthday Cake]])</small>
-|-
-|align="left"|Alice
-|align="left"|Gingerbread Fruit Cake Wreath
-|5th
-|align="left"|Like a Child in a Sweetshop Cake
-|-
-|align="left"|Amelia
-|align="left"|Christmas Cake
-|4th
-|align="left"|Carousel Birthday Cake
-|-
-|align="left"|David
-|align="left"|Squishy Squashy Fruit Cake
-|10th
-|align="left"|Snakey Birthday Cakey
-|-style="background:pink;"
-|align="left"|Dan
-|align="left"|Jamaican Rum Cake
-|9th
-|align="left"|Pirate Island Cake
-|-
-|align="left"|Helena
-|align="left"|Fruit Bat Cake
-|12th
-|align="left"|Away with the Fairies Cake
-|-
-|align="left"|Henry
-|align="left"|Wood Street Cake
-|1st
-|align="left"|Secret Woodland Cake
-|-
-|align="left"|Jamie
-|align="left"|Easter [[Simnel cake|Simnel]] Cake
-|13th
-|align="left"|Salted Caramel [[Schnauzer]] Birthday Cake
-|-
-|align="left"|Michael
-|align="left"|Cup of [[Masala chai|Chai]] Cake
-|11th
-|align="left"|Treasure Chest Cake
-|-style="background:#d0f0c0;"
-|align="left"|Michelle
-|align="left"|Bara Brith Teulu Ni (Our Family's [[Bara Brith]])
-|6th
-|align="left"|Tŷ Tylwyth Teg (Fairy House Cake)
-|-
-|align="left"|Phil
-|align="left"|Spiced Fruit Cake with Rum Glaze
-|8th
-|align="left"|Retro Rocket Cake
-|-
-|align="left"|Priya
-|align="left"|Sunshine Fruit Cake
-|7th
-|align="left"|Once Upon a Time Cake
-|-
-|align="left"|Rosie
-|align="left"|Spicy Chai Loaf
-|2nd
-|align="left"|Magical Jungle Cake
-|-
-|align="left"|Steph
-|align="left"|Great Grandma's Fruit Cake
-|3rd
-|align="left"|A Sundae on the Beach Cake
-|}
+|- ||- 
+| Alice ||align="left"|Gingerbread Fruit Cake Wreath ||5th ||align="left"|Like a Child in a Sweetshop Cake ||- 
+| Amelia ||align="left"|Christmas Cake ||4th ||align="left"|Carousel Birthday Cake ||- 
+| David ||align="left"|Squishy Squashy Fruit Cake ||10th ||align="left"|Snakey Birthday Cakey ||-style="background:pink;" 
+| Dan ||align="left"|Jamaican Rum Cake ||9th ||align="left"|Pirate Island Cake ||- 
+| Helena ||align="left"|Fruit Bat Cake ||12th ||align="left"|Away with the Fairies Cake ||- 
+| Henry ||align="left"|Wood Street Cake ||1st ||align="left"|Secret Woodland Cake ||- 
+| Jamie ||align="left"|Easter [[Simnel cake|Simnel]] Cake ||13th ||align="left"|Salted Caramel [[Schnauzer]] Birthday Cake ||- 
+| Michael ||align="left"|Cup of [[Masala chai|Chai]] Cake ||11th ||align="left"|Treasure Chest Cake ||-style="background:#d0f0c0;" 
+| Michelle ||align="left"|Bara Brith Teulu Ni (Our Family's [[Bara Brith]]) ||6th ||align="left"|Tŷ Tylwyth Teg (Fairy House Cake) ||- 
+| Phil ||align="left"|Spiced Fruit Cake with Rum Glaze ||8th ||align="left"|Retro Rocket Cake ||- 
+| Priya ||align="left"|Sunshine Fruit Cake ||7th ||align="left"|Once Upon a Time Cake ||- 
+| Rosie ||align="left"|Spicy Chai Loaf ||2nd ||align="left"|Magical Jungle Cake ||- 
+| Steph ||align="left"|Great Grandma's Fruit Cake ||3rd ||align="left"|A Sundae on the Beach Cake ||} 
 
 === Episode 2: Biscuits ===
 For the signature challenge this week, the bakers were tasked to make 12 decorated chocolate biscuit bars. For the technical challenge, Paul tasked a "controversial" bake that was his dad's favourite- 12 [[fig rolls]] that needed to be identical in shape and size. For the showstopper, the bakers were asked to create a 3D biscuit sculpture. 
 {| class="wikitable" style="text-align:center;"
-|+
 !Baker
 !Signature<br /><small>(12 Decorated Chocolate Biscuit Bars)</small>
 !Technical<br /><small>(12 [[fig rolls|Fig Rolls]])</small>
 !Showstopper<br /><small>(3D Biscuit Sculpture)</small>
-|-style="background:#d0f0c0;"
-|align="left"|Alice
-|align="left"|[[Honeycomb]] Peanut Mallow Bars
-|1st
-|align="left"|Chocolate and Coconut [[New Zealand]] Lamb
-|-
-|align="left"|Amelia
-|align="left"|Pistachio, Almond & Raisin [[Nougat]] Biscuit Bars
-|9th
-|align="left"|Swimming with Dolphins
-|-
-|align="left"|David
-|align="left"|Coco-nutty Chocolate Bars
-|2nd
-|align="left"|Wedding Spray
-|-
-|align="left"|Helena
-|align="left"|[[Wicked Witch]] Fingers
-|12th
-|align="left"|Caught in a Spider's Web
-|-
-|align="left"|Henry
-|align="left"|Coffee, Cardamom & Hazelnut Bars
-|6th
-|align="left"|Chapel [[Organ (music)|Organ]]
-|-style="background:pink;"
-|align="left"|Jamie
-|align="left"|Cherry Caramel Shortbread Biscuit Bars
-|11th
-|align="left"|Biscuit [[Guitar]]
-|-
-|align="left"|Michael
-|align="left"|Lemon & Rosemary Biscuit Bars
-|4th
-|align="left"|Hamish the [[Highland Cow]]
-|-
-|align="left"|Michelle
-|align="left"|[[Bakewell]] Bars
-|8th
-|align="left"|Dewi y Ddraig Cymraeg - Dewi the [[Welsh Dragon]]
-|-
-|align="left"|Phil
-|align="left"|Orange, Cranberry & White Chocolate Fudge Bars
-|3rd
-|align="left"|Tina the Tortoise
-|-
-|align="left"|Priya
-|align="left"|[[Ruby Chocolate|Ruby]] [[Barfi]] Biscuit Bars
-|7th
-|align="left"|The Beast of Rocky Mountain
-|-
-|align="left"|Rosie
-|align="left"|[[Virgin Mojito]] Biscuit Bars
-|5th
-|align="left"|My Favourite Chicken - A Celebration of Legs
-|-
-|align="left"|Steph
-|align="left"|Chocolate, Caramel Macchiato Biscuit Bars
-|10th
-|align="left"|Ginger the Cat
-|}
+|+ ||-style="background:#d0f0c0;" 
+| Alice ||align="left"|[[Honeycomb]] Peanut Mallow Bars ||1st ||align="left"|Chocolate and Coconut [[New Zealand]] Lamb ||- 
+| Amelia ||align="left"|Pistachio, Almond & Raisin [[Nougat]] Biscuit Bars ||9th ||align="left"|Swimming with Dolphins ||- 
+| David ||align="left"|Coco-nutty Chocolate Bars ||2nd ||align="left"|Wedding Spray ||- 
+| Helena ||align="left"|[[Wicked Witch]] Fingers ||12th ||align="left"|Caught in a Spider's Web ||- 
+| Henry ||align="left"|Coffee, Cardamom & Hazelnut Bars ||6th ||align="left"|Chapel [[Organ (music)|Organ]] ||-style="background:pink;" 
+| Jamie ||align="left"|Cherry Caramel Shortbread Biscuit Bars ||11th ||align="left"|Biscuit [[Guitar]] ||- 
+| Michael ||align="left"|Lemon & Rosemary Biscuit Bars ||4th ||align="left"|Hamish the [[Highland Cow]] ||- 
+| Michelle ||align="left"|[[Bakewell]] Bars ||8th ||align="left"|Dewi y Ddraig Cymraeg - Dewi the [[Welsh Dragon]] ||- 
+| Phil ||align="left"|Orange, Cranberry & White Chocolate Fudge Bars ||3rd ||align="left"|Tina the Tortoise ||- 
+| Priya ||align="left"|[[Ruby Chocolate|Ruby]] [[Barfi]] Biscuit Bars ||7th ||align="left"|The Beast of Rocky Mountain ||- 
+| Rosie ||align="left"|[[Virgin Mojito]] Biscuit Bars ||5th ||align="left"|My Favourite Chicken - A Celebration of Legs ||- 
+| Steph ||align="left"|Chocolate, Caramel Macchiato Biscuit Bars ||10th ||align="left"|Ginger the Cat ||} 

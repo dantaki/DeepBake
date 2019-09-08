@@ -19,6 +19,7 @@ my @files = glob("episodes.s*.txt");
 
 foreach my $f (@files) { 
 my $season = $f; $season =~ s/episodes\.s//; $season =~ s/\.txt//;
+next if($season==10);
 warn "[$season]\n"; 
 my $episode=0;
 open IN, $f;
@@ -29,27 +30,24 @@ while(<IN>){
 		$episode = $a[0]; 
 		$episode =~ s/=== Episode //;
 	}
-	next unless($_ =~ /\|/);
+	next unless($_ =~ /\|\|/);
 	$_ =~ s/^\| //;
-	my @r = split /\|\|/, $_ if($season<8);
+	my @r = split /\|\|/, $_;
 	my $iid = $r[0];
-       	
-	for(my $i=0; $i<scalar(@r); $i++) {
-		print"[$i $r[$i]]\n";
-	
-	$iid =~ s/\s//g; 	
+	$iid =~ s/\s//g; $iid =~ s/\|//g;
+
 	next unless(exists $iid{$iid}{$season});
       	next if(! defined $r[2]);
 	my $tech = $r[2];
 	$tech =~ s/\s//g; $tech =~ s/[a-z]//g;
 	$tech =~ s/[\=\-\:\;\"\"\|\{\}]//g; $tech =~ s/N\/A/0/;
+	$tech = 0 if($tech eq "");
 	$episode{$season}{$episode}++; 
 	$tech{$season}{$iid}{$episode}=$tech;
-
+	
 }close IN;
 }
 
-die;
 
 my $ts = timestamp();
 my $o = "../RESULTS/gbbo.techinical.data.${ts}.tsv";

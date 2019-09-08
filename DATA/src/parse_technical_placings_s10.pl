@@ -30,22 +30,23 @@ while(<IN>){
 		$episode =~ s/=== Episode //;
 	}
 	next unless($_ =~ /\|\|/);
-	warn "here\n";
 	$_ =~ s/^\| //;
 	my @r = split /\|\|/, $_;
-	my $iid = $r[0]; 
-	$iid =~ s/\s//g; 	
-	print "$iid\t$season\n"; 
+	my $iid = $r[0];
+	$iid =~ s/\s//g; $iid =~ s/\|//g;
+	print "$iid\n"; 
 	next unless(exists $iid{$iid}{$season});
       	next if(! defined $r[2]);
 	my $tech = $r[2];
 	$tech =~ s/\s//g; $tech =~ s/[a-z]//g;
 	$tech =~ s/[\=\-\:\;\"\"\|\{\}]//g; $tech =~ s/N\/A/0/;
+	$tech = 0 if($tech eq "");
 	$episode{$season}{$episode}++; 
 	$tech{$season}{$iid}{$episode}=$tech;
-
+	
 }close IN;
 }
+
 
 my $ts = timestamp();
 my $o = "../RESULTS/gbbo.techinical.data.s10.${ts}.tsv";
