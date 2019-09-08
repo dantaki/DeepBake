@@ -3,7 +3,7 @@ use strict; use warnings;
 use Statistics::Basic qw/median mean/; 
 
 undef my %iid; undef my %place;
-open IN, "../RESULTS/sample.manifest.20190907.tsv";
+open IN, "../RESULTS/sample.manifest.s10.tsv";
 <IN>;
 while(<IN>){
 	chomp;
@@ -15,7 +15,7 @@ while(<IN>){
 undef my %tech;
 undef my %episode;
 
-my @files = glob("episodes.s*.txt");
+my @files = qw/episodes.s10.txt/;
 
 foreach my $f (@files) { 
 my $season = $f; $season =~ s/episodes\.s//; $season =~ s/\.txt//;
@@ -29,15 +29,13 @@ while(<IN>){
 		$episode = $a[0]; 
 		$episode =~ s/=== Episode //;
 	}
-	next unless($_ =~ /\|/);
+	next unless($_ =~ /\|\|/);
+	warn "here\n";
 	$_ =~ s/^\| //;
-	my @r = split /\|\|/, $_ if($season<8);
-	my $iid = $r[0];
-       	
-	for(my $i=0; $i<scalar(@r); $i++) {
-		print"[$i $r[$i]]\n";
-	
+	my @r = split /\|\|/, $_;
+	my $iid = $r[0]; 
 	$iid =~ s/\s//g; 	
+	print "$iid\t$season\n"; 
 	next unless(exists $iid{$iid}{$season});
       	next if(! defined $r[2]);
 	my $tech = $r[2];
@@ -49,10 +47,8 @@ while(<IN>){
 }close IN;
 }
 
-die;
-
 my $ts = timestamp();
-my $o = "../RESULTS/gbbo.techinical.data.${ts}.tsv";
+my $o = "../RESULTS/gbbo.techinical.data.s10.${ts}.tsv";
 open OUT, ">$o";
 print OUT "season\tbaker\tindex\tepisode\ttech_mean\ttech_med\ttech\tplace\n"; 
 foreach my $season (sort {$a<=>$b} keys %tech){
