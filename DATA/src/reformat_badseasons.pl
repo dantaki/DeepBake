@@ -5,7 +5,10 @@ my $switch=0;
 my $buff="";
 while(<IN>){
 	chomp;
-	if($_ !~ /^\|/) { print $_,"\n";}
+	if($_ !~ /^\|/) { 
+		$_ =~ s/===Episode/=== Episode/;
+		print $_,"\n";
+	}
 	else {
 		$buff = "${buff}|$_ ";
 		if($_ =~ /\|\-/ || $_ =~ /\|\}/ ){ $switch++;}
@@ -13,7 +16,7 @@ while(<IN>){
 		if($switch==2){
 			$buff =~ s/align="left"\|/ /;
 			$buff =~ s/align="center"\|/ /;
-			$buff =~ s/^\|\|/\|/;
+			$buff =~ s/^\|\|/\| /;
 			print "$buff\n";
 			$buff="";
 			$switch=1;
