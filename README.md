@@ -55,10 +55,9 @@ Absolutely! Here are the current standings!
 
 ##### Finalist Prediction
 
-DeepBake has put Alice in the lead with a 36.8% probability score for that outcome. Michael, David, and Rosie are close contenders with ~21% probability. 
+DeepBake puts Alice in the lead with a 36.8% probability score for being the finalist. Michael, David, and Rosie are close contenders with around 21% probability. 
 
 <img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.finalist.png" height="500">
-
 
 ##### Finalist + Runner-Up
 
