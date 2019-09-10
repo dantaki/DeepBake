@@ -27,7 +27,9 @@ DeepBake's performance was measured using a Leave One Out method. One season was
 
 The closer the area under the curve (AUC) is to 1, the more accurate the model. 
 
-![alt text](https://github.com/dantaki/DeepBake/blob/master/FIGURES/gbbo.loo.norm.tiered.nos1.keras.deepbake.results.20190910.png "ROC Curve for DeepBake")
+
+<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/gbbo.loo.norm.tiered.nos1.keras.deepbake.results.20190910.png" height="600">
+
 
 Random chance of making a correct prediction has an AUC of 0.5 (dotted diagonal line). The Episode 4 model has an AUC of 0.91 (+/- 0.04 95% Confidence Interval), meaning it has a very good chance of predicting the final GBBO winner!
 
@@ -55,7 +57,7 @@ Absolutely! Here are the current standings!
 
 DeepBake has put Alice in the lead with a 36.8% probability score for that outcome. Michael, David, and Rosie are close contenders with ~21% probability. 
 
-<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.finalist.png " height="24">
+<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.finalist.png" height="500">
 
 
 ##### Finalist + Runner-Up
@@ -64,13 +66,13 @@ This score is the addition of the finalist probability and the runner-up probabi
 
 DeepBake thinks Alice (87%), David (62%), and Michael (60%) will vie for the title of best baker.
 
-![alt text](https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.top3.png "DeepBake Top3 Season 10 Episode 2")
+<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.top3.png" height="500">
 
 ###### 8th and Below
 
 DeepBake gave Dan and Jamie the highest scores (80% and 78%) for being in the bottom tier. Dan was eliminated in week 1, while Jamie was eliminated at the end of episode 2. 
 
-![alt text](https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.bottom.png "DeepBake Bottom Season 10 Episode 2")
+<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.bottom.png" height="500">
 
 In fact, the data DeepBake learned how to rank bakers can be inputted before the judges eliminate someone. This means DeepBake correctly predicted Jamie would leave the tent!
 
