@@ -68,7 +68,7 @@ DeepBake thinks Alice (87%), David (62%), and Michael (60%) will vie for the tit
 
 <img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.top3.png" height="500">
 
-###### 8th and Below
+##### 8th and Below
 
 DeepBake gave Dan and Jamie the highest scores (80% and 78%) for being in the bottom tier. Dan was eliminated in week 1, while Jamie was eliminated at the end of episode 2. 
 
