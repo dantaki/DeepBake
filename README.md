@@ -73,7 +73,7 @@ DeepBake gave Dan and Jamie the highest scores (80% and 78%) for being in the bo
 
 <img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.bottom.png" height="500">
 
-In fact, the data DeepBake learned how to rank bakers can be inputted before the judges eliminate someone. This means DeepBake correctly predicted Jamie would leave the tent!
+In fact, DeepBake can make a prediction before the judges eliminate a baker. These results suggest DeepBake correctly predicted Jamie would leave the tent!
 
 ----------------------------------------
 
