@@ -47,7 +47,7 @@ Note how the classifier gets better at predicting as the season progresses. This
 
 ------------------------------------------
 
-### Does this mean DeepBake can predict the winner Season 10?
+### Does this mean DeepBake can predict the winner for Season 10?
 
 Absolutely! Here are the current standings!
 
