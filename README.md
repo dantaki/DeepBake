@@ -57,7 +57,7 @@ Absolutely! Here are the current standings!
 
 #### Season 10: Episode 3 Predictions
 
-Alice has proven enough for DeepBake and her standing has slid to danger territory. David is now the most likely winner and Steph jumped up in the rankings. 
+DeepBake now thinks Alice hasn't proven herself and her standing has slid to danger territory ([week 2](https://github.com/dantaki/DeepBake/blob/master/README.md#finalist-prediction)). David is now the most likely winner and Steph jumped up in the rankings. 
 
 As for the finalists (top 3 bakers), Michael has a 67% chance of baking in the final, DeepBake thinks Steph has a 59% chance and David a 
 47% chance. 
