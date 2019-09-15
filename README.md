@@ -64,7 +64,7 @@ As for the finalists (top 3 bakers), Michael has a 67% chance of baking in the f
 
 DeepBake in week 2 gave Amelia a 48% of being in the bottom tier, right behind the two eliminated bakers Dan and Jamie. In week 3 Amelia was eliminated, which is bad news for her but great news for DeepBake! 
 
-<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e3.preds.png" height="1000">
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e3.preds.png" height="750">
 
 For remaining bakers in week 3, Amelia was at the top of the ranking for the bottom tier with a 43% probabiliy. Next is Henry, (winner of the bap technical) with a 36% probability. Following him is a tight pack led by Priya with Helena, Michelle, and Alice following her, all with probability scores between 23-20%. 
 
