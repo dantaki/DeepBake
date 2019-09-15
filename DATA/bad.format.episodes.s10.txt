@@ -126,7 +126,7 @@ For the signature challenge this week, the bakers were tasked to make 12 decorat
 |align="left"|Michelle
 |align="left"|[[Bakewell]] Bars
 |8th
-|align="left"|Dewi y Ddraig Cymraeg - Dewi the [[Welsh Dragon]]
+|align="left"|Dewi y Ddraig Gymraeg - Dewi the [[Welsh Dragon]]
 |-
 |align="left"|Phil
 |align="left"|Orange, Cranberry & White Chocolate Fudge Bars
@@ -147,4 +147,70 @@ For the signature challenge this week, the bakers were tasked to make 12 decorat
 |align="left"|Chocolate, Caramel Macchiato Biscuit Bars
 |10th
 |align="left"|Ginger the Cat
+|}
+
+=== Episode 3: Bread ===
+For the signature challenge this week, the bakers were asked to make a Tear & Share loaf. For the technical challenge, Paul asked the bakers to make 8 [[burger]] [[baps]], along with 4 [[veggie burgers]] to go inside half of them. For the showstopper challenge, the bakers were given the task to make a display of artistically scored loaves.
+
+{| class="wikitable" style="text-align:center;"
+|+
+!Baker
+!Signature<br /><small>(Tear & Share Loaf)</small>
+!Technical<br /><small>(8 White Burger [[Baps]] & 4 Veggie Burgers)</small>
+!Showstopper<br /><small>(Decorative Loaf Display)</small>
+|-
+|align="left"|Alice
+|align="left"|Baklava Tear & Share
+|7th
+|align="left"|Global Bread
+|-style="background:pink;"
+|align="left"|Amelia
+|align="left"|Chorizo Brunch Tear & Share
+|11th
+|align="left"|[[Caterpillar]] Transformation
+|-
+|align="left"|David
+|align="left"|[[Cinnamon]] Swirl Tear & Share
+|2nd
+|align="left"|Trio of African Masks
+|-
+|align="left"|Helena
+|align="left"|Frosted [[Cinnamon]] and [[Pecan]] Tear & Share
+|8th
+|align="left"|Every Bread is [[Halloween]]
+|-
+|align="left"|Henry
+|align="left"|[[Chicken]] and [[ Pesto]] Tear & Share
+|1st
+|align="left"|Herb Garden
+|-style="background:#d0f0c0;"
+|align="left"|Michael
+|align="left"|Keralan Star Bread Tear & Share
+|6th
+|align="left"|[[Mediterranean]] Camp Fire
+|-
+|align="left"|Michelle
+|align="left"|Noson Gaws ([[Cheese]] Night) Tear & Share
+|5th
+|align="left"|Garrd Ni (Our [[Garden]])
+|-
+|align="left"|Phil
+|align="left"|Pancetta and Cheese Focaccia Tear & Share 
+|10th
+|align="left"|Winner's [[Wreath]]
+|-
+|align="left"|Priya
+|align="left"|Smokey [[Jalapeño]] Tear & Share
+|4th
+|align="left"|[[Bird]] Boules
+|-
+|align="left"|Rosie
+|align="left"|Chilli and Manchego Tear & Share
+|9th
+|align="left"|Bread [[Safari]]
+|-
+|align="left"|Steph
+|align="left"|Sun-Dried Tomato and [[Pesto]] Star Tear & Share
+|3rd
+|align="left"|Hand-Tied Bouquet of [[Flowers]]
 |}

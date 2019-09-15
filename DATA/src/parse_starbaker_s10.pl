@@ -15,14 +15,14 @@ while(<IN>){
 undef my %star; undef my %good; undef my %bad;
 undef my %episode;
 
-my @files = glob("starbaker.s10.e2.txt");
+my @files = glob("starbaker.s10.e3.csv");
 
 foreach my $f (@files) { 
 my $episode=0;
 open IN, $f; <IN>;
 while(<IN>){
 	chomp;
-	my ($season,$iid,$index,$episode,$star,$bad,$good) = split /\t/, $_;
+	my ($season,$iid,$index,$episode,$star,$bad,$good) = split /,/, $_;
 	next unless(exists $iid{$iid}{$season});
 	$star{$season}{$iid}{$episode}=$star;
 	$bad{$season}{$iid}{$episode}=$bad;
@@ -96,7 +96,7 @@ foreach my $iid (sort keys %{$good{$season}}) {
 }
 
 my $ts = timestamp();
-my $o = "../RESULTS/gbbo.starbaker.data.s10.e2.${ts}.tsv";
+my $o = "../RESULTS/gbbo.starbaker.data.s10.e3.${ts}.tsv";
 open OUT, ">$o";
 my $feats = "mean_star\tstar\tmean_good\tgood\tmean_bad\tbad";
 print OUT "season\tbaker\tindex\tepisode\t${feats}\tplace\n"; 
