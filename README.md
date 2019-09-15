@@ -51,6 +51,23 @@ Note how the classifier gets better at predicting as the season progresses. This
 
 Absolutely! Here are the current standings!
 
+#### Season 10: Episode 3 Predictions
+
+Alice had a pretty bad week 3 and her standing has really fallen. David is now predicted to be the most likely winner and Steph really jumped up in the rankings. 
+
+<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e3.finalist.png" height="800">
+
+As for the finalists (Top 3 bakers), Michael has a 67% chance of making to the final week, DeepBake gives Steph a 59% chance and David a 47% chance. Alice has really fallen with a 29.6% chance. 
+
+<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e3.top3.png" height="800">
+
+DeepBake in week 2 gave Amelia a 48% of being in the bottom tier, right behind the two eliminated bakers Dan and Jamie. In week 3 Amelia was eliminated, which is bad news for her but great news for DeepBake! 
+
+For remaining bakers in week 3, Amelia was at the top of the ranking for the bottom tier with a 43% probabiliy. Next is Henry, (winner of the bap technical) with a 36% probability. Following him is a tight pack led by Priya with Helena, Michelle, and Alice following her, all with probability scores between 23-20%. 
+
+<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.bottom.png" height="800">
+
+--------------
 #### Season 10 : Episode 2 Predictions
 
 ##### Finalist Prediction
@@ -77,4 +94,4 @@ In fact, DeepBake can make a prediction before the judges eliminate a baker. The
 
 ----------------------------------------
 
-### Stay tuned for Week 3! 
+### Stay tuned for Week 4! 
