@@ -2,7 +2,9 @@
 Baking Machine Learning into Great British Bake Off
 ----------------------------------------------------
 
-## [Season 10 Predictions](https://github.com/dantaki/DeepBake/blob/master/README.md#season-10-episode-3-predictions)
+## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake/blob/master/README.md#season-10-episode-3-predictions) :crystal_ball:
+
+-----------------------
 
 ### What is this? 
 
@@ -55,19 +57,16 @@ Absolutely! Here are the current standings!
 
 #### Season 10: Episode 3 Predictions
 
-Alice had a pretty bad week 3 and her standing has really fallen. David is now predicted to be the most likely winner and Steph really jumped up in the rankings. 
+Alice has proven enough for DeepBake and her standing has slid to danger territory. David is now the most likely winner and Steph jumped up in the rankings. 
 
-<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e3.finalist.png" height="800">
-
-As for the finalists (Top 3 bakers), Michael has a 67% chance of making to the final week, DeepBake gives Steph a 59% chance and David a 47% chance. Alice has really fallen with a 29.6% chance. 
-
-<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e3.top3.png" height="800">
+As for the finalists (top 3 bakers), Michael has a 67% chance of baking in the final, DeepBake thinks Steph has a 59% chance and David a 
+47% chance. 
 
 DeepBake in week 2 gave Amelia a 48% of being in the bottom tier, right behind the two eliminated bakers Dan and Jamie. In week 3 Amelia was eliminated, which is bad news for her but great news for DeepBake! 
 
-For remaining bakers in week 3, Amelia was at the top of the ranking for the bottom tier with a 43% probabiliy. Next is Henry, (winner of the bap technical) with a 36% probability. Following him is a tight pack led by Priya with Helena, Michelle, and Alice following her, all with probability scores between 23-20%. 
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e3.preds.png" height="1000">
 
-<img src="https://github.com/dantaki/DeepBake/blob/master/FIGURES/s10.e2.bottom.png" height="800">
+For remaining bakers in week 3, Amelia was at the top of the ranking for the bottom tier with a 43% probabiliy. Next is Henry, (winner of the bap technical) with a 36% probability. Following him is a tight pack led by Priya with Helena, Michelle, and Alice following her, all with probability scores between 23-20%. 
 
 --------------
 #### Season 10 : Episode 2 Predictions
