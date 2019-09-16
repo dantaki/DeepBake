@@ -2,7 +2,7 @@
 Baking Machine Learning into Great British Bake Off
 ----------------------------------------------------
 
-## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake/blob/master/README.md#season-10-episode-3-predictions) :crystal_ball:
+## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-episode-3-predictions) :crystal_ball:
 
 -----------------------
 
