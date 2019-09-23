@@ -2,7 +2,7 @@
 Baking Machine Learning into Great British Bake Off
 ----------------------------------------------------
 
-## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-episode-3-predictions) :crystal_ball:
+## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-episode-4-predictions) :crystal_ball:
 
 -----------------------
 
@@ -54,6 +54,21 @@ Note how the classifier gets better at predicting as the season progresses. This
 ### Does this mean DeepBake can predict the winner for Season 10?
 
 Absolutely! Here are the current standings!
+
+#### Season 10: Episode 4 Predictions
+
+What can I say, even Neural Networks make mistakes. The top baker prediction now thinks Rosie is in the lead with 23% chance, with Alice following behind her with a 18% chance. Something about Alice is really making the model put her at the top, which I don't really agree with. 
+
+Anyhoo, the finalist (top 3 bakers) predictions seem to make more sense with Steph (75%), David (64%), and Rosie (43%). Alice is still up there and so is Michael. 
+
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e4.preds.png" height="750">
+
+As for the bottom bakers, last week the model said Henry had a good chance of leaving and he did have some pretty hard bakes in week 4. However, Phil was eliminated and the week 3 model did not put him anywhere near the bottom... So DeepBake got it wrong in week 3. But the week 4 predictions put him right at the bottom, which means if I were to pause the show right after the judges reveal who is star baker, DeepBake would have made a correct prediction that Phil would leave.
+
+Henry is slated to leave again with a 30% chance, not sure why Henry is not favored by the model too. Oddly, Michael is right behind him, probably because he got an unfavorable status from the judges in week 4. Priya is next and so is Michelle, which makes sense to me. 
+
+---------------------------------------
+
 
 #### Season 10: Episode 3 Predictions
 
