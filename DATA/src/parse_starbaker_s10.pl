@@ -15,7 +15,7 @@ while(<IN>){
 undef my %star; undef my %good; undef my %bad;
 undef my %episode;
 
-my @files = glob("starbaker.s10.e3.csv");
+my @files = glob("starbaker.s10.e4.csv");
 
 foreach my $f (@files) { 
 my $episode=0;
@@ -96,7 +96,7 @@ foreach my $iid (sort keys %{$good{$season}}) {
 }
 
 my $ts = timestamp();
-my $o = "../RESULTS/gbbo.starbaker.data.s10.e3.${ts}.tsv";
+my $o = "../RESULTS/gbbo.starbaker.data.s10.e4.${ts}.tsv";
 open OUT, ">$o";
 my $feats = "mean_star\tstar\tmean_good\tgood\tmean_bad\tbad";
 print OUT "season\tbaker\tindex\tepisode\t${feats}\tplace\n"; 

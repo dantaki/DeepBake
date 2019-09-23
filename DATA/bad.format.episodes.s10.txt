@@ -126,7 +126,7 @@ For the signature challenge this week, the bakers were tasked to make 12 decorat
 |align="left"|Michelle
 |align="left"|[[Bakewell]] Bars
 |8th
-|align="left"|Dewi y Ddraig Gymraeg - Dewi the [[Welsh Dragon]]
+|align="left"|Dewi y Ddraig Gymraeg (Dewi the [[Welsh Dragon]])
 |-
 |align="left"|Phil
 |align="left"|Orange, Cranberry & White Chocolate Fudge Bars
@@ -150,13 +150,13 @@ For the signature challenge this week, the bakers were tasked to make 12 decorat
 |}
 
 === Episode 3: Bread ===
-For the signature challenge this week, the bakers were asked to make a Tear & Share loaf. For the technical challenge, Paul asked the bakers to make 8 [[burger]] [[baps]], along with 4 [[veggie burgers]] to go inside half of them. For the showstopper challenge, the bakers were given the task to make a display of artistically scored loaves.
+For the signature challenge this week, the bakers were asked to make a Tear & Share loaf. For the technical challenge, Paul asked the bakers to make 8 [[Hamburger|burger]] [[bap (bread)|bap]]s, along with 4 [[veggie burgers]] to go inside half of them. For the showstopper challenge, the bakers were given the task to make a display of artistically scored loaves.
 
 {| class="wikitable" style="text-align:center;"
 |+
 !Baker
 !Signature<br /><small>(Tear & Share Loaf)</small>
-!Technical<br /><small>(8 White Burger [[Baps]] & 4 Veggie Burgers)</small>
+!Technical<br /><small>(8 White Burger [[Bap (bread)|Bap]]s & 4 Veggie Burgers)</small>
 !Showstopper<br /><small>(Decorative Loaf Display)</small>
 |-
 |align="left"|Alice
@@ -192,7 +192,7 @@ For the signature challenge this week, the bakers were asked to make a Tear & Sh
 |align="left"|Michelle
 |align="left"|Noson Gaws ([[Cheese]] Night) Tear & Share
 |5th
-|align="left"|Garrd Ni (Our [[Garden]])
+|align="left"|Gardd Ni (Our [[Garden]])
 |-
 |align="left"|Phil
 |align="left"|Pancetta and Cheese Focaccia Tear & Share 
@@ -213,4 +213,64 @@ For the signature challenge this week, the bakers were asked to make a Tear & Sh
 |align="left"|Sun-Dried Tomato and [[Pesto]] Star Tear & Share
 |3rd
 |align="left"|Hand-Tied Bouquet of [[Flowers]]
+|}
+
+=== Episode 4: Dairy ===
+For the signature challenge this week, Paul and Prue tasked the bakers with a [[Dairy]] Cake, but the [[cake]] mixture needed to contain a [[cultured dairy product]]. For the technical challenge, Prue asked the bakers to make a bake that dated back to the [[Tudor period|Tudor]] times, twelve [[Maids of honour tart|Maids of Honour]]. For the showstopper challenge, the judges gave the bakers the task of making a display of milk-based [[India]]n [[sweets]] known as Mishti.
+{| class="wikitable" style="text-align:center;"
+|+
+!Baker
+!Signature<br /><small>(Cultured [[Dairy]] Cake)</small>
+!Technical<br /><small>(12 [[Maids of honour tart|Maids of Honour]])</small>
+!Showstopper<br /><small>(Display of Mishti)</small>
+|-
+|align="left"|Alice
+|align="left"|Leafy [[Yoghurt]] Cake
+|8th
+|align="left"|[[Afternoon Tea]]
+|-
+|align="left"|David
+|align="left"|A Kick of [[Limoncello]] Cake
+|2nd
+|align="left"|Flavours of [[India]] Mishti
+|-
+|align="left"|Helena
+|align="left"|[[Ghost]] Cake
+|9th
+|align="left"|Ye Olde [[England|English]] Sweet Shoppe Mishti
+|-
+|align="left"|Henry
+|align="left"|Ode to a [[Germany|German]] Breakfast Cake
+|3rd
+|align="left"|Seaside Mishti
+|-
+|align="left"|Michael  
+|align="left"|[[Cheesecake]] Surprise
+|7th
+|align="left"|[[Flag of India]] Mishti
+|-
+|align="left"|Michelle
+|align="left"|Homely [[Rhubarb]] Cake
+|5th
+|align="left"|Home Comforts Mishti
+|-style="background:pink;"
+|align="left"|Phil
+|align="left"|Trucking Lovely Rose Cake
+|6th
+|align="left"|A Corner of My [[Garden]] Mishti
+|-
+|align="left"|Priya
+|align="left"|Choc-chip Banana Cake
+|10th
+|align="left"|Flavours of My Childhood Mishti
+|-
+|align="left"|Rosie
+|align="left"|A Good Dose of [[Limoncello]] Cake
+|4th
+|align="left"|Cocktails & [[Canapés]] Mishti
+|-style="background:#d0f0c0;"
+|align="left"|Steph
+|align="left"|Answer to Everything Cake
+|1st
+|align="left"|[[Pink]] and Pretty Mishti
 |}
