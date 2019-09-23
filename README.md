@@ -63,7 +63,7 @@ Anyhoo, the finalist (top 3 bakers) predictions seem to make more sense with Ste
 
 <img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e4.preds.png" height="750">
 
-As for the bottom bakers, last week the model said Henry had a good chance of leaving and he did have some pretty hard bakes in week 4. However, Phil was eliminated and the week 3 model did not put him anywhere near the bottom... So DeepBake got it wrong in week 3. But the week 4 predictions put him right at the bottom, which means if I were to pause the show right after the judges reveal who is star baker, DeepBake would have made a correct prediction that Phil would leave.
+As for the bottom bakers, last week the model said Henry had a good chance of leaving and he did have some pretty hard bakes in week 4. However, Phil was eliminated and the week 3 model did not put him anywhere near the bottom... So DeepBake got it wrong in week 3. But the week 4 predictions put him right at the bottom, which means if I were to pause the show right after the judges reveal who is star baker and input all the data needed for DeepBake, the model would have made a correct prediction that Phil would leave.
 
 Henry is slated to leave again with a 30% chance, not sure why Henry is not favored by the model too. Oddly, Michael is right behind him, probably because he got an unfavorable status from the judges in week 4. Priya is next and so is Michelle, which makes sense to me. 
 
