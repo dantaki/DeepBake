@@ -216,7 +216,7 @@ For the signature challenge this week, the bakers were asked to make a Tear & Sh
 |}
 
 === Episode 4: Dairy ===
-For the signature challenge this week, Paul and Prue tasked the bakers with a [[Dairy]] Cake, but the [[cake]] mixture needed to contain a [[cultured dairy product]]. For the technical challenge, Prue asked the bakers to make a bake that dated back to the [[Tudor period|Tudor]] times, twelve [[Maids of honour tart|Maids of Honour]]. For the showstopper challenge, the judges gave the bakers the task of making a display of milk-based [[India]]n [[sweets]] known as Mishti.
+For the signature challenge this week, Paul and Prue tasked the bakers with a [[Dairy]] Cake, but the [[cake]] mixture needed to contain a [[cultured dairy product]]. For the technical challenge, Prue asked the bakers to make a difficult bake that dated back to the [[Tudor period|Tudor]] times, twelve [[Maids of honour tart|Maids of Honour]]. For the showstopper challenge, the judges gave the bakers the task of making a display of milk-based [[India]]n [[sweets]] known as Mishti.
 {| class="wikitable" style="text-align:center;"
 |+
 !Baker
@@ -268,9 +268,65 @@ For the signature challenge this week, Paul and Prue tasked the bakers with a [[
 |align="left"|A Good Dose of [[Limoncello]] Cake
 |4th
 |align="left"|Cocktails & [[Canapés]] Mishti
+|-
 |-style="background:#d0f0c0;"
 |align="left"|Steph
 |align="left"|Answer to Everything Cake
 |1st
 |align="left"|[[Pink]] and Pretty Mishti
+|}
+
+=== Episode 5: The Roaring Twenties ===
+For the signature challenge, the bakers were tasked to produce 4 [[custard pie|custard pies]] which should be elaborately decorated with the theme of the 1920s. For the technical challenge, the bakers faced a difficult challenge set by Prue of deep-frying [[choux]] pastry to produce 18 [[Beignet]] Soufflés filled with raspberry jam and served with a [[zabaglione]]. For the showstopper challenge, the bakers were tasked to create a prohibition [[cocktail]] cake, with at least two tiers, in memory of the [[Prohibition in the United States|prohibition era in the United States]].
+{| class="wikitable" style="text-align:center;"
+|+
+!Baker
+!Signature<br /><small>(4 [[custard pie|Custard Pies]])</small>
+!Technical<br /><small>(18 [[Beignet]] Soufflés)</small>
+!Showstopper<br /><small>(Prohibition Era Cake)</small>
+|-
+|align="left"|Alice
+|align="left"|Chocolate & Orange Custard Pies
+|6th
+|align="left"|[[Piña Colada]] Cake
+|-
+|align="left"|David
+|align="left"|Fancy Custards
+|9th
+|align="left"|Amaretto Sour Cake
+|-style="background:pink;"
+|align="left"|Helena
+|align="left"|Lemon and Lavender Pies
+|1st
+|align="left"|[[Vampire's Kiss]] Raspberry [[Vodka]] Cake
+|-
+|align="left"|Henry
+|align="left"|1920's Pies
+|3rd
+|align="left"|[[White Russian]] Cake
+|-
+|align="left"|Michael  
+|align="left"|Mango, Lime & Ginger Pies
+|8th
+|align="left"|Brambling Cake
+|-style="background:pink;"
+|align="left"|Michelle
+|align="left"|Blueberry & White Chocolate [[Crème Brûlée]] Pies
+|7th
+|align="left"|My Little Sister the Dancing Queen's [[Piña Colada]] Cake
+|-
+|align="left"|Priya
+|align="left"|Lemon & Raspberry Ripple Pies
+|2nd
+|align="left"|Meena Colada Cake
+|-
+|align="left"|Rosie
+|align="left"|Little Blackberry Pies
+|5th
+|align="left"|White Russian Cake
+|-style="background:#d0f0c0;"
+|align="left"|Steph
+|align="left"|Zesty Citrus Custard Pies
+|4th
+|align="left"|Sour Lime [[Piña Colada]] Cake
 |}
