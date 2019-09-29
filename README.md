@@ -2,7 +2,7 @@
 Baking Machine Learning into Great British Bake Off
 ----------------------------------------------------
 
-## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-episode-4-predictions) :crystal_ball:
+## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-week-5-predictions) :crystal_ball:
 
 #### GBBO Winner: running probability
 <img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.winner.running.probs.20190928.png" height="300">
@@ -60,11 +60,11 @@ Note how the classifier gets better at predicting as the season progresses. This
 
 ------------------------------------------
 
-### Does this mean DeepBake can predict the winner for Season 10?
+## Does this mean DeepBake can predict the winner for Season 10?
 
 Absolutely! Here are the current standings!
 
-#### Season 10: Week 5 Predictions:
+### Season 10: Week 5 Predictions:
 
 First off, I realize I have been using "finalist" incorrectly, now I have labeled plots as "GBBO Winner" and "GBBO Finalist". The finalist probability is the chance a baker will compete in the final week. 
 
@@ -78,6 +78,7 @@ As I mentioned, my wife and I entered the new data into the model after Steph wa
 
 Priya was not eliminated, but you have to admit she probably should have been. Helena was eliminated and so was Michelle. If we look at the 5th to 7th place predictions, which we should since we are at the point of the series to use that score to predict who might leave the tent, we see Michelle and Helena with 71% and 63% probability respectively. Next up is Pryia with a 55% chance to leave; Rosie and Alice tail her with 36% and 33% chances. 
 
+-------------------------
 
 #### Season 10: Week 4 Predictions
 
