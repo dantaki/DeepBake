@@ -72,7 +72,7 @@ This week my wife and I paused the show right after Steph was announced star bak
 
 <img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e5.preds.png" height="500">
 
-For the outright winner, Henry is next in line with a 28% chance and then is David with 17%. Likewise, David is next in line to be a finalist with 70% probability. Then comes Michael (60%). Last week, DeepBake thought Michael would be next on the chopping block with Henry, but both bakers are doing well this week. For predicting the next week, DeepBake made some misses but also some hits. 
+For the outright winner, Henry is next in line with a 28% chance and then is David with 17%. Likewise, David is next in line to be a finalist with 70% probability. Then comes Michael (60%). Last week, DeepBake thought Michael would be next on the chopping block with Henry, but both bakers are doing well this week. When it comes to predicting who will leave next week, DeepBake made some misses but also some hits. 
 
 As I mentioned, my wife and I entered the new data into the model after Steph was crowned star baker to predict who would leave. This week it was obvious two bakers had to go, so looking at the model Priya was heads above all with 27% chance of leaving. Following her was Helena with 15% chance to leave. The chances for the remaining bakers quickly decay with probabilities less than 3%. 
 
