@@ -4,6 +4,15 @@ Baking Machine Learning into Great British Bake Off
 
 ## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-episode-4-predictions) :crystal_ball:
 
+#### GBBO Winner: running probability
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.winner.running.probs.20190928.png" height="300">
+
+#### GBBO Finalist: running probability
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.finalist.running.probs.20190928.png" height="300">
+
+#### 5th-7th Place: running probability
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.5th-7th.running.probs.20190928.png" height="300">
+
 -----------------------
 
 ### What is this? 
@@ -55,7 +64,22 @@ Note how the classifier gets better at predicting as the season progresses. This
 
 Absolutely! Here are the current standings!
 
-#### Season 10: Episode 4 Predictions
+#### Season 10: Week 5 Predictions:
+
+First off, I realize I have been using "finalist" incorrectly, now I have labeled plots as "GBBO Winner" and "GBBO Finalist". The finalist probability is the chance a baker will compete in the final week. 
+
+This week my wife and I paused the show right after Steph was announced star baker and ran the model with the new data. Steph has been starbaker twice and been favored by the judges for two other weeks. Therefore, her standings as a GBBO finalist and series winner is gaining ground with a 46% and 77% chance respectively.  
+
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e5.preds.png" height="500">
+
+For the outright winner, Henry is next in line with a 28% chance and then is David with 17%. Likewise, David is next in line to be a finalist with 70% probability. Then comes Michael (60%). Last week, DeepBake thought Michael would be next on the chopping block with Henry, but both bakers are doing well this week. For predicting the next week, DeepBake made some misses but also some hits. 
+
+As I mentioned, my wife and I entered the new data into the model after Steph was crowned star baker to predict who would leave. This week it was obvious two bakers had to go, so looking at the model Priya was heads above all with 27% chance of leaving. Following her was Helena with 15% chance to leave. The chances for the remaining bakers quickly decay with probabilities less than 3%. 
+
+Priya was not eliminated, but you have to admit she probably should have been. Helena was eliminated and so was Michelle. If we look at the 5th to 7th place predictions, which we should since we are at the point of the series to use that score to predict who might leave the tent, we see Michelle and Helena with 71% and 63% probability respectively. Next up is Pryia with a 55% chance to leave; Rosie and Alice tail her with 36% and 33% chances. 
+
+
+#### Season 10: Week 4 Predictions
 
 What can I say, even Neural Networks make mistakes. The top baker prediction now thinks Rosie is in the lead with 23% chance, with Alice following behind her with a 18% chance. Something about Alice is really making the model put her at the top, which I don't really agree with. 
 
@@ -70,7 +94,7 @@ Henry is slated to leave again with a 30% chance, not sure why Henry is not favo
 ---------------------------------------
 
 
-#### Season 10: Episode 3 Predictions
+#### Season 10: Week 3 Predictions
 
 DeepBake now thinks Alice hasn't proven herself and her standing has slid to danger territory ([week 2](https://github.com/dantaki/DeepBake/blob/master/README.md#finalist-prediction)). David is now the most likely winner and Steph jumped up in the rankings. 
 
@@ -84,7 +108,7 @@ DeepBake in week 2 gave Amelia a 48% of being in the bottom tier, right behind t
 For remaining bakers in week 3, Amelia was at the top of the ranking for the bottom tier with a 43% probabiliy. Next is Henry, (winner of the bap technical) with a 36% probability. Following him is a tight pack led by Priya with Helena, Michelle, and Alice following her, all with probability scores between 23-20%. 
 
 --------------
-#### Season 10 : Episode 2 Predictions
+#### Season 10 : Week 2 Predictions
 
 ##### Finalist Prediction
 
