@@ -2,16 +2,16 @@
 Baking Machine Learning into Great British Bake Off
 ----------------------------------------------------
 
-## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-week-5-predictions) :crystal_ball:
+## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-week-6-predictions) :crystal_ball:
 
 #### GBBO Winner: running probability
-<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.winner.running.probs.20190928.png" height="300">
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.winner.running.probs.20191005.png" height="300">
 
 #### GBBO Finalist: running probability
-<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.finalist.running.probs.20190928.png" height="300">
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.finalist.running.probs.20191005.png" height="300">
 
 #### 5th-7th Place: running probability
-<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.5th-7th.running.probs.20190928.png" height="300">
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.5th-7th.running.probs.20191005.png" height="300">
 
 -----------------------
 
@@ -63,6 +63,17 @@ Note how the classifier gets better at predicting as the season progresses. This
 ## Does this mean DeepBake can predict the winner for Season 10?
 
 Absolutely! Here are the current standings!
+
+### Season 10: Week 6 Predictions:
+Well lads, it happened, Priya has left the tent. DeepBake gave her a whopping  81% to place in 5th-7th place, Rosie is next with 65% and Henry with a 59% chance. 
+
+Alice had a great week 6, winning the technical and being favored by the judges. Her chances to win GBBO has rocketed to 35% from 8% last week. She is behind Steph (42%) who has solidly secured star baker for three weeks in a row. 
+
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e6.preds.png" height="500">
+
+DeepBake's predictions for 3rd and 4th place are lateral for the bakers, but perhaps this is expected since evident by the first three weeks of baking for [5th to 7th place](https://github.com/dantaki/DeepBake#5th-7th-place-running-probability).
+
+DeepBake seems to be on a roll (or a bap), it has predicted who will leave 6 out of 7 times which is 86% accuracy close to the 90% estimate I made on (reddit)[https://www.reddit.com/r/dataisbeautiful/comments/d3q51c/oc_i_baked_up_a_deep_neural_network_to_predict/].
 
 ### Season 10: Week 5 Predictions:
 
