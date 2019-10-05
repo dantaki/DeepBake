@@ -73,7 +73,7 @@ Alice had a great week 6, winning the technical and being favored by the judges.
 
 DeepBake's predictions for 3rd and 4th place are lateral for the bakers, but perhaps this is expected since evident by the first three weeks of baking for [5th to 7th place](https://github.com/dantaki/DeepBake#5th-7th-place-running-probability).
 
-DeepBake seems to be on a roll (or a bap), it has predicted who will leave 6 out of 7 times which is 86% accuracy close to the 90% estimate I made on (reddit)[https://www.reddit.com/r/dataisbeautiful/comments/d3q51c/oc_i_baked_up_a_deep_neural_network_to_predict/].
+DeepBake seems to be on a roll (or a bap), it has predicted who will leave 6 out of 7 times which is 86% accuracy close to the 90% estimate I made on [reddit](https://www.reddit.com/r/dataisbeautiful/comments/d3q51c/oc_i_baked_up_a_deep_neural_network_to_predict/).
 
 ### Season 10: Week 5 Predictions:
 
