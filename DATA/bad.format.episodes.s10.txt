@@ -1,8 +1,3 @@
-== Episodes ==
-
-:{{Color box|pink|border=darkgray}} Baker eliminated
-:{{Color box|#d0f0c0|border=darkgray}} Star Baker
-:{{Color box|gold|border=darkgray}} Winner
 
 === Episode 1: Cake ===
 For the signature challenge, the bakers had to bake a [[Fruitcake|fruit cake]] in the shape of their choice, with a significant amount of dry fruits, and decorated in 2½ hours. For the technical challenge set by Prue, the bakers had to bake six identical [[angel cake]] slices, with layers made of genoise sponge sandwiched with Italian meringue buttercream, topped with icing and feathered in 1¾ hours. For the showstopper challenge, the bakers had to bake a [[birthday cake]] from a childhood dream in 4 hours.	
@@ -298,7 +293,7 @@ For the signature challenge, the bakers were tasked to produce 4 [[custard pie|c
 |align="left"|Helena
 |align="left"|Lemon and Lavender Pies
 |1st
-|align="left"|[[Vampire's Kiss]] Raspberry [[Vodka]] Cake
+|align="left"|Vampire's Kiss Raspberry [[Vodka]] Cake
 |-
 |align="left"|Henry
 |align="left"|1920's Pies
@@ -329,4 +324,49 @@ For the signature challenge, the bakers were tasked to produce 4 [[custard pie|c
 |align="left"|Zesty Citrus Custard Pies
 |4th
 |align="left"|Sour Lime [[Piña Colada]] Cake
+|}
+
+=== Episode 6: Desserts ===
+For the signature challenge this week, the bakers were asked to make a layered [[meringue]] cake with a minimum of three layers and 'large enough to share with friends'. For the technical challenge, Prue gave the bakers a particularly difficult task that tested the bakers precision,  six identical layered [[Verrine|verrines]]. For showstopper challenge, the bakers were tasked with an explosive bake, a Celebratory [[Bombe_glacée|Bombe]].
+{| class="wikitable" style="text-align:center;"
+|+
+!Baker
+!Signature<br /><small>(Layered [[Meringue]] Cake)</small>
+!Technical<br /><small>(6 [[Verrine|Verrines]])</small>
+!Showstopper<br /><small>(Celebratory [[Bombe glacée|Bombe]])</small>
+|-
+|align="left"|Alice
+|align="left"|[[Black Forest gateau|Black Forest]] Meringue
+|1st
+|align="left"|[[Tiramisu]] Bombe
+|-
+|align="left"|David
+|align="left"|Spiced Meringue Surprise
+|2nd
+|align="left"|Delightful Bombe
+|-
+|align="left"|Henry
+|align="left"|Towering Meringue Cake
+|4th
+|align="left"|Bonfire Bombe
+|-
+|align="left"|Michael  
+|align="left"|[[Dark Chocolate]] Meringue Cake
+|6th
+|align="left"|[[Black Forest gateau|Black Forest]] Bombe
+|-style="background:pink;"
+|align="left"|Priya
+|align="left"|Family Favourite
+|7th
+|align="left"|Summer [[Fruit]] Bombe
+|-
+|align="left"|Rosie
+|align="left"|Layers of Lime and [[Raspberry]]
+|5th
+|align="left"|Ruby Bombe
+|-style="background:#d0f0c0;"
+|align="left"|Steph
+|align="left"|[[Eton Mess]]
+|3rd
+|align="left"|Mirror Bombe
 |}
