@@ -68,15 +68,14 @@ Absolutely! Here are the current standings!
 
 If you wanna be a GBBO winner, you gotta make consistent bakes. And that's something Alice needs to work on if she wants to make it to the final. She did not do well in the Signature and the Technical, plummeting her odds to win GBBO. As the wheel of fortune turns downward for Alice, it raised Henry up from a 20% chance last week to 75% chance this week to bake in the final. 
 
-As for predicting who will leave the tent, DeepBake missed this one. It thought Rosie would leave with a 66% chance, but Michael was the unlucky baker who was eliminated. His chance to leave was pegged at 43%, second to leave according to DeepBake. Now DeepBake has predicted 6 out of the 8 bakers who would leave, which is a 75% chance of getting this prediction correct. This is not so bad, but hopefully DeepBake can do better. 
+As for predicting who will leave the tent, DeepBake missed this one. It thought Rosie would leave with a 66% chance, but Michael was the unlucky baker who was eliminated. His chance to leave was pegged at 43%, second to leave according to DeepBake. Now DeepBake has predicted 6 out of the 8 bakers who would leave, which is a 75% chance of getting this prediction correct. This is not so bad, but hopefully DeepBake can do better, even though Micheal was predicted next to leave after Rosie. 
 
 <img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e7.preds.png" height="500">
 
 
 Steph is still solidly leading the GBBO winner odds with 40% chance to win, following her is David with 35% chance and then Henry with a 24% chance. It seems the spread between Steph and David is closing in as the bakers inch toward the final. 
 
-What I find intriguing is how the 3rd-4th place category is not lateral, as it were last week. Now Alice is leading this group with 34% chance to place in either 3rd or 4th place. This means DeepBake thinks she will not get eliminated next week, but will not bake in the final. Henry and Alice (who are lovebirds by the way), are not consistent bakers which makes their chance of winning less believable than Steph or David. However, I think we can all agree that Rosie will likely leave the tent next week. 
-
+What I find intriguing is how the 3rd-4th place category is not lateral compared to last week. Now Alice is leading this group with 34% chance to place in either 3rd or 4th place. This means DeepBake thinks she will not get eliminated next week, but will not bake in the final. Henry and Alice (who are lovebirds by the way), are not consistent bakers which makes their chance of winning less believable than Steph or David. However, I think we can all agree that Rosie will likely leave the tent next week. 
 
 
 ### Season 10: Week 6 Predictions:
