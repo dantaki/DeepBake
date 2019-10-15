@@ -1,6 +1,11 @@
+== Episodes ==
+
+:{{Color box|pink|border=darkgray}} Baker eliminated
+:{{Color box|#d0f0c0|border=darkgray}} Star Baker
+:{{Color box|gold|border=darkgray}} Winner
 
 === Episode 1: Cake ===
-For the signature challenge, the bakers had to bake a [[Fruitcake|fruit cake]] in the shape of their choice, with a significant amount of dry fruits, and decorated in 2½ hours. For the technical challenge set by Prue, the bakers had to bake six identical [[angel cake]] slices, with layers made of genoise sponge sandwiched with Italian meringue buttercream, topped with icing and feathered in 1¾ hours. For the showstopper challenge, the bakers had to bake a [[birthday cake]] from a childhood dream in 4 hours.	
+For the signature challenge, the bakers had to bake a [[Fruitcake|fruit cake]] in the shape of their choice, with a significant amount of dried fruit, and lavish decoration. For the technical challenge set by Prue, the bakers had to bake six identical [[angel cake]] slices, with layers made of genoise sponge sandwiched with Italian meringue buttercream, topped with icing and feathered. For the showstopper challenge, the bakers baked the [[birthday cake]] they always dreamed of as a child.	
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
@@ -75,7 +80,7 @@ For the signature challenge, the bakers had to bake a [[Fruitcake|fruit cake]] i
 |}
 
 === Episode 2: Biscuits ===
-For the signature challenge this week, the bakers were tasked to make 12 decorated chocolate biscuit bars. For the technical challenge, Paul tasked a "controversial" bake that was his dad's favourite- 12 [[fig rolls]] that needed to be identical in shape and size. For the showstopper, the bakers were asked to create a 3D biscuit sculpture. 
+For the signature challenge this week, the bakers were tasked to make 12 decorated chocolate biscuit bars. For the technical challenge, Paul tasked a "controversial" bake that was his dad's favourite: 12 [[fig rolls]] which were identical in shape and size. For the showstopper, the bakers were asked to create a 3D biscuit sculpture. 
 {| class="wikitable" style="text-align:center;"
 |+
 !Baker
@@ -298,7 +303,7 @@ For the signature challenge, the bakers were tasked to produce 4 [[custard pie|c
 |align="left"|Henry
 |align="left"|1920's Pies
 |3rd
-|align="left"|[[White Russian]] Cake
+|align="left"|[[White Russian (cocktail)|White Russian]] Cake
 |-
 |align="left"|Michael  
 |align="left"|Mango, Lime & Ginger Pies
@@ -369,4 +374,44 @@ For the signature challenge this week, the bakers were asked to make a layered [
 |align="left"|[[Eton Mess]]
 |3rd
 |align="left"|Mirror Bombe
+|}
+
+=== Episode 7: Festivals ===
+For the signature challenge, the bakers were asked to make 24 buns with the theme of a festival or holiday from around the world. For the technical challenge, Paul tasked the bakers with a deep fried pastry treat traditionally served during the Italian Carnevale, 12 [[Cassata|Sicilian Cassatelles]]. For the showstopper challenge, the bakers were set with the complex task of making a [[Sarawak layer cake|kek lapis Sarawak]], a traditional layered Malaysian cake.
+{| class="wikitable" style="text-align:center;"
+|+
+!Baker
+!Signature<br /><small>(24 Festival Buns)</small>
+!Technical<br /><small>(12 [[Cassata|Sicilian Cassatelles]])</small>
+!Showstopper<br /><small>([[Sarawak layer cake|Kek Lapis Sarawak]])</small>
+|-
+|align="left"|Alice
+|align="left"|Lemon, Blueberry & Almond Hot Cross Buns
+|6th
+|align="left"|Chocolate, Orange and Salted Caramel Kaleidoscope Sarawak Style Layered Cake
+|-
+|align="left"|David
+|align="left"|[[Kozunak]] Plaits
+|2nd
+|align="left"|Sarawak Style Layer Cake Sculpture
+|-style="background:#d0f0c0;"
+|align="left"|Henry
+|align="left"|Chocolate [[Cardamom bread|Kardemummabullar]]
+|3rd
+|align="left"|Elegant Present Box
+|-style="background:pink;"
+|align="left"|Michael  
+|align="left"|[[Figgy Pudding]] Hot Cross Buns
+|5th
+|align="left"|Jamaican Mule Sarawak Style Layer Cake
+|-
+|align="left"|Rosie
+|align="left"|[[Mardi Gras]] Finnish [[Semla|Semlor]] Peacock Festival Buns
+|1st
+|align="left"|Rainbow Sarawak Style Layer Cake
+|-
+|align="left"|Steph
+|align="left"|Zest and Spice Hot Cross Buns
+|4th
+|align="left"|Orange and Chai Spiced Revitalise Cake
 |}
