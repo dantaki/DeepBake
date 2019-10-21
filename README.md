@@ -2,16 +2,16 @@
 Baking Machine Learning into Great British Bake Off
 ----------------------------------------------------
 
-## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-week-7-predictions) :crystal_ball:
+## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-week-8-predictions) :crystal_ball:
 
 #### GBBO Winner: running probability
-<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.winner.running.probs.20191014.png" height="300">
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.winner.running.probs.20191021.png" height="300">
 
 #### GBBO Finalist: running probability
-<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.finalist.running.probs.20191014.png" height="300">
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.finalist.running.probs.20191021.png" height="300">
 
-#### 5th-7th Place: running probability
-<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.5th-7th.running.probs.20191014.png" height="300">
+#### 3rd-4th Place: running probability
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.3rd-4th.running.probs.20191021.png" height="300">
 
 -----------------------
 
@@ -63,6 +63,19 @@ Note how the classifier gets better at predicting as the season progresses. This
 ## Does this mean DeepBake can predict the winner for Season 10?
 
 Absolutely! Here are the current standings!
+
+### Season 10: Week 8 Predictions:
+
+Pastry week did not go well for the bakers, nearly everyone had some problems in the signature or in the technical (*cough* Steph) or at the showstopper. What does this mean for David, who rocked the obscure Moroccan technical? Well now he is in the lead for winning GBBO at a 22% chance, while Steph dropped down to 21%. Still neck-and-neck for those two. 
+
+As for the rest of the pack, Henry and Alice swapped places again: now Alice is poised to be a GBBO Finalist (75%) as opposed to Henry's 75% chance he got at week 7. 
+
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e8.preds.png" height="500">
+
+
+In fact, Henry left the tent this week and DeepBake did not predict it. Giving Rosie the highest chance of placing 3rd through 4th place with 89% probability. Henry was close to follow with a 70% chance. So in defense of DeepBake, it has correctly predicted who will leave given the highest or second highest odds to leave for every week thus far. 
+
+Stay tuned for next week, the semi-final, and see if DeepBake has correctly pegged who will be a GBBO finalist. Will it be Steph, David, and Alice, or will DeepBake 
 
 ### Season 10: Week 7 Predictions:
 
