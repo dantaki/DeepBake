@@ -34,7 +34,6 @@ while(<IN>){
 	my @r = split /\|\|/, $_;
 	my $iid = $r[0];
 	$iid =~ s/\s//g; $iid =~ s/\|//g;
-	print "$iid\n"; 
 	next unless(exists $iid{$iid}{$season});
       	next if(! defined $r[2]);
 	my $tech = $r[2];

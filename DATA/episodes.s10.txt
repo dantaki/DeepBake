@@ -1,3 +1,4 @@
+
 == Episodes ==
 
 :{{Color box|pink|border=darkgray}} Baker eliminated
@@ -9,8 +10,8 @@ For the signature challenge, the bakers had to bake a [[Fruitcake|fruit cake]] i
 {| class="wikitable" style="text-align:center;"
 !Baker
 !Signature<br /><small>([[Fruitcake|Fruit Cake]])</small>
-!Technical<br /><small>(6 [[Angel cake|Angel Cake]] Slices)</small>
-!Showstopper<br /><small>([[Birthday cake|Birthday Cake]])</small>
+!Technical<br /><small>(6 [[Angel cake]] Slices)</small>
+!Showstopper<br /><small>([[Birthday cake]])</small>
 | - ||- 
 |  Alice ||align="left"|Gingerbread Fruit Cake Wreath ||5th ||align="left"|Like a Child in a Sweetshop Cake ||- 
 |  Amelia ||align="left"|Christmas Cake ||4th ||align="left"|Carousel Birthday Cake ||- 
@@ -31,20 +32,20 @@ For the signature challenge this week, the bakers were tasked to make 12 decorat
 {| class="wikitable" style="text-align:center;"
 !Baker
 !Signature<br /><small>(12 Decorated Chocolate Biscuit Bars)</small>
-!Technical<br /><small>(12 [[fig rolls|Fig Rolls]])</small>
+!Technical<br /><small>(12 [[fig rolls]])</small>
 !Showstopper<br /><small>(3D Biscuit Sculpture)</small>
 | + ||-style="background:#d0f0c0;" 
 |  Alice ||align="left"|[[Honeycomb]] Peanut Mallow Bars ||1st ||align="left"|Chocolate and Coconut [[New Zealand]] Lamb ||- 
 |  Amelia ||align="left"|Pistachio, Almond & Raisin [[Nougat]] Biscuit Bars ||9th ||align="left"|Swimming with Dolphins ||- 
 |  David ||align="left"|Coco-nutty Chocolate Bars ||2nd ||align="left"|Wedding Spray ||- 
 |  Helena ||align="left"|[[Wicked Witch]] Fingers ||12th ||align="left"|Caught in a Spider's Web ||- 
-|  Henry ||align="left"|Coffee, Cardamom & Hazelnut Bars ||6th ||align="left"|Chapel [[Organ (music)|Organ]] ||-style="background:pink;" 
-|  Jamie ||align="left"|Cherry Caramel Shortbread Biscuit Bars ||11th ||align="left"|Biscuit [[Guitar]] ||- 
+|  Henry ||align="left"|Coffee, Cardamom & Hazelnut Bars ||6th ||align="left"|Chapel Organ ||-style="background:pink;" 
+|  Jamie ||align="left"|Cherry Caramel Shortbread Biscuit Bars ||11th ||align="left"|Biscuit Guitar ||- 
 |  Michael ||align="left"|Lemon & Rosemary Biscuit Bars ||4th ||align="left"|Hamish the [[Highland Cow]] ||- 
 |  Michelle ||align="left"|[[Bakewell]] Bars ||8th ||align="left"|Dewi y Ddraig Gymraeg (Dewi the [[Welsh Dragon]]) ||- 
 |  Phil ||align="left"|Orange, Cranberry & White Chocolate Fudge Bars ||3rd ||align="left"|Tina the Tortoise ||- 
 |  Priya ||align="left"|[[Ruby Chocolate|Ruby]] [[Barfi]] Biscuit Bars ||7th ||align="left"|The Beast of Rocky Mountain ||- 
-|  Rosie ||align="left"|[[Virgin Mojito]] Biscuit Bars ||5th ||align="left"|My Favourite Chicken - A Celebration of Legs ||- 
+|  Rosie ||align="left"|[[Virgin Mojito]] Biscuit Bars ||5th ||align="left"|My Favourite Chicken – A Celebration of Legs ||- 
 |  Steph ||align="left"|Chocolate, Caramel Macchiato Biscuit Bars ||10th ||align="left"|Ginger the Cat ||} 
 
 === Episode 3: Bread ===
@@ -60,46 +61,46 @@ For the signature challenge this week, the bakers were asked to make a Tear & Sh
 |  Amelia ||align="left"|Chorizo Brunch Tear & Share ||11th ||align="left"|[[Caterpillar]] Transformation ||- 
 |  David ||align="left"|[[Cinnamon]] Swirl Tear & Share ||2nd ||align="left"|Trio of African Masks ||- 
 |  Helena ||align="left"|Frosted [[Cinnamon]] and [[Pecan]] Tear & Share ||8th ||align="left"|Every Bread is [[Halloween]] ||- 
-|  Henry ||align="left"|[[Chicken]] and [[ Pesto]] Tear & Share ||1st ||align="left"|Herb Garden ||-style="background:#d0f0c0;" 
+|  Henry ||align="left"|Chicken and [[Pesto]] Tear & Share ||1st ||align="left"|Herb Garden ||-style="background:#d0f0c0;" 
 |  Michael ||align="left"|Keralan Star Bread Tear & Share ||6th ||align="left"|[[Mediterranean]] Camp Fire ||- 
-|  Michelle ||align="left"|Noson Gaws ([[Cheese]] Night) Tear & Share ||5th ||align="left"|Gardd Ni (Our [[Garden]]) ||- 
+|  Michelle ||align="left"|Noson Gaws (Cheese Night) Tear & Share ||5th ||align="left"|Gardd Ni (Our Garden) ||- 
 |  Phil ||align="left"|Pancetta and Cheese Focaccia Tear & Share  ||10th ||align="left"|Winner's [[Wreath]] ||- 
-|  Priya ||align="left"|Smokey [[Jalapeño]] Tear & Share ||4th ||align="left"|[[Bird]] Boules ||- 
+|  Priya ||align="left"|Smokey [[Jalapeño]] Tear & Share ||4th ||align="left"|Bird Boules ||- 
 |  Rosie ||align="left"|Chilli and Manchego Tear & Share ||9th ||align="left"|Bread [[Safari]] ||- 
-|  Steph ||align="left"|Sun-Dried Tomato and [[Pesto]] Star Tear & Share ||3rd ||align="left"|Hand-Tied Bouquet of [[Flowers]] ||} 
+|  Steph ||align="left"|Sun-Dried Tomato and [[Pesto]] Star Tear & Share ||3rd ||align="left"|Hand-Tied Bouquet of Flowers ||} 
 
 === Episode 4: Dairy ===
-For the signature challenge this week, Paul and Prue tasked the bakers with a [[Dairy]] Cake, but the [[cake]] mixture needed to contain a [[cultured dairy product]]. For the technical challenge, Prue asked the bakers to make a difficult bake that dated back to the [[Tudor period|Tudor]] times, twelve [[Maids of honour tart|Maids of Honour]]. For the showstopper challenge, the judges gave the bakers the task of making a display of milk-based [[India]]n [[sweets]] known as Mishti.
+For the signature challenge this week, Paul and Prue tasked the bakers with a Dairy Cake, but the cake mixture needed to contain a [[cultured dairy product]]. For the technical challenge, Prue asked the bakers to make a difficult bake that dated back to the [[Tudor period|Tudor]] times, twelve [[Maids of honour tart|Maids of Honour]]. For the showstopper challenge, the judges gave the bakers the task of making a display of milk-based Indian [[sweets]] known as Mishti.
 {| class="wikitable" style="text-align:center;"
 !Baker
-!Signature<br /><small>(Cultured [[Dairy]] Cake)</small>
+!Signature<br /><small>(Cultured Dairy Cake)</small>
 !Technical<br /><small>(12 [[Maids of honour tart|Maids of Honour]])</small>
 !Showstopper<br /><small>(Display of Mishti)</small>
 | + ||- 
 |  Alice ||align="left"|Leafy [[Yoghurt]] Cake ||8th ||align="left"|[[Afternoon Tea]] ||- 
 |  David ||align="left"|A Kick of [[Limoncello]] Cake ||2nd ||align="left"|Flavours of [[India]] Mishti ||- 
-|  Helena ||align="left"|[[Ghost]] Cake ||9th ||align="left"|Ye Olde [[England|English]] Sweet Shoppe Mishti ||- 
-|  Henry ||align="left"|Ode to a [[Germany|German]] Breakfast Cake ||3rd ||align="left"|Seaside Mishti ||- 
+|  Helena ||align="left"|Ghost Cake ||9th ||align="left"|Ye Olde English Sweet Shoppe Mishti ||- 
+|  Henry ||align="left"|Ode to a German Breakfast Cake ||3rd ||align="left"|Seaside Mishti ||- 
 |  Michael   ||align="left"|[[Cheesecake]] Surprise ||7th ||align="left"|[[Flag of India]] Mishti ||- 
 |  Michelle ||align="left"|Homely [[Rhubarb]] Cake ||5th ||align="left"|Home Comforts Mishti ||-style="background:pink;" 
-|  Phil ||align="left"|Trucking Lovely Rose Cake ||6th ||align="left"|A Corner of My [[Garden]] Mishti ||- 
+|  Phil ||align="left"|Trucking Lovely Rose Cake ||6th ||align="left"|A Corner of My Garden Mishti ||- 
 |  Priya ||align="left"|Choc-chip Banana Cake ||10th ||align="left"|Flavours of My Childhood Mishti ||- 
 |  Rosie ||align="left"|A Good Dose of [[Limoncello]] Cake ||4th ||align="left"|Cocktails & [[Canapés]] Mishti ||- 
 | -style="background:#d0f0c0;" 
-|  Steph ||align="left"|Answer to Everything Cake ||1st ||align="left"|[[Pink]] and Pretty Mishti ||} 
+|  Steph ||align="left"|Answer to Everything Cake ||1st ||align="left"|Pink and Pretty Mishti ||} 
 
 === Episode 5: The Roaring Twenties ===
-For the signature challenge, the bakers were tasked to produce 4 [[custard pie|custard pies]] which should be elaborately decorated with the theme of the 1920s. For the technical challenge, the bakers faced a difficult challenge set by Prue of deep-frying [[choux]] pastry to produce 18 [[Beignet]] Soufflés filled with raspberry jam and served with a [[zabaglione]]. For the showstopper challenge, the bakers were tasked to create a prohibition [[cocktail]] cake, with at least two tiers, in memory of the [[Prohibition in the United States|prohibition era in the United States]].
+For the signature challenge, the bakers were tasked to produce 4 [[custard pie]]s which should be elaborately decorated with the theme of the 1920s. For the technical challenge, the bakers faced a difficult challenge set by Prue of deep-frying [[choux]] pastry to produce 18 [[Beignet]] Soufflés filled with raspberry jam and served with a [[zabaglione]]. For the showstopper challenge, the bakers were tasked to create a prohibition [[cocktail]] cake, with at least two tiers, in memory of the [[Prohibition in the United States|prohibition era in the United States]].
 {| class="wikitable" style="text-align:center;"
 !Baker
-!Signature<br /><small>(4 [[custard pie|Custard Pies]])</small>
+!Signature<br /><small>(4 [[custard pie]]s)</small>
 !Technical<br /><small>(18 [[Beignet]] Soufflés)</small>
 !Showstopper<br /><small>(Prohibition Era Cake)</small>
 | + ||- 
 |  Alice ||align="left"|Chocolate & Orange Custard Pies ||6th ||align="left"|[[Piña Colada]] Cake ||- 
 |  David ||align="left"|Fancy Custards ||9th ||align="left"|Amaretto Sour Cake ||-style="background:pink;" 
 |  Helena ||align="left"|Lemon and Lavender Pies ||1st ||align="left"|Vampire's Kiss Raspberry [[Vodka]] Cake ||- 
-|  Henry ||align="left"|1920's Pies ||3rd ||align="left"|[[White Russian (cocktail)|White Russian]] Cake ||- 
+|  Henry ||align="left"|1920s Pies ||3rd ||align="left"|[[White Russian (cocktail)|White Russian]] Cake ||- 
 |  Michael   ||align="left"|Mango, Lime & Ginger Pies ||8th ||align="left"|Brambling Cake ||-style="background:pink;" 
 |  Michelle ||align="left"|Blueberry & White Chocolate [[Crème Brûlée]] Pies ||7th ||align="left"|My Little Sister the Dancing Queen's [[Piña Colada]] Cake ||- 
 |  Priya ||align="left"|Lemon & Raspberry Ripple Pies ||2nd ||align="left"|Meena Colada Cake ||- 
@@ -107,18 +108,18 @@ For the signature challenge, the bakers were tasked to produce 4 [[custard pie|c
 |  Steph ||align="left"|Zesty Citrus Custard Pies ||4th ||align="left"|Sour Lime [[Piña Colada]] Cake ||} 
 
 === Episode 6: Desserts ===
-For the signature challenge this week, the bakers were asked to make a layered [[meringue]] cake with a minimum of three layers and 'large enough to share with friends'. For the technical challenge, Prue gave the bakers a particularly difficult task that tested the bakers precision,  six identical layered [[Verrine|verrines]]. For showstopper challenge, the bakers were tasked with an explosive bake, a Celebratory [[Bombe_glacée|Bombe]].
+For the signature challenge this week, the bakers were asked to make a layered [[meringue]] cake with a minimum of three layers and 'large enough to share with friends'. For the technical challenge, Prue gave the bakers a particularly difficult task that tested the bakers precision, six identical layered [[Verrine]]s. For showstopper challenge, the bakers were tasked with an explosive bake, a Celebratory [[Bombe_glacée|Bombe]].
 {| class="wikitable" style="text-align:center;"
 !Baker
 !Signature<br /><small>(Layered [[Meringue]] Cake)</small>
-!Technical<br /><small>(6 [[Verrine|Verrines]])</small>
+!Technical<br /><small>(6 [[Verrine]]s)</small>
 !Showstopper<br /><small>(Celebratory [[Bombe glacée|Bombe]])</small>
 | + ||- 
 |  Alice ||align="left"|[[Black Forest gateau|Black Forest]] Meringue ||1st ||align="left"|[[Tiramisu]] Bombe ||- 
 |  David ||align="left"|Spiced Meringue Surprise ||2nd ||align="left"|Delightful Bombe ||- 
 |  Henry ||align="left"|Towering Meringue Cake ||4th ||align="left"|Bonfire Bombe ||- 
 |  Michael   ||align="left"|[[Dark Chocolate]] Meringue Cake ||6th ||align="left"|[[Black Forest gateau|Black Forest]] Bombe ||-style="background:pink;" 
-|  Priya ||align="left"|Family Favourite ||7th ||align="left"|Summer [[Fruit]] Bombe ||- 
+|  Priya ||align="left"|Family Favourite ||7th ||align="left"|Summer Fruit Bombe ||- 
 |  Rosie ||align="left"|Layers of Lime and [[Raspberry]] ||5th ||align="left"|Ruby Bombe ||-style="background:#d0f0c0;" 
 |  Steph ||align="left"|[[Eton Mess]] ||3rd ||align="left"|Mirror Bombe ||} 
 
@@ -136,3 +137,17 @@ For the signature challenge, the bakers were asked to make 24 buns with the them
 |  Michael   ||align="left"|[[Figgy Pudding]] Hot Cross Buns ||5th ||align="left"|Jamaican Mule Sarawak Style Layer Cake ||- 
 |  Rosie ||align="left"|[[Mardi Gras]] Finnish [[Semla|Semlor]] Peacock Festival Buns ||1st ||align="left"|Rainbow Sarawak Style Layer Cake ||- 
 |  Steph ||align="left"|Zest and Spice Hot Cross Buns ||4th ||align="left"|Orange and Chai Spiced Revitalise Cake ||} 
+
+=== Episode 8: Pastries ===
+For the signature challenge, the bakers were tasked to do a savoury twist on a usually sweet French Classic, [[Tarte Tatin]]. For the technical challenge, the bakers were tasked with a challenging task of recreating a Moroccan Pie made from warka pastry (also known as [[Brik|brick pastry]]). For the showstopper challenge, the bakers were tasked to create a vertical pie consisting of at least two separate pies. 
+{| class="wikitable" style="text-align:center;"
+!Baker
+!Signature<br /><small>(Savoury [[Tarte Tatin]])</small>
+!Technical<br /><small>(Moroccan Pie)</small>
+!Showstopper<br /><small>(Vertical Pie)</small>
+| + ||- 
+|  Alice ||align="left"|Leek, Apple & [[Goat_cheese|Goat's Cheese]] Tarte Tatin ||3rd ||align="left"|Apple Tree House Pie ||- 
+|  David ||align="left"|Caramelly Carroty Tarte Tatin ||1st ||align="left"|Whitby Fish Pie ||-style="background:pink;" 
+|  Henry ||align="left"|Crab, Tomato & New Potato Tarte Tatin ||5th ||align="left"|Chandelier Picnic Pie ||- 
+|  Rosie ||align="left"|Shallot, Aubergine & Goat's Cheese Spiced Tarte Tatin ||2nd ||align="left"|Rapunzel's Tower ||-style="background:#d0f0c0;" 
+|  Steph ||align="left"|Caramelised Onion & Goat's Cheese Tarte Tatin ||4th ||align="left"|Curried Chickpea & Potato Carousel ||} 
