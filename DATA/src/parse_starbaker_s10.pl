@@ -2,7 +2,7 @@
 use strict; use warnings;
 use Statistics::Basic qw/median mean/; 
 
-my $WEEK=8; 
+my $WEEK=9; 
 
 undef my %iid; undef my %place;
 open IN, "../RESULTS/sample.manifest.s10.tsv";

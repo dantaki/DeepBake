@@ -1,4 +1,3 @@
-
 == Episodes ==
 
 :{{Color box|pink|border=darkgray}} Baker eliminated
@@ -10,8 +9,8 @@ For the signature challenge, the bakers had to bake a [[Fruitcake|fruit cake]] i
 {| class="wikitable" style="text-align:center;"
 !Baker
 !Signature<br /><small>([[Fruitcake|Fruit Cake]])</small>
-!Technical<br /><small>(6 [[Angel cake]] Slices)</small>
-!Showstopper<br /><small>([[Birthday cake]])</small>
+!Technical<br /><small>(6 [[Angel_cake|Angel Cake]] Slices)</small>
+!Showstopper<br /><small>([[Birthday Cake]])</small>
 | - ||- 
 |  Alice ||align="left"|Gingerbread Fruit Cake Wreath ||5th ||align="left"|Like a Child in a Sweetshop Cake ||- 
 |  Amelia ||align="left"|Christmas Cake ||4th ||align="left"|Carousel Birthday Cake ||- 
@@ -28,11 +27,11 @@ For the signature challenge, the bakers had to bake a [[Fruitcake|fruit cake]] i
 |  Steph ||align="left"|Great Grandma's Fruit Cake ||3rd ||align="left"|A Sundae on the Beach Cake ||} 
 
 === Episode 2: Biscuits ===
-For the signature challenge this week, the bakers were tasked to make 12 decorated chocolate biscuit bars. For the technical challenge, Paul tasked a "controversial" bake that was his dad's favourite: 12 [[fig rolls]] which were identical in shape and size. For the showstopper, the bakers were asked to create a 3D biscuit sculpture. 
+For the signature challenge this week, the bakers were tasked to make 12 decorated chocolate biscuit bars. For the technical challenge, Paul tasked a "controversial" bake that was his dad's favourite - 12 [[fig rolls]] which were identical in shape and size. For the showstopper, the bakers were asked to create a 3D biscuit sculpture. 
 {| class="wikitable" style="text-align:center;"
 !Baker
 !Signature<br /><small>(12 Decorated Chocolate Biscuit Bars)</small>
-!Technical<br /><small>(12 [[fig rolls]])</small>
+!Technical<br /><small>(12 [[Fig_roll|Fig Rolls]])</small>
 !Showstopper<br /><small>(3D Biscuit Sculpture)</small>
 | + ||-style="background:#d0f0c0;" 
 |  Alice ||align="left"|[[Honeycomb]] Peanut Mallow Bars ||1st ||align="left"|Chocolate and Coconut [[New Zealand]] Lamb ||- 
@@ -93,7 +92,7 @@ For the signature challenge this week, Paul and Prue tasked the bakers with a Da
 For the signature challenge, the bakers were tasked to produce 4 [[custard pie]]s which should be elaborately decorated with the theme of the 1920s. For the technical challenge, the bakers faced a difficult challenge set by Prue of deep-frying [[choux]] pastry to produce 18 [[Beignet]] Soufflés filled with raspberry jam and served with a [[zabaglione]]. For the showstopper challenge, the bakers were tasked to create a prohibition [[cocktail]] cake, with at least two tiers, in memory of the [[Prohibition in the United States|prohibition era in the United States]].
 {| class="wikitable" style="text-align:center;"
 !Baker
-!Signature<br /><small>(4 [[custard pie]]s)</small>
+!Signature<br /><small>(4 [[Custard_pie|Custard Pie]]s)</small>
 !Technical<br /><small>(18 [[Beignet]] Soufflés)</small>
 !Showstopper<br /><small>(Prohibition Era Cake)</small>
 | + ||- 
@@ -139,7 +138,7 @@ For the signature challenge, the bakers were asked to make 24 buns with the them
 |  Steph ||align="left"|Zest and Spice Hot Cross Buns ||4th ||align="left"|Orange and Chai Spiced Revitalise Cake ||} 
 
 === Episode 8: Pastries ===
-For the signature challenge, the bakers were tasked to do a savoury twist on a usually sweet French Classic, [[Tarte Tatin]]. For the technical challenge, the bakers were tasked with a challenging task of recreating a Moroccan Pie made from warka pastry (also known as [[Brik|brick pastry]]). For the showstopper challenge, the bakers were tasked to create a vertical pie consisting of at least two separate pies. 
+For the signature challenge, the bakers were tasked to do a savoury twist on a usually sweet French Classic, [[Tarte Tatin]]. For the technical challenge, the bakers were given the challenging task of recreating a Moroccan Pie made from warka pastry (also known as [[Brik|brick pastry]]). For the showstopper challenge, the bakers were asked to create a vertical pie consisting of at least two separate pies. 
 {| class="wikitable" style="text-align:center;"
 !Baker
 !Signature<br /><small>(Savoury [[Tarte Tatin]])</small>
@@ -151,3 +150,16 @@ For the signature challenge, the bakers were tasked to do a savoury twist on a u
 |  Henry ||align="left"|Crab, Tomato & New Potato Tarte Tatin ||5th ||align="left"|Chandelier Picnic Pie ||- 
 |  Rosie ||align="left"|Shallot, Aubergine & Goat's Cheese Spiced Tarte Tatin ||2nd ||align="left"|Rapunzel's Tower ||-style="background:#d0f0c0;" 
 |  Steph ||align="left"|Caramelised Onion & Goat's Cheese Tarte Tatin ||4th ||align="left"|Curried Chickpea & Potato Carousel ||} 
+
+=== Episode 9: Pâtisserie (semi-final) ===
+For the signature challenge, the bakers were tasked with making eight identically decorated domed tarts. For the technical challenge, Prue gave the bakers the task to construct a [[Gâteau Saint Honoré]], a French classic with involves both [[Choux_pastry|choux]] and [[Puff_pastry|puff]] pastry, plus a large amount of cream to relate the week's theme. For the showstopper challenge, the bakers were given a very difficult task to make sugar glass cabinets, along with pâtisserie to appear inside them.
+{| class="wikitable" style="text-align:center;"
+!Baker
+!Signature<br /><small>(8 Domed Tarts)</small>
+!Technical<br /><small>([[Gâteau Saint Honoré]])</small>
+!Showstopper<br /><small>(Sugar Glass Display Case)</small>
+| + ||-style="background:#d0f0c0;" 
+|  Alice ||align="left"|Mocha, [[Hazelnut]] & [[Orange_(fruit)|Orange]] Domed Tarts ||4th ||align="left"|Save Our Oceans ||- 
+|  David ||align="left"|[[Aperitif]] Domed Tarts ||2nd ||align="left"|Greenhouse Growing Moss ||-style="background:pink;" 
+|  Rosie ||align="left"|Lemon, Raspberry & Mint Domed Tarts ||1st ||align="left"|Time with Family ||- 
+|  Steph ||align="left"|Raspberry, Lemon & [[White Chocolate]] Domed Tarts ||3rd ||align="left"|A Night at the Opera ||} 
