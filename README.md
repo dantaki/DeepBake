@@ -2,16 +2,28 @@
 Baking Machine Learning into Great British Bake Off
 ----------------------------------------------------
 
-## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-week-8-predictions) :crystal_ball:
+## :crystal_ball: [Season 10 Predictions](https://github.com/dantaki/DeepBake#season-10-week-9-predictions) :crystal_ball:
+
+### Standings Going into the Final!
+
+Probability results from Week 9
+
+| Baker | Winner | Finalist | 3rd-4th Place |
+| ----  | ------ | -------- | ------------  | 
+| David | 29%    |  69%     |  22%          |
+| Steph | 25%    |   97%    |  2%           |
+| Alice | 22%    |   98%    |  1%           |
+
+-------------------------------------------------
 
 #### GBBO Winner: running probability
-<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.winner.running.probs.20191021.png" height="300">
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.winner.running.probs.20191028.png" height="300">
 
 #### GBBO Finalist: running probability
-<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.finalist.running.probs.20191021.png" height="300">
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.finalist.running.probs.20191028.png" height="300">
 
 #### 3rd-4th Place: running probability
-<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.3rd-4th.running.probs.20191021.png" height="300">
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/gbbo.3rd-4th.running.probs.20191028.png" height="300">
 
 -----------------------
 
@@ -63,6 +75,29 @@ Note how the classifier gets better at predicting as the season progresses. This
 ## Does this mean DeepBake can predict the winner for Season 10?
 
 Absolutely! Here are the current standings!
+
+### Season 10: Week 9 Predictions: 
+
+**SEMIFINALS** and DeepBake did well this time, correctly predicting Rosie woud get the boot with an 80% chance of placing in 3rd-4th place. 
+
+So the question remains? Who is going to win GBBO? 
+
+<img src="https://raw.githubusercontent.com/dantaki/DeepBake/master/FIGURES/s10e9.preds.png" height="500">
+
+Here's a table of the current standings. Let's consider all the probabilities listed here.
+
+| Baker | Winner | Finalist | 3rd-4th Place |
+| ----  | ------ | -------- | ------------  | 
+| David | 29%    |  69%     |  22%          |
+| Steph | 25%    |   97%    |  2%           |
+| Alice | 22%    |   98%    |  1%           |
+
+David has the highest chance of winning GBBO, but he also given a much higher score for 3rd-4th place than the other two bakers. He is also given a much lower score for being a Finalist than the other two bakers. Steph has been solid for the entire serires but has recently declined in standings. I think Steph is the safe bet while Alice is the Dark Horse. 
+
+Alice's chance to win has [bounced around](https://github.com/dantaki/DeepBake#gbbo-winner-running-probability) quite a bit, which makes her less of a safe bet. But she has come on top in many weeks.
+
+So do the judges *really* consider all previous bakes too, as they claim? If they do I think it's clear David or Steph will win GBBO. David has a real chance of winning since he has caught up to the juggernaut that is Steph. However, David has also fudged the rules sometimes (I mean a pie without a cover??? Really mate?). Steph has won Star Baker 4 times while David has never been graced by that honor. There has **never** been a GBBO winner that has not won Star Baker. Just let that bake for a minute.
+
 
 ### Season 10: Week 8 Predictions:
 
