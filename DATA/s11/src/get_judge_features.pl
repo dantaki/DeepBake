@@ -2,10 +2,10 @@
 use strict; use warnings;
 use Statistics::Basic qw/median mean/; 
 
-my $WEEK=10; 
+my $WEEK=$ARGV[0]; 
 
 undef my %iid; undef my %place;
-open IN, "../RESULTS/sample.manifest.s10.tsv";
+open IN, "sample_manifest_s11.tsv";
 <IN>;
 while(<IN>){
 	chomp;
@@ -17,8 +17,7 @@ while(<IN>){
 undef my %star; undef my %good; undef my %bad;
 undef my %episode;
 
-my @files = ("starbaker.s10.final.csv");
-#glob("starbaker.s10.e${WEEK}.csv");
+my @files = ("starbaker_s11_e${WEEK}.csv");
 
 foreach my $f (@files) { 
 my $episode=0;
@@ -99,8 +98,7 @@ foreach my $iid (sort keys %{$good{$season}}) {
 }
 
 my $ts = timestamp();
-my $o = "../RESULTS/gbbo.starbaker.data.s10.final.tsv";
-#"../RESULTS/gbbo.starbaker.data.s10.e${WEEK}.${ts}.tsv";
+my $o = "deepbake_judge_features_s11_e${WEEK}.${ts}.tsv";
 open OUT, ">$o";
 my $feats = "mean_star\tstar\tmean_good\tgood\tmean_bad\tbad";
 print OUT "season\tbaker\tindex\tepisode\t${feats}\tplace\n"; 

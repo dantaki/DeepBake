@@ -1,3 +1,4 @@
+
 == Episodes ==
 
 :{{Color box|pink|border=darkgray}} Baker eliminated
@@ -163,3 +164,15 @@ For the signature challenge, the bakers were tasked with making eight identicall
 |  David ||align="left"|[[Aperitif]] Domed Tarts ||2nd ||align="left"|Greenhouse Growing Moss ||-style="background:pink;" 
 |  Rosie ||align="left"|Lemon, Raspberry & Mint Domed Tarts ||1st ||align="left"|Time with Family ||- 
 |  Steph ||align="left"|Raspberry, Lemon & [[White Chocolate]] Domed Tarts ||3rd ||align="left"|A Night at the Opera ||} 
+
+=== Episode 10: Final ===
+For the final signature challenge, the remaining three bakers were tasked to create the ultimate chocolate cake that should be rich in chocolate and be beautifully decorated. For the final technical challenge which was set by Paul, the bakers were given the task to create six twice-baked [[Stilton_cheese|Stilton]] [[Soufflé]]s completed with biscuits. For the final showstopper challenge, the bakers were required to create a deceptive illusion picnic basket feast that composed of cakes, biscuits and enriched breads that were presented to look like something else. 
+{| class="wikitable" style="text-align:center;"
+!Baker
+!Signature<br /><small>(Ultimate [[Chocolate Cake]])</small>
+!Technical<br /><small>(6 [[Stilton_cheese|Stilton]] [[Soufflé]]s)</small>
+!Showstopper<br /><small>(Illusion [[Picnic]] Basket Feast)</small>
+| + ||- 
+|  Alice ||align="left"|Chocolate, Pear, Ginger and Maple Cake ||2nd ||align="left"|End of the School Year Celebration Picnic ||-style="background:gold;" 
+|  David ||align="left"|Chocolate, [[Armagnac]] and Prune Cake ||1st ||align="left"|Peachy Pic-Nik ||- 
+|  Steph ||align="left"|[[Black_Forest_gateau|Black Forest]] Chocolate Cake ||3rd ||align="left"|Picnic in the Park ||} 
