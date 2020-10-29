@@ -2,7 +2,7 @@
 Baking Machine Learning into Great British Bake Off
 ----------------------------------------------------
 
-## [Season 11 Predictions](https://dantaki.gitub.io/deepbake/s11.html)
+## [Season 11 Predictions](https://dantaki.github.io/DeepBake/s11.html)
 
 -------
 
