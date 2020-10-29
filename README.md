@@ -2,6 +2,10 @@
 Baking Machine Learning into Great British Bake Off
 ----------------------------------------------------
 
+## [Season 11 Predictions](https://dantaki.gitub.io/deepbake/s11.html)
+
+-------
+
 ### What is this? 
 
 DeepBake is a set of deep learning neural network models to predict the final rankings of GBBO contestants. 
