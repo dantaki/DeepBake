@@ -1,134 +1,115 @@
+== Episodes ==
+
+:{{Color box|pink|border=darkgray}} Baker eliminated
+:{{Color box|#d0f0c0|border=darkgray}} Star Baker
+:{{Color box|gold|border=darkgray}} Winner
 
 === Episode 1: Cake ===	
 For the signature challenge, the bakers created an intricate [[Battenberg cake]]. For the technical challenge set by Paul, the bakers baked six miniature pineapple [[Upside-Down Cake|upside-down cakes]]. At the end of the challenge, Sura, who saw a fly and was trying to brush it away, accidentally hit Dave's tray of six miniature cakes as he was setting them down, knocking four to the floor. Prue and Paul judged the better looking of the remaining two, assuming the rest were the same. For the showstopper challenge, the bakers created a 3-D cake [[Bust (sculpture)|bust]] depicting their personal celebrity hero.
 
-The broadcast of Episode 1 began at 8:15pm instead of 8:00pm, following Prime Minister [[Boris Johnson]]'s address to the nation on the [[COVID-19 pandemic in the United Kingdom|COVID-19 pandemic]].  The episode began with a parody of the Johnson address by new presenter Matt Lucas.<ref>{{cite news |url=https://edition.cnn.com/2020/09/23/entertainment/matt-lucas-boris-johnson-great-british-bake-off-intl-scli-gbr/index.html |title='Great British Bake Off': Matt Lucas revives his Boris Johnson, urging viewers to 'Save Loaves' during 'Great British Bake Off' debut|work=CNN |date=23 September 2020 |first=Toyin |last=Owoseje }}</ref>
 {| class="wikitable" style="text-align:center;"
 !Baker
 !Signature<br /><small>([[Battenberg Cake]])</small>
-!Technical<br /><small>(6 Miniature Pineapple <br >[[Upside-Down Cake]]s)</small>
+!Technical<br /><small>(6 Miniature Pineapple [[Upside-Down Cake]]s)</small>
 !Showstopper<br /><small>(Celebrity Hero Cake [[Bust (sculpture)|Bust]])</small>
-| - ||- 
-|  Dave ||align="left"| Chocolate Espresso Martini Battenberg Cake ||9th ||align="left"| Three Flavours of [[Tom DeLonge]] ||- 
-|  Hermine ||align="left"| Chocolate & Orange Battenberg Cake ||5th ||align="left"| Ode to [[Lupita Nyong'o|Lupita]] ||- 
-|  Laura ||align="left"| 'Celebration of Summer' Battenberg Cake ||6th ||align="left"| Lemon & Elderflower [[Freddie Mercury|Freddie]] ||- 
-|  Linda ||align="left"| Ambulance Battenberg Cake || 12th ||align="left"| Lemon & Orange [[Bob Marley]] ||-style="background:pink;" 
-|  Loriea ||align="left"| 'Hot Summer's Day Treats' Battenberg Cake || 10th ||align="left"| 'Flavours of Jamaica' – A Tribute to [[Louise Bennett-Coverley|Miss Lou]] ||- 
-|  Lottie ||align="left"| Rhubarb and Custard Battenberg Cake ||4th ||align="left"| Coconut & Lime [[Louis Theroux]] ||- 
-|  Mak ||align="left"| East India Battenberg Cake ||8th ||align="left"| Tribute to [[Bill Bryson]] ||- 
-|  Marc ||align="left"| Bittersweet Battenberg Cake || 11th ||align="left"| Chocolate & Vanilla [[Ziggy Stardust (character)|Ziggy]] ||- 
-|  Mark ||align="left"| Turkish Bazaar Inspired Battenberg Cake ||7th ||align="left"|'Origin-ger of the Species' by [[Charles Darwin]] ||-style="background:#d0f0c0;" 
-|  Peter ||align="left"| Gluten-Free Chocolate & Orange Battenberg Cake || 2nd ||align="left"| In honour of [[Chris Hoy|Sir Chris]] ||- 
-|  Rowan ||align="left"| 'The Magic Flute' Battenberg Cake || 3rd ||align="left"| 'Let Them Eat Cake' – A Tribute To [[Marie Antoinette]] ||- 
-|  Sura ||align="left"| Lemon & Orange Battenberg Cake || 1st ||align="left"| Ode to [[David Attenborough| Attenborough]] ||} 
+|  - ||-  ||  Dave ||  Chocolate Espresso Martini Battenberg Cake ||9th ||align="left"| Three Flavours of [[Tom DeLonge]] ||-  
+|   Hermine ||  Chocolate & Orange Battenberg Cake ||5th ||align="left"| Ode to [[Lupita Nyong'o|Lupita]] ||-  
+|   Laura ||  'Celebration of Summer' Battenberg Cake ||6th ||align="left"| Lemon & Elderflower [[Freddie Mercury|Freddie]] ||-  
+|   Linda ||  Ambulance Battenberg Cake || 12th ||align="left"| Lemon & Orange [[Bob Marley]] ||-style="background:pink;"  
+|   Loriea ||  'Hot Summer's Day Treats' Battenberg Cake || 10th ||align="left"| 'Flavours of Jamaica' – A Tribute to [[Louise Bennett-Coverley|Miss Lou]] ||-  
+|   Lottie ||  Rhubarb and Custard Battenberg Cake ||4th ||align="left"| Coconut & Lime [[Louis Theroux]] ||-  
+|   Mak ||  East India Battenberg Cake ||8th ||align="left"| Tribute to [[Bill Bryson]] ||-  
+|   Marc ||  Bittersweet Battenberg Cake || 11th ||align="left"| Chocolate & Vanilla [[Ziggy Stardust (character)|Ziggy]] ||-  
+|   Mark ||  Turkish Bazaar Inspired Battenberg Cake ||7th ||align="left"|'Origin-ger of the Species' by [[Charles Darwin]] ||-style="background:#d0f0c0;"  
+|   Peter ||  Gluten-Free Chocolate & Orange Battenberg Cake || 2nd ||align="left"| In honour of [[Chris Hoy|Sir Chris]] ||-  
+|   Rowan ||  'The Magic Flute' Battenberg Cake || 3rd ||align="left"| 'Let Them Eat Cake' – A Tribute To [[Marie Antoinette]] ||-  
+|   Sura ||  Lemon & Orange Battenberg Cake || 1st ||align="left"| Ode to [[David Attenborough| Attenborough]] ||}  
+
+The broadcast of Episode 1 began at 8:15pm instead of 8:00pm, following Prime Minister [[Boris Johnson]]'s address to the nation on the [[COVID-19 pandemic in the United Kingdom|COVID-19 pandemic]].  The episode began with a parody of the Johnson address by new presenter Matt Lucas.<ref>{{cite news |url=https://edition.cnn.com/2020/09/23/entertainment/matt-lucas-boris-johnson-great-british-bake-off-intl-scli-gbr/index.html |title='Great British Bake Off': Matt Lucas revives his Boris Johnson, urging viewers to 'Save Loaves' during 'Great British Bake Off' debut|work=CNN |date=23 September 2020 |first=Toyin |last=Owoseje }}</ref>
+
 === Episode 2: Biscuits ===
-For the signature challenge, the bakers were tasked to make 36 identical chocolate [[Florentine biscuit|florentines]]. The technical challenge, set by Prue, required the bakers to make 12 hand-shaped coconut [[macaroons]]; six to be filled by a mango curd, while the other six are to be filled with chocolate. For the showstopper challenge, the bakers were tasked to create a beautiful 3D biscuit table setting to represent a memorable meal they had in the past.
+For the signature challenge, the bakers were tasked to make 36 identical chocolate [[Florentine biscuit|florentines]]. The technical challenge, set by Prue, required the bakers to make 12 hand-shaped coconut [[macaroons]]; six to be filled by a mango curd, with the other six to be filled with chocolate. For the showstopper challenge, the bakers were tasked to create a beautiful 3D biscuit table setting to represent a memorable meal they had in the past.
 {| class="wikitable" style="text-align:center;"
-| - 
 !Baker
 !Signature<br /><small>(36 Chocolate [[Florentine biscuit|Florentines]])</small>
 !Technical<br /><small>(12 Hand-Shaped [[Coconut]] [[Macaroons]])</small>
 !Showstopper<br /><small>(3D Biscuit Table Setting)</small>
-| -style="background:#d0f0c0;" 
-|  Dave || align="left"| Feathered Chocolate Mango Florentines || 1st ||align="left"| 'Waiting for Tacos' ||- 
-|  Hermine ||align="left"|  Mango and Coconut Florentines || 5th ||align="left"| [[Sakura Tea]] Set ||- 
-|  Laura ||align="left"|  Salted Caramel Florentines || 7th ||align="left"| Celebration Afternoon Tea ||- 
-|  Linda ||align="left"|  Flower Topped Florentines || 4th ||align="left"| 'High Tea in [[Amsterdam]]' ||- 
-|  Lottie || align="left"| Quarantine Florentines || 8th ||align="left"| [[Viking]] Victuals ||-style="background:pink;" 
-|  Mak ||align="left"|  Mango and [[Cumin]] Florentines || 3rd ||align="left"| Indian Chai Service ||- 
-|  Marc ||align="left"| Ginger, Cherry and Pistachio Florentines || 9th ||align="left"| Morning Coffee 'n' Toast ||- 
-|  Mark ||align="left"|  Mango [[Lassi]] Florentines || 2nd ||align="left"|  [[Ethiopian Coffee]] Ceremony ||- 
-|  Peter || align="left"| Sticky Toffee Florentines || 10th ||align="left"| Biscuit [[Burns Supper]] ||- 
-|  Rowan || align="left"| Waistcoat Florentines || 11th ||align="left"| 'Worse Things Happen At Sea' ||- 
-|  Sura || align="left"| [[Sohan (confectionery)|Sohan]] Florentines || 6th ||align="left"| [[Speculaas]] [[Ramadan]] Tea Time ||} 
+|  -  || -style="background:#d0f0c0;"  ||  Dave ||   Feathered Chocolate Mango Florentines || 1st ||align="left"| 'Waiting for Tacos' ||-  
+|   Hermine ||   Mango and Coconut Florentines || 5th ||align="left"| [[Sakura Tea]] Set ||-  
+|   Laura ||   Salted Caramel Florentines || 7th ||align="left"| Celebration Afternoon Tea ||-  
+|   Linda ||   Flower Topped Florentines || 4th ||align="left"| 'High Tea in [[Amsterdam]]' ||-  
+|   Lottie ||   Quarantine Florentines || 8th ||align="left"| [[Viking]] Victuals ||-style="background:pink;"  
+|   Mak ||   Mango and [[Cumin]] Florentines || 3rd ||align="left"| Indian Chai Service ||-  
+|   Marc ||  Ginger, Cherry and Pistachio Florentines || 9th ||align="left"| Morning Coffee 'n' Toast ||-  
+|   Mark ||   Mango [[Lassi]] Florentines || 2nd ||align="left"|  [[Ethiopian Coffee]] Ceremony ||-  
+|   Peter ||   Sticky Toffee Florentines || 10th ||align="left"| Biscuit [[Burns Supper]] ||-  
+|   Rowan ||   Waistcoat Florentines || 11th ||align="left"| 'Worse Things Happen At Sea' ||-  
+|   Sura ||   [[Sohan (confectionery)|Sohan]] Florentines || 6th ||align="left"| [[Speculaas]] [[Ramadan]] Tea Time ||}  
 
 === Episode 3: Bread ===
 For the signature challenge, the bakers were tasked to make two [[soda bread]] loaves; one savoury and one sweet. The technical challenge, set by Paul, tasked the bakers to make 6 rainbow-coloured [[bagels]] in honour of the [[NHS]]. For the showstopper challenge, the bakers were tasked to create a large decorative bread plaque in the style of a traditional [[harvest festival]] [[sheaf (agriculture)|sheaf]], portraying the one thing in life they are most grateful for.
 {| class="wikitable" style="text-align:center;"
-| - 
 !Baker
 !Signature<br /><small>(2 [[Soda Bread]] Loaves)</small>
 !Technical<br /><small>(6 Rainbow-coloured [[Bagels]])</small>
 !Showstopper<br /><small>(Large Bread Plaque)</small>
-| - 
-|  Dave || align="left"| Chilli Chocolate & Cheesy Bacon Soda Bread || 9th ||align="left"| 'Grateful For My Home and Little Family' ||- 
-|  Hermine ||align="left"| My Favourite Flavours Soda Bread || 7th ||align="left"| A Journey Back to France ||- 
-|  Laura ||align="left"| Nana Peg's Nicely Spiced and Cherrylicious Soda Bread || 6th ||align="left"| Showstopping Musical Theatre Inspired Bread ||- 
-|  Linda ||align="left"| Cyflym Bara Soda Bread || 1st ||align="left"| 'Fruits of our Labour' Black Olive Bread & Tiger Bread ||- 
-|  Lottie || align="left"| Blueberry Breakfast & Summertime Soda Bread || 5th ||align="left"| My House In Bread ||-style="background:#d0f0c0;" 
-|  Marc ||align="left"| Cornish Soda Breads || 2nd ||align="left"| The Dharma Wheel Bread Sheaf ||- 
-|  Mark ||align="left"| Sausage & Stout Soda Bread || 3rd ||align="left"| Orchard County Bread with Sweet Apple and Savoury Wild Garlic ||- 
-|  Peter || align="left"| Black Pudding & Ginger Beer Soda Bread || 4th ||align="left"| Edinburgh Cityscape Bread Plaque ||-style="background:pink;" 
-|  Rowan || align="left"| Flavours of Italy || 10th ||align="left"| Worcestershire Pear Tree ||- 
-|  Sura || align="left"| Middle Eastern Inspired Soda Bread || 8th ||align="left"| Mama's Tomato Vine Harvest Loaf ||} 
+|  -  || -  ||  Dave ||   Chilli Chocolate & Cheesy Bacon Soda Bread || 9th ||align="left"| 'Grateful For My Home and Little Family' ||-  
+|   Hermine ||  My Favourite Flavours Soda Bread || 7th ||align="left"| A Journey Back to France ||-  
+|   Laura ||  Nana Peg's Nicely Spiced and Cherrylicious Soda Bread || 6th ||align="left"| Showstopping Musical Theatre Inspired Bread ||-  
+|   Linda ||  Cyflym Bara Soda Bread || 1st ||align="left"| 'Fruits of our Labour' Black Olive Bread & Tiger Bread ||-  
+|   Lottie ||   Blueberry Breakfast & Summertime Soda Bread || 5th ||align="left"| My House In Bread ||-style="background:#d0f0c0;"  
+|   Marc ||  Cornish Soda Breads || 2nd ||align="left"| The Dharma Wheel Bread Sheaf ||-  
+|   Mark ||  Sausage & Stout Soda Bread || 3rd ||align="left"| Orchard County Bread with Sweet Apple and Savoury Wild Garlic ||-  
+|   Peter ||   Black Pudding & Ginger Beer Soda Bread || 4th ||align="left"| Edinburgh Cityscape Bread Plaque ||-style="background:pink;"  
+|   Rowan ||   Flavours of Italy || 10th ||align="left"| Worcestershire Pear Tree ||-  
+|   Sura ||   Middle Eastern Inspired Soda Bread || 8th ||align="left"| Mama's Tomato Vine Harvest Loaf ||}  
 
 === Episode 4: Chocolate ===
 For the signature challenge, it was back to basics as the bakers were asked to make 18 chocolate [[Chocolate brownie|brownie]]s. For the technical, Paul tasked the bakers with making a traditional [[Jewish]] bake: chocolate [[Babka]]. For the showstopper challenge, the bakers were tasked to make a spectacular two-tiered white chocolate celebration cake.
 {| class="wikitable" style="text-align:center;"
-| - 
 !Baker
 !Signature<br /><small>(18 [[Chocolate_brownie|Chocolate Brownies]])</small>
 !Technical<br /><small>(Chocolate [[Babka]])</small>
 !Showstopper<br /><small>([[White Chocolate]] Celebration Cake)</small>
-| - 
-|  Dave || align="left"| Honeycomb Explosion Brownies || 8th ||align="left"| Strawberry Splash White Chocolate Fraisier Cake ||- 
-|  Hermine ||align="left"| Raspberry, White Chocolate & Pistachio Brownies || 5th ||align="left"| Lemon & White Chocolate Cake ||- 
-|  Laura ||align="left"| Salted Caramel Brownie S'mores || 2nd ||align="left"| Chocolate Heaven Cake ||- 
-|  Linda ||align="left"| 'Treats of Christmas Past' || 1st ||align="left"| English Rose Cake ||- 
-|  Lottie || align="left"| 'Have Your Cake and Eat It' Brownies || 9th ||align="left"| Nana and Papa's Sapphire Anniversary Cake ||- 
-|  Marc ||align="left"|Praline Brownies || 6th ||align="left"| White Chocolate & Raspberry Buttercream Celebration Cake ||-style="background:#d0f0c0;" 
-|  Mark ||align="left"| 'Gimmie S'mores' Brownies || 3rd ||align="left"| 'A Bake Off Birthday' ||- 
-|  Peter || align="left"| Upside Down Brownies || 4th ||align="left"|Graduation Cake ||-style="background:pink;" 
-|  Sura || align="left"| Double Chocolate [[Marshmallow]] Brownies || 7th ||align="left"| Strawberry & White Chocolate Celebration Cake ||} 
+|  -  || -  ||  Dave ||   Honeycomb Explosion Brownies || 8th ||align="left"| Strawberry Splash White Chocolate Fraisier Cake ||-  
+|   Hermine ||  Raspberry, White Chocolate & Pistachio Brownies || 5th ||align="left"| Lemon & White Chocolate Cake ||-  
+|   Laura ||  Salted Caramel Brownie S'mores || 2nd ||align="left"| Chocolate Heaven Cake ||-  
+|   Linda ||  'Treats of Christmas Past' || 1st ||align="left"| English Rose Cake ||-  
+|   Lottie ||   'Have Your Cake and Eat It' Brownies || 9th ||align="left"| Nana and Papa's Sapphire Anniversary Cake ||-  
+|   Marc || Praline Brownies || 6th ||align="left"| White Chocolate & Raspberry Buttercream Celebration Cake ||-style="background:#d0f0c0;"  
+|   Mark ||  'Gimmie S'mores' Brownies || 3rd ||align="left"| 'A Bake Off Birthday' ||-  
+|   Peter ||   Upside Down Brownies || 4th ||align="left"|Graduation Cake ||-style="background:pink;"  
+|   Sura ||   Double Chocolate [[Marshmallow]] Brownies || 7th ||align="left"| Strawberry & White Chocolate Celebration Cake ||}  
 
 === Episode 5: Pastry ===
-For the signature, the bakers were tasked to put their own spin on [[Cornwall]]'s national dish: the [[pasty]]. For the technical challenge, set by Prue, the bakers were required to make six [[éclair|éclairs]]; three raspberry, and three salted caramel. For the showstopper, the bakers were given the intricate task of making a sweet tart hidden under a latticed pastry cage.
+For the signature, the bakers were tasked with putting their own spin on [[Cornwall]]'s national dish: the [[pasty]]. For the technical challenge, set by Prue, the bakers were required to make six [[éclair|éclairs]]; three raspberry, and three salted caramel. For the showstopper, the bakers were given the intricate task of making a sweet tart hidden under a latticed pastry cage.
 {| class="wikitable" style="text-align:center;"
-| - 
 !Baker
 !Signature<br /><small>(8 [[Pasty|Pasties]])</small>
-!Technical<br /><small>(3 [[Raspberry]] Éclairs & 3 Salted [[Caramel]] [[éclair|Éclairs]])</small>
+!Technical<br /><small>(3 [[Raspberry]] Éclairs & <br > 3 Salted [[Caramel]] [[éclair|Éclairs]])</small>
 !Showstopper<br /><small>(Caged Tart)</small>
-| - 
-|  Dave || align="left"| Thai Basil Chicken Pasties ||5th ||align="left"|Chocolate, Mango and Lime Tart ||- 
-|  Hermine ||align="left"| Moroccan Tagine Pasties ||2nd ||align="left"| Lime Confit and Lemon Meringue Tart ||-style="background:#d0f0c0;" 
-|  Laura ||align="left"| Proper Tasty Pasties ||6th ||align="left"|[[Kent]] Garden Tart ||-style="background:pink;" 
-|  Linda ||align="left"| Spicy Indian Pasties ||8th ||align="left"|Gypsy Tart ||- 
-|  Lottie || align="left"|[[Toad in the hole|Toad-In-The-Hole-Less]] Pasties ||4th ||align="left"|Apple Tree Tart ||- 
-|  Marc ||align="left"|Cornish Fish Pasties ||7th ||align="left"| Posh Apple & Blackberry Pie ||- 
-|  Mark ||align="left"| Aloo Gobi Pasties ||3rd ||align="left"| Mes-SAGE in a Bottle ||- 
-|  Peter || align="left"| [[Kedgeree]] Pasties ||1st ||align="left"| Blackberry & Lemon Tart ||} 
+|  -  || -  ||  Dave ||   Thai Basil Chicken Pasties ||5th ||align="left"|Chocolate, Mango and Lime Tart ||-  
+|   Hermine ||  Moroccan Tagine Pasties ||2nd ||align="left"| Lime Confit and Lemon Meringue Tart ||-style="background:#d0f0c0;"  
+|   Laura ||  Proper Tasty Pasties ||6th ||align="left"|[[Kent]] Garden Tart ||-style="background:pink;"  
+|   Linda ||  Spicy Indian Pasties ||8th ||align="left"|Gypsy Tart ||-  
+|   Lottie ||  [[Toad in the hole|Toad-In-The-Hole-Less]] Pasties ||4th ||align="left"|Apple Tree Tart ||-  
+|   Marc || Cornish Fish Pasties ||7th ||align="left"| Posh Apple & Blackberry Pie ||-  
+|   Mark ||  Aloo Gobi Pasties ||3rd ||align="left"| Mes-SAGE in a Bottle ||-  
+|   Peter ||   [[Kedgeree]] Pasties ||1st ||align="left"| Blackberry & Lemon Tart ||}  
 
 === Episode 6: Japanese ===
-{| class="wikitable"
-!Baker
-!Signature
-!Technical
-!Showstopper
-| + ||- 
-| Dave || || || ||- 
-| Hermine || || || ||- 
-| Laura || || || ||- 
-| Lottie || || || ||- 
-| Marc || || || ||- 
-| Mark || || || ||- 
-| Peter || || || ||} 
-
-== Ratings ==
-
-The premiere episode of the series had the best start for the show since it moved to Channel 4, with an average of 6.9 million viewers tuning in and peaking at 7.9 million according to overnight viewing figures.<ref>{{cite web |url=https://www.radiotimes.com/news/tv/2020-09-23/great-british-bake-off-2020-ratings/ |title=The Great British Bake Off delivers biggest Channel 4 launch with almost 8 million viewers |first=David|last= Craig|date= 23 September 2020|work=Radio Times}}</ref> The weekly consolidated audience figure was reported to be 10.8 million, the highest rating for any show on Channel 4 in 35 years after the miniseries ''[[A Woman of Substance (miniseries)|A Woman of Substance]]'' which was watched by 13.9 million viewers in 1985.<ref>{{cite news |url=https://www.telegraph.co.uk/news/2020/09/30/great-british-bake-launch-channel-4s-viewed-show-35-years-nation/ |title= The Great British Bake Off  launch Channel 4’s most viewed show in 35 years as nation seeks comfort during lockdown |first=Anita |last=Singh |work=The Telegraph | date=1 October 2020}}</ref> This figure increased to a total of 11.2 million when including viewers who watched on other devices.
+In week 6, it was a Bake Off first as the bakers tackled [[Japan|Japanese]] week. For the signature challenge, the bakers were tasked with making eight steamed buns, complete with a savoury or sweet filling and decorations. For the technical challenge, Prue tasked the bakers to make a [[Matcha]] [[Crepe]] Cake consisting of 11 layers of crepes sandwiched with a white chocolate ganache and strawberries. For the showstopper, the bakers were tasked with making a cake inspired by the [[kawaii]] culture in Japan, incorporating Japanese flavours within it.
 {| class="wikitable" style="text-align:center;"
-| - 
-! Episode<br />no. !! Airdate !! 7-day viewers<br /><small>(millions)</small> !! 28-day viewers<br /><small>(millions)</small> !! Channel 4<br />weekly ranking !! Weekly ranking<br />all channels<ref name="BARB2">{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard|publisher=[[Broadcasters' Audience Research Board]]|accessdate=17 September 2019}}</ref>
-| - 
-|  1 || align="left" | {{Start date|df=y|2020|09|22}} || 11.21 ||  || 1 || 1 ||- 
-|  2 || align="left" | {{Start date|df=y|2020|09|29}} || 10.81 ||  || 1 || 1 ||- 
-|  3 || align="left" | {{Start date|df=y|2020|10|06}} || 10.70  ||  || 1  || 1 ||- 
-|  4 || align="left" | {{Start date|df=y|2020|10|13}} ||  ||  ||  ||  ||- 
-|  5 || align="left" | {{Start date|df=y|2020|10|20}} ||  ||  ||  ||  ||-<!--|- 
-|  6 || align="left" | {{Start date|df=y|2020|10|27}} ||  ||  ||  ||  ||- 
-|  7 || align="left" | {{Start date|df=y|2020|11|03}} ||  ||  ||  ||  ||- 
-|  8 || align="left" | {{Start date|df=y|2020|11|10}} ||  ||  ||  ||  ||- 
-|  9 || align="left" |{{Start date|df=y|2020|11|17}} ||  ||  ||  ||  ||- 
-|  10 || align="left" |{{Start date|df=y|2020|11|24}} ||  ||  ||  || --> ||} 
+!Baker
+!Signature<br /><small>(8 [[Baozi|Steamed Buns]])</small>
+!Technical<br /><small>([[Matcha]] [[Crepe]] Cake)</small>
+!Showstopper<br /><small>([[Kawaii]] Cake)</small>
+|  + ||-  
+|   Dave ||  Chicken Shaped Katsu Curry Buns ||3rd ||align="left"| Matcha [[Shiba Inu]] Cake ||-  
+|   Hermine ||  Chicken Nikuman Panda Buns || 4th ||align="left"| Strawberry Cherry Blossom Cake ||-  
+|   Laura ||  Piggy Pork Belly Buns || 7th ||align="left"| Upside Down Pineapple Cake ||-style="background:#d0f0c0;"  
+|   Lottie ||  Cheeseburger Steamed Buns ||2nd ||align="left"| Into the Japanese Woods ||-  
+|   Marc ||  'Hmmmm Dhal' Steamed Buns || 6th ||align="left"| Hamish the Dog Cake ||-style="background:pink;"  
+|   Mark ||  Burger Buns || 5th ||align="left"| 'Avo Baby' ||-  
+|   Peter ||  Lamb Steamed Buns ||1st ||align="left"| Dizzy the Shuttlecock ||}  
 
