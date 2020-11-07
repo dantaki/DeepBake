@@ -98,7 +98,7 @@ For the signature, the bakers were tasked with putting their own spin on [[Cornw
 |   Peter ||   [[Kedgeree]] Pasties ||1st ||align="left"| Blackberry & Lemon Tart ||}  
 
 === Episode 6: Japanese ===
-In week 6, it was a Bake Off first as the bakers tackled [[Japan|Japanese]] week. For the signature challenge, the bakers were tasked with making eight steamed buns, complete with a savoury or sweet filling and decorations. For the technical challenge, Prue tasked the bakers to make a [[Matcha]] [[Crepe]] Cake consisting of 11 layers of crepes sandwiched with a white chocolate ganache and strawberries. For the showstopper, the bakers were tasked with making a cake inspired by the [[kawaii]] culture in Japan, incorporating Japanese flavours within it.
+In week 6, it was a Bake Off first as the bakers tackled [[Japan|Japanese]] week. For the signature challenge, the bakers were tasked with making eight steamed buns, complete with a savoury or sweet filling and decorations. For the technical challenge, Prue tasked the bakers to make a [[Matcha]] [[Crepe]] Cake consisting of 12 layers of crepes sandwiched with a white chocolate ganache buttercream and strawberries, decorated with fresh fruits and edible flowers on top. For the showstopper, the bakers were tasked with making a cake inspired by the [[kawaii]] culture in Japan, incorporating Japanese flavours within it.
 {| class="wikitable" style="text-align:center;"
 !Baker
 !Signature<br /><small>(8 [[Baozi|Steamed Buns]])</small>
@@ -113,3 +113,49 @@ In week 6, it was a Bake Off first as the bakers tackled [[Japan|Japanese]] week
 |   Mark ||  Burger Buns || 5th ||align="left"| 'Avo Baby' ||-  
 |   Peter ||  Lamb Steamed Buns ||1st ||align="left"| Dizzy the Shuttlecock ||}  
 
+This was the 100th episode of the Great British Bake Off throughout all seasons.
+
+=== Episode 7: The '80s ===
+For the signature challenge, the bakers were asked to perform their own twist on eight classical quiches with two different styles. For the technical challenge, Paul asked the bakers to make six deep-fried, identical custard & jam finger doughnuts. For the showstopper challenge, the bakers were required to make an ice cream cake, which was quite a challenge considering it was the hottest day of the year.
+{| class="wikitable" style="text-align:center;"
+!Baker
+!Signature<br /><small>(8 [[Quiche|Quiches]])</small>
+!Technical<br /><small>(6 Custard & Jam Finger Doughnuts)</small>
+!Showstopper<br /><small>([[Ice_cream_cake|Ice Cream Cake]])</small>
+|  + ||-  
+|   Dave ||  Novel Quiches ||6th ||align="left"|'Tiramisu' ||-style="background:#d0f0c0;"  
+|   Hermine ||  Classic Quiches ||1st ||align="left"| Holiday Ice Cream Cake ||-  
+|   Laura ||  Pea & Pizza Quiches ||4th ||align="left"|'Death by Chocolate' ||-style="background:pink;"  
+|   Lottie ||  English Breakfast & Summer Salad Quiches ||5th ||align="left"|'80's Mix Tape' ||-  
+|   Marc ||  Cornish Quiches ||3rd ||align="left"|Retro Ice Cream Parlour ||-  
+|   Peter ||  Thai Curry & Salmon Quiches ||2nd ||align="left"|'Christmas Cake Surprise' ||-  
+
+=== Episode 8: Desserts ===
+
+{| class="wikitable" style="text-align:center;"
+!Baker
+!Signature<br /><small></small>
+!Technical<br /><small></small>
+!Showstopper<br /><small></small>
+|  }  || + ||-  
+|   Dave ||  || ||align="left"| ||-  
+|   Hermine ||  || ||align="left"| ||-  
+|   Laura ||  || ||align="left"| ||-  
+|   Marc ||  || ||align="left"| ||-  
+|   Peter ||  || ||align="left"| ||-  
+
+== Ratings ==
+
+The premiere episode of the series had the best start for the show since it moved to Channel 4, with an average of 6.9 million viewers tuning in and peaking at 7.9 million according to overnight viewing figures.<ref>{{cite web |url=https://www.radiotimes.com/news/tv/2020-09-23/great-british-bake-off-2020-ratings/ |title=The Great British Bake Off delivers biggest Channel 4 launch with almost 8 million viewers |first=David|last= Craig|date= 23 September 2020|work=Radio Times}}</ref> The weekly consolidated audience figure was reported to be 10.8 million, the highest rating for any show on Channel 4 in 35 years after the miniseries ''[[A Woman of Substance (miniseries)|A Woman of Substance]]'' which was watched by 13.9 million viewers in 1985.<ref>{{cite news |url=https://www.telegraph.co.uk/news/2020/09/30/great-british-bake-launch-channel-4s-viewed-show-35-years-nation/ |title= The Great British Bake Off launch Channel 4's most viewed show in 35 years as nation seeks comfort during lockdown |first=Anita |last=Singh |work=The Telegraph | date=1 October 2020}}</ref> The figure increased to a total of 11.2 million when including viewers who watched on other devices.
+{| class="wikitable" style="text-align:center;"
+! Episode<br />no. !! Airdate !! 7-day viewers<br /><small>(millions)</small> !! 28-day viewers<br /><small>(millions)</small> !! Channel 4<br />weekly ranking !! Weekly ranking<br />all channels<ref name="BARB2">{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard|publisher=[[Broadcasters' Audience Research Board]]|accessdate=17 September 2019}}</ref>
+|  }  || -  || -  ||  1 || align="left" | {{Start date|df=y|2020|09|22}} || 11.21 ||11.84 || 1 || 1 ||-  
+|   2 || align="left" | {{Start date|df=y|2020|09|29}} || 10.81 ||11.38 || 1 || 1 ||-  
+|   3 || align="left" | {{Start date|df=y|2020|10|06}} || 10.70  ||  || 1  || 1 ||-  
+|   4 || align="left" | {{Start date|df=y|2020|10|13}} ||10.63 || ||1 ||1 ||-  
+|   5 || align="left" | {{Start date|df=y|2020|10|20}} || 10.66 ||  || 1 || 2 ||-  
+|   6 || align="left" | {{Start date|df=y|2020|10|27}} ||  ||  ||  ||  ||-  
+|   7 || align="left" | {{Start date|df=y|2020|11|03}} ||  ||  ||  ||  ||-<!--|-  
+|   8 || align="left" | {{Start date|df=y|2020|11|10}} ||  ||  ||  ||  ||-  
+|   9 || align="left" |{{Start date|df=y|2020|11|17}} ||  ||  ||  ||  ||-  
+|   10 || align="left" |{{Start date|df=y|2020|11|24}} ||  ||  ||  || --> ||}  
