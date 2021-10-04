@@ -1,0 +1,143 @@
+== Episodes ==
+:{{Color box|pink|border=darkgray}} Baker eliminated
+:{{Color box|#d0f0c0|border=darkgray}} Star Baker
+:{{Color box|gold|border=darkgray}} Winner
+=== Episode 1: Cake ===	
+{| class="wikitable" style="text-align:center;"
+|-
+!Baker
+!Signature<br /><small>(Mini Rolls)</small>
+!Technical<br /><small>(Malt Loaf)</small>
+!Showstopper<br /><small>(Anti-Gravity Illusion Cake)</small>
+|-
+|align="left"|Amanda
+|align="left"|'Cherry Soldier' Mini Rolls
+|12th
+|align="left"|[[Elderflower]] & [[Lemon]] Surf Explosion
+|-
+|align="left"|Chigs
+|align="left"|Strawberries & Cream Mini Rolls
+|11th
+|align="left"|'Where it All Began' 
+|-
+|align="left"|Crystelle
+|align="left"|'Chai and Chai Again' Mini Rolls
+|8th
+|align="left"|'[[Flower bouquet|Bouq]]-cake of Flowers'
+|-
+|align="left"|Freya
+|align="left"|Vegan Lemon & Raspberry Mini Rolls
+|2nd
+|align="left"|'Flower Potty'
+|-
+|align="left"|George
+|align="left"|Chocolate & Hazelnut Mini Rolls
+|3rd
+|align="left"|Greek Table
+|-
+|align="left"|Giuseppe
+|align="left"|Easter Mini Rolls
+|10th
+|align="left"|'[[Jack and the Beanstalk]]' 
+|-
+|align="left"|Jairzeno
+|align="left"|Lime & Passionfruit Mini Rolls
+|9th
+|align="left"|‘Kick the Can’ Cake
+|-style="background:#d0f0c0;"
+|align="left"|Jürgen
+|align="left"|'Schwarzwald' Mini Rolls
+|6th
+|align="left"|'Night Time Reading'
+|-
+|align="left"|Lizzie
+|align="left"|'Zoo' Mini Rolls
+|4th
+|align="left"|'Nana's Peaches & Cream'
+|-
+|align="left"|Maggie
+|align="left"|'Knit & Natter' Mini Rolls
+|1st
+|align="left"|Ice-cream Cornet
+|-
+|align="left"|Rochica
+|align="left"|'Colin' Rolls
+|7th
+|align="left"|Apple Cake
+|-style="background:pink;"
+|align="left"|Tom
+|align="left"|Black Forest Mini Rolls
+|5th
+|align="left"|Classically Spectacular Showstopper
+|-
+|}
+=== Episode 2: Biscuits ===	
+{| class="wikitable" style="text-align:center;"
+|-
+!Baker
+!Signature<br /><small></small>
+!Technical<br /><small></small>
+!Showstopper<br /><small></small>
+|-
+|align="left"|Amanda
+|align="left"|
+|
+|align="left"|
+|-
+|align="left"|Chigs
+|align="left"|
+|
+|align="left"|
+|-
+|align="left"|Crystelle
+|align="left"|
+|
+|align="left"|
+|-
+|align="left"|Freya
+|align="left"|
+|
+|align="left"|
+|-
+|align="left"|George
+|align="left"|
+|
+|align="left"|
+|-
+|align="left"|Giuseppe
+|align="left"|
+|
+|align="left"|
+|-
+|align="left"|Jairzeno
+|align="left"|
+|
+|align="left"|
+|-
+|align="left"|Jürgen
+|align="left"|
+|
+|align="left"|
+|-
+|align="left"|Lizzie
+|align="left"|
+|
+|align="left"|
+|-
+|align="left"|Maggie
+|align="left"|
+|
+|align="left"|
+|-
+|align="left"|Rochica
+|align="left"|
+|
+|align="left"|
+|-
+|}
+== References ==
+{{reflist}}
+{{The Great British Bake Off}}
+{{DEFAULTSORT:Great British Bake Off (series 12), The}}
+[[Category:The Great British Bake Off|Series 12]]
+[[Category:2021 British television seasons]]
