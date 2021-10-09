@@ -1,8 +1,11 @@
 == Episodes ==
+
 :{{Color box|pink|border=darkgray}} Baker eliminated
 :{{Color box|#d0f0c0|border=darkgray}} Star Baker
 :{{Color box|gold|border=darkgray}} Winner
+
 === Episode 1: Cake ===	
+
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
@@ -40,7 +43,7 @@
 |10th
 |align="left"|'[[Jack and the Beanstalk]]' 
 |-
-|align="left"|Jairzeno
+|align="left"|Jairzinho
 |align="left"|Lime & Passionfruit Mini Rolls
 |9th
 |align="left"|‘Kick the Can’ Cake
@@ -71,7 +74,136 @@
 |align="left"|Classically Spectacular Showstopper
 |-
 |}
+
 === Episode 2: Biscuits ===	
+
+{| class="wikitable" style="text-align:center;"
+|-
+!Baker
+!Signature<br /><small>(24 [[Brandy snaps|Brandy Snaps]])</small>
+!Technical<br /><small>(Sandwiched Jammy Biscuits)</small>
+!Showstopper<br /><small>(3-D Childhood Toy)</small>
+|-
+|align="left"|Amanda
+|align="left"|'Open Sesame' Brandy Snaps
+|4th
+|align="left"| Carousel Rocking Horse
+|-
+|align="left"|Chigs
+|align="left"|'[[Espresso]] Martini' Brandy Snaps
+|7th
+|align="left"| Snooker Table
+|-
+|align="left"|Crystelle
+|align="left"|’Apple of My P-eye' Brandy Snaps
+|10th
+|align="left"| Vanity Playset
+|-
+|align="left"|Freya
+|align="left"|'Brandy Snapuccinos'
+|3rd
+|align="left"| Winnie
+|-
+|align="left"|George
+|align="left"|[[Cypriot cuisine|Cypriot]] Brandy Snaps
+|8th
+|align="left"| Paul and Prue Airlines
+|-
+|align="left"|Giuseppe
+|align="left"|[[Gianduja (chocolate)|Gianduja]] Snaps
+|2nd
+|align="left"| Reversi Board Game
+|-style="background:pink;"
+|align="left"|Jairzinho
+|align="left"|[[Chocolate]], [[Passiflora edulis|Passion Fruit]] & [[Pineapple]] Brandy Snaps
+|9th
+|align="left"| Tall Ship
+|-style="background:#d0f0c0;"
+|align="left"|Jürgen
+|align="left"|'A Cup of Chai' Brandy Snaps
+|1st
+|align="left"| Grandpa's Windmill
+|-
+|align="left"|Lizzie
+|align="left"|Fast-Food [[Apple Pie]] Brandy Snaps
+|6th
+|align="left"| Paint a Truck
+|-
+|align="left"|Maggie
+|align="left"|[[Blackcurrant]] Brandy Snaps
+|5th
+|align="left"| Beach Playset
+|-
+|align="left"|Rochica
+|align="left"|[[Coffee]] Brandy Snaps
+|11th
+|align="left"| Gingerbread Pinball Game
+|-
+|}
+
+=== Episode 3: Bread ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+!Baker
+!Signature<br /><small>([[Focaccia]])</small>
+!Technical<br /><small>(15 Cheese and Onion [[Ciabatta]] [[Breadsticks]])</small>
+!Showstopper<br /><small>(Themed Milk Bread Display)</small>
+|-
+|align="left"|Amanda
+|align="left"|'Chasing Grainbows' Focaccia
+|3rd
+|align="left"|'I Just FISH We Had More'
+|-
+|align="left" |Chigs
+|align="left" |Spanish Cheesy Meaty Focaccia
+|6th
+|align="left" |Honey Milk Bread Picnic Basket
+|-
+|align="left" |Crystelle
+|align="left" |Feta & Grape Focaccia with Fennel & Walnut
+|9th
+|align="left" |'Bready' for Sunday Roast
+|-
+|align="left"|Freya
+|align="left"|Mexican Fajita Focaccia
+|4th
+|align="left"|'Under the Sea' Milk Bread Display
+|-
+|align="left"|George
+|align="left"|Greek Inspired Focaccia
+|7th
+|align="left"|'The Very Hungry Koala'
+|-style="background:#d0f0c0;"
+|align="left" |Giuseppe
+|align="left" |'Breakfast in [[Gaeta]]' Focaccia
+|1st
+|align="left" |'Your Five-a-Day'
+|-
+|align="left" |Jürgen
+|align="left" |'[[Kipper]]-caccia' Focaccia
+|5th
+|align="left" |’The Baby'
+|-
+|align="left"|Lizzie
+|align="left"|'Final Furlong' Focaccia
+|2nd
+|align="left"|Pig Banquet
+|-
+|align="left"|Maggie
+|align="left"|Classic Focaccia
+|8th
+|align="left"|’Things You'd Find in a Rock Pool'
+|-style="background:pink;"
+|align="left"|Rochica
+|align="left"|Roast Garlic Focaccia with Tomato, Feta & Pesto
+|10th
+|align="left"|Birdcage
+|-
+|}
+
+=== Episode 4: Desserts ===
+
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
@@ -104,17 +236,12 @@
 |
 |align="left"|
 |-
-|align="left"|Giuseppe
+|align="left" |Giuseppe
 |align="left"|
 |
 |align="left"|
 |-
-|align="left"|Jairzeno
-|align="left"|
-|
-|align="left"|
-|-
-|align="left"|Jürgen
+|align="left" |Jürgen
 |align="left"|
 |
 |align="left"|
@@ -128,16 +255,4 @@
 |align="left"|
 |
 |align="left"|
-|-
-|align="left"|Rochica
-|align="left"|
-|
-|align="left"|
-|-
 |}
-== References ==
-{{reflist}}
-{{The Great British Bake Off}}
-{{DEFAULTSORT:Great British Bake Off (series 12), The}}
-[[Category:The Great British Bake Off|Series 12]]
-[[Category:2021 British television seasons]]
