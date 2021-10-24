@@ -6,11 +6,13 @@
 
 === Episode 1: Cake ===	
 
+For the signature challenge, the bakers were tasked with making 12 decorative mini rolls, in two hours. The technical challenge, set by Prue, required the bakers to make a malt loaf served with homemade butter, in two hours. In the showstopper challenge, the bakers were given four hours to create an anti-gravity illusion cake, representing a precious memory.
+
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
-!Signature<br /><small>(Mini Rolls)</small>
-!Technical<br /><small>(Malt Loaf)</small>
+!Signature<br /><small>(Mini [[Swiss Roll]])</small>
+!Technical<br /><small>([[Malt Loaf]])</small>
 !Showstopper<br /><small>(Anti-Gravity Illusion Cake)</small>
 |-
 |align="left"|Amanda
@@ -21,7 +23,7 @@
 |align="left"|Chigs
 |align="left"|Strawberries & Cream Mini Rolls
 |11th
-|align="left"|'Where it All Began' 
+|align="left"|'Where it All Began'
 |-
 |align="left"|Crystelle
 |align="left"|'Chai and Chai Again' Mini Rolls
@@ -41,7 +43,7 @@
 |align="left"|Giuseppe
 |align="left"|Easter Mini Rolls
 |10th
-|align="left"|'[[Jack and the Beanstalk]]' 
+|align="left"|'[[Jack and the Beanstalk]]'
 |-
 |align="left"|Jairzinho
 |align="left"|Lime & Passionfruit Mini Rolls
@@ -76,12 +78,12 @@
 |}
 
 === Episode 2: Biscuits ===	
-
+For the signature challenge, the bakers were tasked with making 24 identical brandy snaps, in two hours. The technical challenge, set by Paul, required the bakers to make 12 sandwiched jammy biscuits, consisting of two baked biscuits, jam, and buttercream, in one hour and 45 minutes. For the showstopper challenge, the bakers needed to create a 3D biscuit replica of a favorite childhood toy. The replica needed to have an interactive element.
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
 !Signature<br /><small>(24 [[Brandy snaps|Brandy Snaps]])</small>
-!Technical<br /><small>(Sandwiched Jammy Biscuits)</small>
+!Technical<br /><small>(Sandwiched [[Jammie Dodgers|Jammy Biscuit]])</small>
 !Showstopper<br /><small>(3-D Childhood Toy)</small>
 |-
 |align="left"|Amanda
@@ -142,7 +144,7 @@
 |}
 
 === Episode 3: Bread ===
-
+The signature challenge tasked the bakers with making a [[focaccia]] in 2 hours 45 minutes. The technical challenge, set by Paul, tasked the bakers with making 15 olive and cheese [[ciabatta]] breadsticks, served with a [[tzatziki]] dip, in two hours. For the showstopper challenge, the bakers were asked to create a 3D themed display using milk bread, in four hours and 30 minutes.
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
@@ -204,6 +206,113 @@
 
 === Episode 4: Desserts ===
 
+The signature challenge tasked the bakers with making a beautifully decorated [[Pavlova (cake)|Pavlova]], in two hours 45 minutes. For the technical challenge, set by Prue, asked the bakers to make 4 individual [[sticky toffee pudding]]s, served with sticky toffee sauce, two [[Tuile]] triangles, and a creme anglaise. The bakers had 90 minutes. For the showstopper challenge, the bakers were given the enormous task of making a celebratory joconde imprime dessert, composed of a highly decorated joconde sponge wrapped around at least two elements, in four hours and 30 minutes.
+
+{| class="wikitable" style="text-align:center;"
+|-
+!Baker
+!Signature<br /><small>([[Pavlova (cake)|Pavlova]])</small>
+!Technical<br /><small>(4 [[Sticky toffee pudding|Sticky Toffee Pudding]])</small>
+!Showstopper<br /><small>([[Sponge_cake#Joconde_cake|Joconde Imprime Dessert]])</small>
+|-
+|align="left"|Amanda
+|align="left"|'Chocolate Pav-Love'
+|8th
+|align="left"|'Adam's Temptation' Imprime Dessert
+|-style="background:#d0f0c0;"
+|align="left"|Chigs
+|align="left"|Tropical Pavlova
+|3rd
+|align="left"|Black Forest Imprime Dessert
+|-
+|align="left"|Crystelle
+|align="left"|'Kiwi Lime Pie' Pam-lova
+|5th
+|align="left"|'Una Piña Colada, Por Favor'
+|-
+|align="left"|Freya
+|align="left"|Peach Melba Vegan Pavlova
+|6th
+|align="left"|Chocolate & Orange Imprime Dessert
+|-
+|align="left"|George
+|align="left"|Lemon Curd & Biscuit Cream Pavlova
+|7th
+|align="left"|Peanut Butter & Chocolate Imprime Dessert
+|-
+|align="left"|Giuseppe
+|align="left"|'Every Day at the Beach' Pavlova
+|4th
+|align="left"|Red Fruit & Pistachio Imprime Dessert
+|-
+|align="left"|Jürgen
+|align="left"|'Passover Pavlova'
+|1st
+|align="left"|'Passtyme with Good Companye'
+|-
+|align="left"|Lizzie
+|align="left"|Easter Pavlova
+|2nd
+|align="left"|Liverpool Skyline Imprime Dessert
+|-style="background:pink;"
+|align="left"|Maggie
+|align="left"|Traditional Pavlova
+|9th
+|align="left"|Strawberry Imprime Dessert
+|}
+
+=== Episode 5: German ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+!Baker
+!Signature<br /><small>(24 German Biscuits)</small>
+!Technical<br /><small>([[Prinzregententorte]])</small>
+!Showstopper<br /><small>(Yeast Cake)</small>
+|-
+|align="left"|Amanda
+|align="left"|Spritzgebäck & Glühweinplätzchen
+|8th
+|align="left"|Rum. Plum & Raisin Cake
+|-
+|align="left"|Chigs
+|align="left"|Marzipan Hausefreunde & Almond Mandelhörnchen
+|2nd
+|align="left"|Lemon & Mixed Peel Cake
+|-
+|align="left"|Crystelle
+|align="left"|Chocolate Engelsaugen & Pistachio Beidesanda
+|7th
+|align="left"|Bavarian Brioche
+|-style="background:pink;"
+|align="left"|Freya
+|align="left"|Lebkuchen & [[Zimtstern|Zimtsterne]]
+|5th
+|align="left"|Upside-Down Cake
+|-
+|align="left"|George
+|align="left"|Aniseed [[Springerle]] & Cheesy Marzipan Biscuits
+|6th
+|align="left"|Chocolate & Tahini Anniversary Cake
+|-style="background:#d0f0c0;"
+|align="left"|Giuseppe
+|align="left"|Bethmännchen and Italian Linzer Augen
+|1st
+|align="left"|Amarena Cherry Cake
+|-
+|align="left"|Jürgen
+|align="left"|Tee-Sterne & Milchkaffee-Gipfele
+|4th
+|align="left"|Beer Soaked Cake
+|-
+|align="left"|Lizzie
+|align="left"|Mandelhörnchen & Cheeky Boys
+|3rd
+|align="left"|Bavarian Fairy Tale
+|}
+
+=== Episode 6: Pastry ===
+
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
@@ -214,45 +323,35 @@
 |align="left"|Amanda
 |align="left"|
 |
-|align="left"|
+|
 |-
 |align="left"|Chigs
 |align="left"|
 |
-|align="left"|
+|
 |-
 |align="left"|Crystelle
 |align="left"|
 |
-|align="left"|
-|-
-|align="left"|Freya
-|align="left"|
 |
-|align="left"|
 |-
 |align="left"|George
 |align="left"|
 |
-|align="left"|
+|
 |-
-|align="left" |Giuseppe
+|align="left"|Giuseppe
 |align="left"|
 |
-|align="left"|
+|
 |-
-|align="left" |Jürgen
+|align="left"|Jürgen
 |align="left"|
 |
-|align="left"|
+|
 |-
 |align="left"|Lizzie
 |align="left"|
 |
-|align="left"|
-|-
-|align="left"|Maggie
-|align="left"|
 |
-|align="left"|
 |}
