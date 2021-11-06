@@ -262,13 +262,13 @@ The signature challenge tasked the bakers with making a beautifully decorated [[
 |}
 
 === Episode 5: German ===
-
+The signature challenge tasked the bakers with making two types of 12 German biscuits, which needed to be dipped, coated, or decorated, in two hours 15 minutes. For the technical challenge, Prue asked the bakers to make a [[Prinzregententorte]], consisting of 8 thin layers of genoises sponge sandwiched with chocolate cream, coated with a shiny chocolate ganache, decorated with rosettes and tempered chocolate crowns, in two hours 45 minutes. The showstopper gave the bakers four and a half hours to produce a yeast-leavened cake. The cakes must be at least two-tiered and inspired by the yeasted cakes popular in Germany.
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
 !Signature<br /><small>(24 German Biscuits)</small>
 !Technical<br /><small>([[Prinzregententorte]])</small>
-!Showstopper<br /><small>(Yeast Cake)</small>
+!Showstopper<br /><small>(Yeast Leavened Cake)</small>
 |-
 |align="left"|Amanda
 |align="left"|Spritzgebäck & Glühweinplätzchen
@@ -281,7 +281,7 @@ The signature challenge tasked the bakers with making a beautifully decorated [[
 |align="left"|Lemon & Mixed Peel Cake
 |-
 |align="left"|Crystelle
-|align="left"|Chocolate Engelsaugen & Pistachio Beidesanda
+|align="left"|Chocolate Engelsaugen & Pistachio Heidesanda
 |7th
 |align="left"|Bavarian Brioche
 |-style="background:pink;"
@@ -291,7 +291,7 @@ The signature challenge tasked the bakers with making a beautifully decorated [[
 |align="left"|Upside-Down Cake
 |-
 |align="left"|George
-|align="left"|Aniseed [[Springerle]] & Cheesy Marzipan Biscuits
+|align="left"|Cherry Marzipan Biscuits & Aniseed Spingerle
 |6th
 |align="left"|Chocolate & Tahini Anniversary Cake
 |-style="background:#d0f0c0;"
@@ -312,6 +312,92 @@ The signature challenge tasked the bakers with making a beautifully decorated [[
 |}
 
 === Episode 6: Pastry ===
+For the signature, the bakers were tasked with making two batches of glazed or iced Chouxnuts: 6 filled, 6 not filled. For the technical challenge, Paul required the bakers to make a large baklava. They were asked to layer Filo pastry with a pistachio and walnut filling, cut into a star design, in two hours and 45 minutes. For the showstopper, the bakers were given the intricate task of making a [[Terrine (food)|Terrine pie]], in four and a half hours. The pies needed to have an ornated pastry decoration on the outside and a neat pattern or design when cut open.
+
+{| class="wikitable" style="text-align:center;"
+|-
+!Baker
+!Signature<br /><small> (Chouxnuts) </small>
+!Technical<br /><small>(Large [[Baklava]])</small>
+!Showstopper<br /><small>([[Terrine (food)|Terrine pie]])</small>
+|-style="background:pink;"
+|align="left"|Amanda
+|align="left"|Sweet & Savoury Chouxnuts
+|5th
+|align="left"|'Fancy Terrine Pie'
+|-
+|align="left"|Chigs
+|align="left"|'Oo La La Chouxnuts'
+|3rd
+|align="left"|'Leicester [[Pork Pie]]'
+|-style="background:#d0f0c0;"
+|align="left"|Crystelle
+|align="left"|Mango Maracujá & Miso Caramel Chouxnuts
+|2nd
+|align="left"|'Lily Nana's Pickle Cottage'
+|-
+|align="left"|George
+|align="left"|Classic Chouxnuts
+|6th
+|align="left"|'[[Christmas]] Dinner'
+|-
+|align="left"|Giuseppe
+|align="left"|Bellissima Chouxnuts
+|4th
+|align="left"|'Laura’s Terrine Pie'
+|-
+|align="left"|Jürgen
+|align="left"|'Exotic Flavour & 70's Colour'
+|1st
+|align="left"|'Lunch in [[Freiburg]]'
+|-
+|align="left"|Lizzie
+|align="left"|Caramel & Floral Chouxnuts
+|7th
+|align="left"|'[[Neptune (mythology)|Neptune]] Pie'
+|}
+
+=== Episode 7: Caramel ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+!Baker
+!Signature<br /><small>([[Caramel tart|Caramel Tart]])</small>
+!Technical<br /><small>(10 Caramel Biscuit Bars)</small>
+!Showstopper<br /><small>(Domed or Sphered Caramel Dessert)</small>
+|-
+|align="left"|Chigs
+|align="left"|Chocolate, Coconut & Ginger Caramel Tart
+|3rd
+|align="left"|'Caramel Mistake'
+|-
+|align="left"|Crystelle
+|align="left"|Apple, Pecan & Miso Caramel Tart
+|4th
+|align="left"|'Grandad Greg's Cactus Garden'
+|-style="background:pink;"
+|align="left"|George
+|align="left"|Caramel Custard & Banana Tart
+|6th
+|align="left"|Salted Caramel Almond & Hazelnut Dacquoise
+|-
+|align="left"|Giuseppe
+|align="left"|Apricot & Hazelnut Caramel Tart
+|1st
+|align="left"|Salted Caramel & Praline Dessert
+|-style="background:#d0f0c0;"
+|align="left"|Jürgen
+|align="left"|Triple Nut Caramel Delight
+|2nd
+|align="left"|'Caramel Contrasts'
+|-
+|align="left"|Lizzie
+|align="left"|'My Tart Will Go On'
+|5th
+|align="left"|'Roses Really Smell Like Caramel'
+|}
+
+=== Episode 8: Free-From ===
 
 {| class="wikitable" style="text-align:center;"
 |-
@@ -320,38 +406,28 @@ The signature challenge tasked the bakers with making a beautifully decorated [[
 !Technical<br /><small></small>
 !Showstopper<br /><small></small>
 |-
-|align="left"|Amanda
-|align="left"|
-|
-|
-|-
 |align="left"|Chigs
 |align="left"|
 |
-|
+|align="left"|
 |-
 |align="left"|Crystelle
 |align="left"|
 |
-|
-|-
-|align="left"|George
 |align="left"|
-|
-|
 |-
 |align="left"|Giuseppe
 |align="left"|
 |
-|
+|align="left"|
 |-
 |align="left"|Jürgen
 |align="left"|
 |
-|
+|align="left"|
 |-
 |align="left"|Lizzie
 |align="left"|
 |
-|
+|align="left"|
 |}
