@@ -397,7 +397,42 @@ For the signature, the bakers were tasked with making two batches of glazed or i
 |align="left"|'Roses Really Smell Like Caramel'
 |}
 
-=== Episode 8: Free-From ===
+=== Episode 8: Free-from ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+!Baker
+!Signature<br /><small>(8 Dairy Free [[Ice cream sandwich|Iced Cream Sandwiches]])</small>
+!Technical<br /><small>(8 Vegan [[Sausage roll|Sausage Rolls]])</small>
+!Showstopper<br /><small>(Gluten Free Celebration Cake)</small>
+|-style="background:#d0f0c0;"
+|align="left"|Chigs
+|align="left"|Mum's Tropical Delight
+|1st
+|align="left"|Gluten-Free Red Velvet Cake
+|-
+|align="left"|Crystelle
+|align="left"|Tahini & Miso Coffee Ice Cream Sandwiches
+|5th
+|align="left"|'My Nana's Cascading Dress' Gluten-Free Cake
+|-
+|align="left"|Giuseppe
+|align="left"|Ginger & Orange Ice Cream Sandwich
+|2nd
+|align="left"|Gluten-Free Black Forest Cake
+|-
+|align="left"|Jürgen
+|align="left"|'Meet My Favourites'
+|4th
+|align="left"|Ultimate Gluten-Free Birthday Cake
+|-style="background:pink;"
+|align="left"|Lizzie
+|align="left"|Best Thing About Walks
+|3rd
+|align="left"|Gluten-Free ‘Extraordinary' Cake
+|}
+
+=== Episode 9: Pâtisserie (Semi-final) ===
 
 {| class="wikitable" style="text-align:center;"
 |-
@@ -422,11 +457,6 @@ For the signature, the bakers were tasked with making two batches of glazed or i
 |align="left"|
 |-
 |align="left"|Jürgen
-|align="left"|
-|
-|align="left"|
-|-
-|align="left"|Lizzie
 |align="left"|
 |
 |align="left"|
