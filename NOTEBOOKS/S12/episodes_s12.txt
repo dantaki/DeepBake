@@ -358,6 +358,7 @@ For the signature, the bakers were tasked with making two batches of glazed or i
 |}
 
 === Episode 7: Caramel ===
+For the first signature challenge, the bakers were required to produce a sharing-sized decorative [[Caramel Tart]] in 2 hours and 30 minutes. The technical challenge was set by Paul where the bakers were tasked to make 10 Caramel Biscuit bars in 1 hour and 30 minutes. For the showstopper challenge, the bakers were required to make a caramel-flavored dessert with a sugar-work dome or sphere in 4 hours and 30 minutes.
 
 {| class="wikitable" style="text-align:center;"
 |-
@@ -398,41 +399,72 @@ For the signature, the bakers were tasked with making two batches of glazed or i
 |}
 
 === Episode 8: Free-from ===
+For the signature bake, the bakers were given the challenge of baking 8 dairy-free ice cream sandwiches. They were given 3 hours for the bake. For the technical challenge was to make eight identical vegan sausage rolls accompanied by a sticky red onion chutney, in two hours. In the showstopper, the bakers needed to make a Gluten-free Celebration Cake with at least two tiers. They were given four and a half hours for the bake.
 
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
-!Signature<br /><small>(8 Dairy Free [[Ice cream sandwich|Iced Cream Sandwiches]])</small>
+!Signature<br /><small>(8 Dairy-free [[Ice cream sandwich|Iced Cream Sandwiches]])</small>
 !Technical<br /><small>(8 Vegan [[Sausage roll|Sausage Rolls]])</small>
-!Showstopper<br /><small>(Gluten Free Celebration Cake)</small>
+!Showstopper<br /><small>(Gluten-free Celebration Cake)</small>
 |-style="background:#d0f0c0;"
 |align="left"|Chigs
 |align="left"|Mum's Tropical Delight
 |1st
-|align="left"|Gluten-Free Red Velvet Cake
+|align="left"|Gluten-free Red Velvet Cake
 |-
 |align="left"|Crystelle
 |align="left"|Tahini & Miso Coffee Ice Cream Sandwiches
 |5th
-|align="left"|'My Nana's Cascading Dress' Gluten-Free Cake
+|align="left"|'My Nana's Cascading Dress' Gluten-free Cake
 |-
 |align="left"|Giuseppe
 |align="left"|Ginger & Orange Ice Cream Sandwich
 |2nd
-|align="left"|Gluten-Free Black Forest Cake
+|align="left"|Gluten-free Black Forest Cake
 |-
 |align="left"|Jürgen
 |align="left"|'Meet My Favourites'
 |4th
-|align="left"|Ultimate Gluten-Free Birthday Cake
+|align="left"|Ultimate Gluten-free Birthday Cake
 |-style="background:pink;"
 |align="left"|Lizzie
 |align="left"|Best Thing About Walks
 |3rd
-|align="left"|Gluten-Free ‘Extraordinary' Cake
+|align="left"|Gluten-free ‘Extraordinary' Cake
 |}
 
 === Episode 9: Pâtisserie (Semi-final) ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+!Baker
+!Signature<br /><small>(8 Pâtisserie-Style Layered Slices)</small>
+!Technical<br /><small>([[Sablé (biscuit)|Sablé]] Breton Tart)</small>
+!Showstopper<br /><small>(Themed Banquet Display)</small>
+|-
+|align="left"|Chigs
+|align="left"|Raspberry & Chocolate Slices
+|4th
+|align="left"|'The Apple Doesn’t Fall Far from the Tree'
+|-style="background:#d0f0c0;"
+|align="left"|Crystelle
+|align="left"|Yuzu, Coconut & Black Sesame Slices
+|3rd
+|align="left"|'Tropical Wedding' Entremets
+|-
+|align="left"|Giuseppe
+|align="left"|Tiramisu Slices
+|2nd
+|align="left"|'[[Leaning Tower of Pisa]]'
+|-style="background:pink;"
+|align="left"|Jürgen
+|align="left"|Murder at the Opera
+|1st
+|align="left"|'Torii Gate in the Sea'
+|}
+
+=== Episode 10: Final ===
 
 {| class="wikitable" style="text-align:center;"
 |-
@@ -456,8 +488,4 @@ For the signature, the bakers were tasked with making two batches of glazed or i
 |
 |align="left"|
 |-
-|align="left"|Jürgen
-|align="left"|
-|
-|align="left"|
 |}
