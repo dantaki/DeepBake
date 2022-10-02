@@ -4,7 +4,7 @@
 :{{Color box|#d0f0c0|border=darkgray}} Star Baker
 :{{Color box|gold|border=darkgray}} Winner
 
-=== Episode 1: Cake ===	
+=== Episode 1: Cake ===
 
 For the signature challenge, the bakers were tasked with making 12 decorative mini rolls, in two hours. The technical challenge, set by Prue, required the bakers to make a malt loaf served with homemade butter, in two hours. In the showstopper challenge, the bakers were given four hours to create an anti-gravity illusion cake, representing a precious memory.
 
@@ -45,7 +45,7 @@ For the signature challenge, the bakers were tasked with making 12 decorative mi
 |10th
 |align="left"|'[[Jack and the Beanstalk]]'
 |-
-|align="left"|Jairzinho
+|align="left"|Jairzeno
 |align="left"|Lime & Passionfruit Mini Rolls
 |9th
 |align="left"|‘Kick the Can’ Cake
@@ -77,7 +77,7 @@ For the signature challenge, the bakers were tasked with making 12 decorative mi
 |-
 |}
 
-=== Episode 2: Biscuits ===	
+=== Episode 2: Biscuits ===
 For the signature challenge, the bakers were tasked with making 24 identical brandy snaps, in two hours. The technical challenge, set by Paul, required the bakers to make 12 sandwiched jammy biscuits, consisting of two baked biscuits, jam, and buttercream, in one hour and 45 minutes. For the showstopper challenge, the bakers needed to create a 3D biscuit replica of a favorite childhood toy. The replica needed to have an interactive element.
 {| class="wikitable" style="text-align:center;"
 |-
@@ -116,7 +116,7 @@ For the signature challenge, the bakers were tasked with making 24 identical bra
 |2nd
 |align="left"| Reversi Board Game
 |-style="background:pink;"
-|align="left"|Jairzinho
+|align="left"|Jairzeno
 |align="left"|[[Chocolate]], [[Passiflora edulis|Passion Fruit]] & [[Pineapple]] Brandy Snaps
 |9th
 |align="left"| Tall Ship
@@ -213,7 +213,7 @@ The signature challenge tasked the bakers with making a beautifully decorated [[
 !Baker
 !Signature<br /><small>([[Pavlova (cake)|Pavlova]])</small>
 !Technical<br /><small>(4 [[Sticky toffee pudding|Sticky Toffee Pudding]])</small>
-!Showstopper<br /><small>([[Sponge_cake#Joconde_cake|Joconde Imprime Dessert]])</small>
+!Showstopper<br /><small>([[Sponge cake#Joconde cake|Joconde Imprime Dessert]])</small>
 |-
 |align="left"|Amanda
 |align="left"|'Chocolate Pav-Love'
@@ -276,22 +276,22 @@ The signature challenge tasked the bakers with making two types of 12 German bis
 |align="left"|Rum. Plum & Raisin Cake
 |-
 |align="left"|Chigs
-|align="left"|Marzipan Hausefreunde & Almond Mandelhörnchen
+|align="left"|Marzipan Hausfreunde & Mandelhörnchen
 |2nd
 |align="left"|Lemon & Mixed Peel Cake
 |-
 |align="left"|Crystelle
-|align="left"|Chocolate Engelsaugen & Pistachio Heidesanda
+|align="left"|Chocolate Engelsaugen & Pistachio Heidesand
 |7th
 |align="left"|Bavarian Brioche
 |-style="background:pink;"
 |align="left"|Freya
-|align="left"|Lebkuchen & [[Zimtstern|Zimtsterne]]
+|align="left"|Lebkuchen & [[Zimtstern]]e
 |5th
 |align="left"|Upside-Down Cake
 |-
 |align="left"|George
-|align="left"|Cherry Marzipan Biscuits & Aniseed Spingerle
+|align="left"|Cherry Marzipan Biscuits & Anisseed Spingerle
 |6th
 |align="left"|Chocolate & Tahini Anniversary Cake
 |-style="background:#d0f0c0;"
@@ -306,13 +306,13 @@ The signature challenge tasked the bakers with making two types of 12 German bis
 |align="left"|Beer Soaked Cake
 |-
 |align="left"|Lizzie
-|align="left"|Mandelhörnchen & Cheeky Boys
+|align="left"|Mandelhörnchen & Spitzbuben
 |3rd
 |align="left"|Bavarian Fairy Tale
 |}
 
 === Episode 6: Pastry ===
-For the signature, the bakers were tasked with making two batches of glazed or iced Chouxnuts: 6 filled, 6 not filled. For the technical challenge, Paul required the bakers to make a large baklava. They were asked to layer Filo pastry with a pistachio and walnut filling, cut into a star design, in two hours and 45 minutes. For the showstopper, the bakers were given the intricate task of making a [[Terrine (food)|Terrine pie]], in four and a half hours. The pies needed to have an ornated pastry decoration on the outside and a neat pattern or design when cut open.
+For the signature, the bakers were tasked with making two batches of glazed or iced chouxnuts: 6 filled, 6 not filled. For the technical challenge, Paul required the bakers to make a large baklava. They were asked to layer Filo pastry with a pistachio and walnut filling, cut into a star design, in two hours and 45 minutes. For the showstopper, the bakers were given the intricate task of making a [[Terrine (food)|Terrine pie]], in four and a half hours. The pies needed to have an ornated pastry decoration on the outside and a neat pattern or design when cut open.
 
 {| class="wikitable" style="text-align:center;"
 |-
@@ -344,7 +344,7 @@ For the signature, the bakers were tasked with making two batches of glazed or i
 |align="left"|Giuseppe
 |align="left"|Bellissima Chouxnuts
 |4th
-|align="left"|'Laura’s Terrine Pie'
+|align="left"|'Laura's Terrine Pie'
 |-
 |align="left"|Jürgen
 |align="left"|'Exotic Flavour & 70's Colour'
@@ -358,12 +358,12 @@ For the signature, the bakers were tasked with making two batches of glazed or i
 |}
 
 === Episode 7: Caramel ===
-For the first signature challenge, the bakers were required to produce a sharing-sized decorative [[Caramel Tart]] in 2 hours and 30 minutes. The technical challenge was set by Paul where the bakers were tasked to make 10 Caramel Biscuit bars in 1 hour and 30 minutes. For the showstopper challenge, the bakers were required to make a caramel-flavored dessert with a sugar-work dome or sphere in 4 hours and 30 minutes.
+For the first signature challenge, the bakers were required to produce a sharing-sized decorative caramel tart in 2 hours and 30 minutes. The technical challenge was set by Paul where the bakers were tasked to make 10 caramel biscuit bars in 1 hour and 30 minutes. For the showstopper challenge, the bakers were required to make a caramel-flavored dessert with a sugar-work dome or sphere in 4 hours and 30 minutes.
 
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
-!Signature<br /><small>([[Caramel tart|Caramel Tart]])</small>
+!Signature<br /><small>(Caramel Tart)</small>
 !Technical<br /><small>(10 Caramel Biscuit Bars)</small>
 !Showstopper<br /><small>(Domed or Sphered Caramel Dessert)</small>
 |-
@@ -435,18 +435,19 @@ For the signature bake, the bakers were given the challenge of baking 8 dairy-fr
 |}
 
 === Episode 9: Pâtisserie (Semi-final) ===
+In the semifinal signature challenge, the bakers were tasked to make 8 pâtisserie-style layered slices in 3 hours. For the technical bake, set by Prue, the bakers are tasked in making a Sablé Breton Tart, consisting of a sablé breton pastry base, topped with raspberry confiture, piped with pistachio crème mousseline, filled with fresh berries and topped with glided meringue kisses and chocolate curls, all in 2 hours and 45 minutes. A themed banquet display consisting of a crafted edible centrepiece surrounded by least 12 individual entremets desserts was set as the showstopper, the bakers are given 5 hours.
 
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
-!Signature<br /><small>(8 Pâtisserie-Style Layered Slices)</small>
+!Signature<br /><small>(8 Pâtisserie-style Layered Slices)</small>
 !Technical<br /><small>([[Sablé (biscuit)|Sablé]] Breton Tart)</small>
 !Showstopper<br /><small>(Themed Banquet Display)</small>
 |-
 |align="left"|Chigs
 |align="left"|Raspberry & Chocolate Slices
 |4th
-|align="left"|'The Apple Doesn’t Fall Far from the Tree'
+|align="left"|'The Apple Doesn't Fall Far from the Tree'
 |-style="background:#d0f0c0;"
 |align="left"|Crystelle
 |align="left"|Yuzu, Coconut & Black Sesame Slices
@@ -465,27 +466,28 @@ For the signature bake, the bakers were given the challenge of baking 8 dairy-fr
 |}
 
 === Episode 10: Final ===
+The finalists were set the task of making a carrot cake in 2 hours and 15 minutes for the signature challenge. For the final technical challenge, set by Paul, the bakers were given 2 hours and 30 minutes to create 12 Belgian buns filled with sultanas and lemon curd, with only 2 instructions given. For the ultimate showstopper challenge, the bakers were tasked to make a Mad Hatter tea party display with sweet and savory afternoon tea treats, showcasing at least 4 different baking disciplines in 4 1/2 hours. The judges expect to see the madness feel of Alice in Wonderland in the bakes.
 
 {| class="wikitable" style="text-align:center;"
 |-
 !Baker
-!Signature<br /><small></small>
-!Technical<br /><small></small>
-!Showstopper<br /><small></small>
+!Signature<br /><small>([[Carrot Cake]])</small>
+!Technical<br /><small>(12 [[Belgian bun|Belgian Buns]])</small>
+!Showstopper<br /><small>([[Mad Hatter]] Tea Party Display)</small>
 |-
 |align="left"|Chigs
-|align="left"|
-|
-|align="left"|
+|align="left"|'Take Two'
+|2nd
+|align="left"|Party Treats
 |-
 |align="left"|Crystelle
-|align="left"|
-|
-|align="left"|
-|-
+|align="left"|Pistachio, Cardamom & Orange Carrot Cake
+|1st
+|align="left"|Crazy Tea Party
+|-style="background:gold;"
 |align="left"|Giuseppe
-|align="left"|
-|
-|align="left"|
+|align="left"|'Torta Camilla' 
+|3rd
+|align="left"|'What Is the Hatter with Me'
 |-
 |}
