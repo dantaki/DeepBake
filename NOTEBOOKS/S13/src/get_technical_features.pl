@@ -30,15 +30,21 @@ while(<IN>){
 		$episode = $a[0]; 
 		$episode =~ s/=== Episode //;
 	}
-	if ($_ =~ /^\|align=\"left\"/){
+	if ($_ =~ /! scope="row"/){ #($_ =~ /^\|align=\"left\"/){
 		my @row = split /\|/, $_;
 		my $iid = $row[-1];
 		$baker = $iid if (exists $iid{$iid});
+		#print "$iid\t$baker\n";
 	}
-	if ($_ =~ /^\|\d+[a-z]/ && $baker ne "0"){
+	if ($_ =~ /align="center"/ && $baker ne "0") { #{($_ =~ /^\|\d+[a-z]/ && $baker ne "0"){
 		my $tech = $_;
-		$tech =~ s/\|//;
+		my @row = split /\|/, $_;
+		$tech = $row[-1];
+		#$tech =~ s/\|//;
 		$tech =~ s/[a-z]//g;
+
+		$tech = 0 if ($_ =~ /Did not compete/); 
+
 		$episode{$season}{$episode}++; 
 		$tech{$season}{$baker}{$episode}=$tech;
 	}
