@@ -264,3 +264,56 @@ Both Abdul and Rebs did not compete due to falling ill. Consequentially, no one 
 | Sweetcorn & Cinnamon Tres Leches Cake
 |-
 |}
+
+=== Episode 5: Desserts ===
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>(8 Steamed [[Puddings]])</small>
+! scope="col"| Technical<br /><small>([[Lemon Meringue Pie]] with no recipe)</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Hidden Surprise [[Mousse]] Dessert)</small>
+|-
+! scope="row"|Abdul
+|Fig & Date Puddings
+| align="center"|2nd
+|‘A Little Galaxy Mousse Dessert’
+|- style="background:pink;"
+! scope="row" style="background:pink;"|Carole
+|'My Little Beauties'
+| align="center"|6th
+|'Strawberry Fields'
+|-
+! scope="row"|Dawn
+|'Traditional' Steamed Puddings
+| align="center"|7th
+|'Woodland'
+|-
+! scope="row"|Janusz
+| Piña Colada Puddings
+| align="center"|1st
+|‘Cake within a Cake Surprise'
+|-
+! scope="row"|Kevin
+|[[Clootie|Clootie Dumplings]]
+| align="center"|5th
+|'What The Dog Dug'
+|-
+! scope="row"|Maxy
+|Sticky Toffee Puddings
+| align="center"|3rd
+|'Sunset Surprise'
+|- style="background:#d0f0c0;"
+! scope="row" style="background:#d0f0c0;"|Sandro
+|Apple & Cherry Crumble Puddings
+| align="center"|4th
+|'It's a Mousse World'
+|-
+! scope="row"|Syabira
+|Watermelon Steamed Puddings
+| align="center"|8th
+|'Bee Positive'
+|-
+|}
+
+

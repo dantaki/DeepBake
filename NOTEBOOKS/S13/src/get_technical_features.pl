@@ -42,8 +42,10 @@ while(<IN>){
 		$tech = $row[-1];
 		#$tech =~ s/\|//;
 		$tech =~ s/[a-z]//g;
-
+		
 		$tech = 0 if ($_ =~ /Did not compete/); 
+
+		#print "$baker\t$tech\n";
 
 		$episode{$season}{$episode}++; 
 		$tech{$season}{$baker}{$episode}=$tech;
