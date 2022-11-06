@@ -4,7 +4,7 @@
 {{legend|gold|outline=darkgray|Winner}}
 
 === Episode 1: Cake ===
-For the first signature challenge, the bakers were required to bake 12 identical mini sandwich cakes in 2 hours. For the technical challenge, set by Prue, the bakers were tasked with making a six-layered [[red velvet cake]] in 2 hours, each layer sandwiched with cream cheese frosting and sprinkled with red crumbs. A 3D cake replica of a home that the bakers once lived in was set as the showstopper; the bakers were given 4 hours, the judges expecting the bake to be full of detail.
+For the first signature challenge, the bakers were required to bake 12 identical mini sandwich cakes in 2 hours. For the technical challenge, set by Paul, the bakers were tasked with making a six-layered [[red velvet cake]] in 2 hours, each layer sandwiched with cream cheese frosting and sprinkled with red crumbs. A 3D cake replica of a home that the bakers once lived in was set as the showstopper; the bakers were given 4 hours, the judges expecting the bake to be full of detail.
 
 {| class="wikitable sortable"
 |-
@@ -76,7 +76,7 @@ For the first signature challenge, the bakers were required to bake 12 identical
 |}
 
 === Episode 2: Biscuits ===
-The signature bake was 18 Decorative [[macarons]] with a twist - they must be made to appear like something else. Two hours was given for the challenge. For the technical challenge, the bakers were given 1 hour and 45 minutes to bake 12 [[Garibaldi biscuits]] with feathered chocolate on top. A 3D biscuit mask to be completed in 4 hours was the showstopper challenge.
+The signature bake was 18 Decorative [[macarons]] with a twist – they must be made to appear like something else. Two hours was given for the challenge. For the technical challenge, set by Prue, the bakers were given 1 hour and 45 minutes to bake 12 [[Garibaldi biscuits]] with feathered chocolate on top. A 3D biscuit mask to be completed in 4 hours was the showstopper challenge.
 
 {| class="wikitable sortable"
 |-
@@ -199,7 +199,7 @@ The bakers were set the task of making two sharing-size [[pizza]]s in 2 hours fo
 | [[Nasi Lemak]] Smörgåstårta
 |-
 |}
-Both Abdul and Rebs did not compete due to falling ill. Consequentially, no one was eliminated this week.
+Both Abdul and Rebs did not compete due to falling ill. Consequently, no one was eliminated this week but the following week would be a double elimination.
 
 === Episode 4: Mexican ===
 
@@ -271,7 +271,7 @@ Both Abdul and Rebs did not compete due to falling ill. Consequentially, no one 
 |-
 ! scope="col"| Baker
 ! scope="col" class="unsortable"| Signature<br /><small>(8 Steamed [[Puddings]])</small>
-! scope="col"| Technical<br /><small>([[Lemon Meringue Pie]] with no recipe)</small>
+! scope="col"| Technical<br /><small>([[Lemon Meringue Pie]])</small>
 ! scope="col" class="unsortable"| Showstopper<br /><small>(Hidden Surprise [[Mousse]] Dessert)</small>
 |-
 ! scope="row"|Abdul
@@ -316,4 +316,126 @@ Both Abdul and Rebs did not compete due to falling ill. Consequentially, no one 
 |-
 |}
 
+=== Episode 6: Halloween ===
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>([[Apple cake|Apple Cake]])</small>
+! scope="col"| Technical<br /><small>([[S'mores]])</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>(Edible Hanging Halloween [[Piñata]] Lantern)</small>
+|-
+! scope="row"|Abdul
+|Bonfire Cake
+| align="center"|7th
+|Witch's Lantern
+|- style="background:pink;"
+! scope="row" style="background:pink;"|Dawn
+|'Ukrainian Sharlotka'
+| align="center"|5th
+|'A Cat In A Fancy Hat'
+|-
+! scope="row"|Janusz
+|'Mum's Apple Cake'
+| align="center"|2nd
+|'Halloween Horror Movie Popcorn'
+|-
+! scope="row"|Kevin
+|"Apple-Bobbing'
+| align="center"|3rd
+|'Arachna-FOMO'
+|-
+! scope="row"|Maxy
+|Classic Apple & Walnut Cake
+| align="center"|6th
+|"Spoooooky'
+|-
+! scope="row"|Sandro
+|Creepy Apple [[Crumble]] Cake
+| align="center"|4th
+|'Dead Disco Ball'
+|- style="background:#d0f0c0;"
+! scope="row" style="background:#d0f0c0;"|Syabira
+|'Witch Apple'
+| align="center"|1st
+|'Itsy Bitsy Spider'
+|-
+|}
+
+=== Episode 7: Custard ===
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /><small>([[Floating island (dessert)|Floating Islands]])</small>
+! scope="col"| Technical<br /><small>([[Pistachio ice cream|Pistachio and Praline Ice Cream]])</small>
+! scope="col" class="unsortable"| Showstopper<br /><small>([[Custard]] Gateau)</small>
+|-
+! scope="row"|Abdul
+|Cherry, Orange & Pistachio Floating Islands 
+| align="center"|4th
+|Peach & Raspberry Mille-feuille 
+|-
+! scope="row"|Janusz
+|"Morning Vanilla Latte" Floating Islands
+| align="center"|5th
+|  ‘Neapolitan’ 
+|-style="background:pink;"
+!scope="row"style="background:pink;" |Kevin
+|"Everything Coming Up Roses" Floating Islands
+| align="center"|3rd
+| ‘My Honey Valentine’
+|-
+! scope="row"|Maxy
+|"Blueberry Lagoon" Floating Islands
+| align="center"|2nd
+|  ‘The Promised Land’ 
+|-
+! scope="row"|Sandro
+|Cherry, Almond & Hazelnut Floating Island
+| align="center"|1st
+| ‘Tribute to a Friend’ 
+|-style="background:#d0f0c0;"
+! scope="row"style="background:#d0f0c0;";" |Syabira
+|Mojito Floating Islands
+| align="center"|6th
+| ‘Piña Coladas Anyone?’
+|-
+|}
+
+=== Episode 8: Pastry ===
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /> <small>(Sweet [[Vol-au-vent|Vol-au-vents]])</small>
+! scope="col"| Technical<br /> <small>([[Spring roll|Spring Rolls]])</small>
+! scope="col" class="unsortable"| Showstopper<br /> <small> (3D Storybook Pie Scene)</small>
+|-
+! scope="row"|Abdul
+|Coconut & Berry Vol-au-vents
+| align="center"| 3rd
+| 'Adventures of a Pie-rate'
+|-
+! scope="row"|Janusz
+|'Strawberries & Cream' Vol-au-vents
+| align="center"| 2nd
+| 'The Very Hungry Sausage Dog'
+|- style="background:pink;"
+! scope="row" style="background:pink;" | '''Maxy'''
+|'Summertime Fine' Vol-au-vents
+| align="center"| 5th
+| 'Spicy Twinkling Stars'
+|-
+! scope="row"|Sandro
+|'Key-Lime' Vol-au-vents
+| align="center"| 1st
+| Caterpillar Pie Scene
+|- style="background:#d0f0c0;"
+! scope="row" style="background:#d0f0c0;" | Syabira
+|'Citrus Dreams' Vol-au-vents
+| align="center"| 4th
+| 'Jack & the Beanstalk'
+|-
+|}
 
