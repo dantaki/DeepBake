@@ -33,6 +33,7 @@ while(<IN>){
 	if ($_ =~ /! scope="row"/){ #($_ =~ /^\|align=\"left\"/){
 		my @row = split /\|/, $_;
 		my $iid = $row[-1];
+		$iid =~ s/[ '\.]//g;
 		$baker = $iid if (exists $iid{$iid});
 		#print "$iid\t$baker\n";
 	}
@@ -44,8 +45,6 @@ while(<IN>){
 		$tech =~ s/[a-z]//g;
 		
 		$tech = 0 if ($_ =~ /Did not compete/); 
-
-		#print "$baker\t$tech\n";
 
 		$episode{$season}{$episode}++; 
 		$tech{$season}{$baker}{$episode}=$tech;
@@ -73,11 +72,11 @@ foreach my $iid (sort keys %{$tech{$season}}) {
 	
 	foreach my $epi (sort {$a<=>$b} keys %stats){ 
 		#my $len = scalar(@{$stats{$epi}});
-		#print "[$iid]\t$epi\t$len\n"; 
 		my $mean = mean($stats{$epi});
 		my $med = median($stats{$epi});
 		my $last = ${$stats{$epi}}[-1];
 		$mean =~ s/,//g; $med =~ s/,//g;
+
 		print OUT "$season\t$iid\t$iid{$iid}{$season}\t$epi\t$mean\t$med\t$last\t$place{$iid}{$season}\n"; 
 	}
 }

@@ -408,7 +408,7 @@ Both Abdul and Rebs did not compete due to falling ill. Consequently, no one was
 {| class="wikitable sortable"
 |-
 ! scope="col"| Baker
-! scope="col" class="unsortable"| Signature<br /> <small>(Sweet [[Vol-au-vent|Vol-au-vents]])</small>
+! scope="col" class="unsortable"| Signature<br /> <small>(12 Sweet [[Vol-au-vent|Vol-au-vents]])</small>
 ! scope="col"| Technical<br /> <small>([[Spring roll|Spring Rolls]])</small>
 ! scope="col" class="unsortable"| Showstopper<br /> <small> (3D Storybook Pie Scene)</small>
 |-
@@ -439,3 +439,34 @@ Both Abdul and Rebs did not compete due to falling ill. Consequently, no one was
 |-
 |}
 
+=== Episode 9: Pâtisserie (Semi-final)===
+
+{| class="wikitable sortable"
+|-
+! scope="col"| Baker
+! scope="col" class="unsortable"| Signature<br /> <small>(Mini [[Charlotte (cake)|Charlottes]])</small>
+! scope="col"| Technical<br /> <small>(Chocolate, Hazelnut and Raspberry Vertical Tarts)</small>
+! scope="col" class="unsortable"| Showstopper<br /> <small>(Krokan)</small>
+
+|-style="background:#d0f0c0;"
+! scope="row" style="background:#d0f0c0;"|Abdul
+|'Pistachio Tiramisu' Mini Charlottes
+| align="center"|2nd
+|'To the Stars'
+|- style="background:pink;"
+! scope="row" style="background:pink;"| Janusz
+|'Plums in Chocolate' Mini Charlottes
+| align="center"|3rd
+|'Brighton Pride'
+|-
+! scope="row"|Sandro
+|'Caramel Nutty' Mini Charlottes
+| align="center"|4th
+|'Where it Started and How it's Going'
+|-
+! scope="row"|Syabira
+|'Peanut & Berries' Mini Charlottes
+| align="center"|1st
+|'The DNA in You'
+|-
+|}
